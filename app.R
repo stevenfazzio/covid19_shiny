@@ -99,6 +99,7 @@ server <- function(input, output, session) {
                 type = 'predicted',
                 num_people = exp(log_num_people)
             ) %>%
+            filter(num_people >= 1) %>% 
             select(type, date, statistic, num_people)
         
         df <- bind_rows(
