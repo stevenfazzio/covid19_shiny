@@ -35,10 +35,12 @@ file_reader <- function(filename, path) {
     )
 }
 
-all_data <- list.files(path) %>% 
+raw_data <- list.files(path) %>% 
   str_subset('.csv') %>% 
   map(file_reader, path = path) %>% 
-  bind_rows() %>% 
+  bind_rows()
+
+all_data <- raw_data %>% 
   replace_na(list(confirmed = 0, deaths = 0, recovered = 0)) %>% 
   mutate(active = confirmed - (deaths + recovered)) %>% 
   pivot_longer(-(1:3), names_to = 'statistic', values_to = 'num_people') %>% 
@@ -56,7 +58,9 @@ all_data <- list.files(path) %>%
       TRUE ~ state
     ),
     state = str_replace(state, '.*, ', '')
-  ) 
+  ) %>% 
+  left_join(state_abb, by = c('state' = 'state_abb')) %>% 
+  mutate(state = coalesce(state_name, state))
 
 by_state <- all_data %>% 
   filter(!is.na(state)) %>% 
