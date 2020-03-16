@@ -32,6 +32,7 @@ ui <- function(request) {
         
         # Application title
         titlePanel("COVID-19 Forecasting"),
+        p("Note: Developer is ", strong("not"), " an epidemiologist!!!"),
         
         # Sidebar with a slider input for number of bins 
         sidebarLayout(
