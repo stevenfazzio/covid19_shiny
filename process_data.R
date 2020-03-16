@@ -54,6 +54,7 @@ all_data <- raw_data %>%
     ),
     state = case_when(
       state == 'Virgin Islands, U.S.' ~ 'Virgin Islands',
+      state == 'France' ~ NA_character_,
       str_detect(state, 'Princess') ~ 'Cruise Ship',
       TRUE ~ state
     ),

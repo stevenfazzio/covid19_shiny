@@ -69,9 +69,8 @@ ui <- function(request) {
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
-
-    output$forecastPlot <- renderPlot({
-        
+    
+    plot_data <- reactive({
         actual_data <- all_data %>% 
             filter(
                 region == input$region,
@@ -107,10 +106,14 @@ server <- function(input, output, session) {
             predicted_data
         ) %>% 
             filter(statistic %in% input$statistics) 
+    })
+
+    output$forecastPlot <- renderPlot({
         
-        num_breaks <- ceiling(log10(max(df$num_people))) - floor(log10(min(df$num_people))) + 1
+        num_breaks <- ceiling(log10(max(plot_data()$num_people))) - 
+            floor(log10(min(plot_data()$num_people))) + 1
         
-       df %>% 
+        plot_data() %>% 
             ggplot(aes(x = date, y = num_people, color = statistic)) +
             geom_line(aes(linetype = type)) +
             scale_y_log10(label = label_comma(accuracy = 1), breaks = breaks_log(num_breaks)) +
