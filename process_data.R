@@ -80,7 +80,7 @@ non_china <- all_data %>%
   summarise(num_people = sum(num_people))
 
 global <- all_data %>% 
-  mutate(region = 'Global (Internationl)') %>% 
+  mutate(region = 'Global (International)') %>% 
   group_by(region_type = 'international', region, date, statistic) %>% 
   summarise(num_people = sum(num_people))
 
