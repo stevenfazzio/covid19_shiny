@@ -11,6 +11,10 @@ state,"Alabama, US (State/Province)",2020-03-15,active,12
 state,"Alabama, US (State/Province)",2020-03-15,confirmed,12
 state,"Alabama, US (State/Province)",2020-03-15,deaths,0
 state,"Alabama, US (State/Province)",2020-03-15,recovered,0
+state,"Alabama, US (State/Province)",2020-03-16,active,29
+state,"Alabama, US (State/Province)",2020-03-16,confirmed,29
+state,"Alabama, US (State/Province)",2020-03-16,deaths,0
+state,"Alabama, US (State/Province)",2020-03-16,recovered,0
 state,"Alaska, US (State/Province)",2020-03-10,active,0
 state,"Alaska, US (State/Province)",2020-03-10,confirmed,0
 state,"Alaska, US (State/Province)",2020-03-10,deaths,0
@@ -31,6 +35,10 @@ state,"Alaska, US (State/Province)",2020-03-15,active,1
 state,"Alaska, US (State/Province)",2020-03-15,confirmed,1
 state,"Alaska, US (State/Province)",2020-03-15,deaths,0
 state,"Alaska, US (State/Province)",2020-03-15,recovered,0
+state,"Alaska, US (State/Province)",2020-03-16,active,1
+state,"Alaska, US (State/Province)",2020-03-16,confirmed,1
+state,"Alaska, US (State/Province)",2020-03-16,deaths,0
+state,"Alaska, US (State/Province)",2020-03-16,recovered,0
 state,"Alberta, Canada (State/Province)",2020-03-06,active,1
 state,"Alberta, Canada (State/Province)",2020-03-06,confirmed,1
 state,"Alberta, Canada (State/Province)",2020-03-06,deaths,0
@@ -71,6 +79,10 @@ state,"Alberta, Canada (State/Province)",2020-03-15,active,39
 state,"Alberta, Canada (State/Province)",2020-03-15,confirmed,39
 state,"Alberta, Canada (State/Province)",2020-03-15,deaths,0
 state,"Alberta, Canada (State/Province)",2020-03-15,recovered,0
+state,"Alberta, Canada (State/Province)",2020-03-16,active,56
+state,"Alberta, Canada (State/Province)",2020-03-16,confirmed,56
+state,"Alberta, Canada (State/Province)",2020-03-16,deaths,0
+state,"Alberta, Canada (State/Province)",2020-03-16,recovered,0
 state,"Anhui, China (State/Province)",2020-01-22,active,1
 state,"Anhui, China (State/Province)",2020-01-22,confirmed,1
 state,"Anhui, China (State/Province)",2020-01-22,deaths,0
@@ -287,6 +299,10 @@ state,"Anhui, China (State/Province)",2020-03-15,active,0
 state,"Anhui, China (State/Province)",2020-03-15,confirmed,990
 state,"Anhui, China (State/Province)",2020-03-15,deaths,6
 state,"Anhui, China (State/Province)",2020-03-15,recovered,984
+state,"Anhui, China (State/Province)",2020-03-16,active,0
+state,"Anhui, China (State/Province)",2020-03-16,confirmed,990
+state,"Anhui, China (State/Province)",2020-03-16,deaths,6
+state,"Anhui, China (State/Province)",2020-03-16,recovered,984
 state,"Arizona, US (State/Province)",2020-01-26,active,1
 state,"Arizona, US (State/Province)",2020-01-26,confirmed,1
 state,"Arizona, US (State/Province)",2020-01-26,deaths,0
@@ -487,6 +503,10 @@ state,"Arizona, US (State/Province)",2020-03-15,active,12
 state,"Arizona, US (State/Province)",2020-03-15,confirmed,13
 state,"Arizona, US (State/Province)",2020-03-15,deaths,0
 state,"Arizona, US (State/Province)",2020-03-15,recovered,1
+state,"Arizona, US (State/Province)",2020-03-16,active,17
+state,"Arizona, US (State/Province)",2020-03-16,confirmed,18
+state,"Arizona, US (State/Province)",2020-03-16,deaths,0
+state,"Arizona, US (State/Province)",2020-03-16,recovered,1
 state,"Arkansas, US (State/Province)",2020-03-10,active,0
 state,"Arkansas, US (State/Province)",2020-03-10,confirmed,0
 state,"Arkansas, US (State/Province)",2020-03-10,deaths,0
@@ -511,6 +531,10 @@ state,"Arkansas, US (State/Province)",2020-03-15,active,16
 state,"Arkansas, US (State/Province)",2020-03-15,confirmed,16
 state,"Arkansas, US (State/Province)",2020-03-15,deaths,0
 state,"Arkansas, US (State/Province)",2020-03-15,recovered,0
+state,"Arkansas, US (State/Province)",2020-03-16,active,22
+state,"Arkansas, US (State/Province)",2020-03-16,confirmed,22
+state,"Arkansas, US (State/Province)",2020-03-16,deaths,0
+state,"Arkansas, US (State/Province)",2020-03-16,recovered,0
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-13,active,1
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-13,confirmed,1
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-13,deaths,0
@@ -523,6 +547,10 @@ state,"Australian Capital Territory, Australia (State/Province)",2020-03-15,acti
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-15,confirmed,1
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-15,deaths,0
 state,"Australian Capital Territory, Australia (State/Province)",2020-03-15,recovered,0
+state,"Australian Capital Territory, Australia (State/Province)",2020-03-16,active,2
+state,"Australian Capital Territory, Australia (State/Province)",2020-03-16,confirmed,2
+state,"Australian Capital Territory, Australia (State/Province)",2020-03-16,deaths,0
+state,"Australian Capital Territory, Australia (State/Province)",2020-03-16,recovered,0
 state,"Bavaria, Germany (State/Province)",2020-01-28,active,4
 state,"Bavaria, Germany (State/Province)",2020-01-28,confirmed,4
 state,"Bavaria, Germany (State/Province)",2020-01-28,deaths,0
@@ -755,6 +783,10 @@ state,"Beijing, China (State/Province)",2020-03-15,active,81
 state,"Beijing, China (State/Province)",2020-03-15,confirmed,442
 state,"Beijing, China (State/Province)",2020-03-15,deaths,8
 state,"Beijing, China (State/Province)",2020-03-15,recovered,353
+state,"Beijing, China (State/Province)",2020-03-16,active,84
+state,"Beijing, China (State/Province)",2020-03-16,confirmed,452
+state,"Beijing, China (State/Province)",2020-03-16,deaths,8
+state,"Beijing, China (State/Province)",2020-03-16,recovered,360
 state,"British Columbia, Canada (State/Province)",2020-01-28,active,1
 state,"British Columbia, Canada (State/Province)",2020-01-28,confirmed,1
 state,"British Columbia, Canada (State/Province)",2020-01-28,deaths,0
@@ -947,6 +979,10 @@ state,"British Columbia, Canada (State/Province)",2020-03-15,active,68
 state,"British Columbia, Canada (State/Province)",2020-03-15,confirmed,73
 state,"British Columbia, Canada (State/Province)",2020-03-15,deaths,1
 state,"British Columbia, Canada (State/Province)",2020-03-15,recovered,4
+state,"British Columbia, Canada (State/Province)",2020-03-16,active,95
+state,"British Columbia, Canada (State/Province)",2020-03-16,confirmed,103
+state,"British Columbia, Canada (State/Province)",2020-03-16,deaths,4
+state,"British Columbia, Canada (State/Province)",2020-03-16,recovered,4
 state,"California, US (State/Province)",2020-01-26,active,2
 state,"California, US (State/Province)",2020-01-26,confirmed,2
 state,"California, US (State/Province)",2020-01-26,deaths,0
@@ -1147,6 +1183,14 @@ state,"California, US (State/Province)",2020-03-15,active,414
 state,"California, US (State/Province)",2020-03-15,confirmed,426
 state,"California, US (State/Province)",2020-03-15,deaths,6
 state,"California, US (State/Province)",2020-03-15,recovered,6
+state,"California, US (State/Province)",2020-03-16,active,544
+state,"California, US (State/Province)",2020-03-16,confirmed,557
+state,"California, US (State/Province)",2020-03-16,deaths,7
+state,"California, US (State/Province)",2020-03-16,recovered,6
+state,"Cayman Islands, United Kingdom (State/Province)",2020-03-16,active,0
+state,"Cayman Islands, United Kingdom (State/Province)",2020-03-16,confirmed,1
+state,"Cayman Islands, United Kingdom (State/Province)",2020-03-16,deaths,1
+state,"Cayman Islands, United Kingdom (State/Province)",2020-03-16,recovered,0
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-11,active,2
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-11,confirmed,2
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-11,deaths,0
@@ -1167,6 +1211,10 @@ state,"Channel Islands, United Kingdom (State/Province)",2020-03-15,active,3
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-15,confirmed,3
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-15,deaths,0
 state,"Channel Islands, United Kingdom (State/Province)",2020-03-15,recovered,0
+state,"Channel Islands, United Kingdom (State/Province)",2020-03-16,active,6
+state,"Channel Islands, United Kingdom (State/Province)",2020-03-16,confirmed,6
+state,"Channel Islands, United Kingdom (State/Province)",2020-03-16,deaths,0
+state,"Channel Islands, United Kingdom (State/Province)",2020-03-16,recovered,0
 state,"Chicago, US (State/Province)",2020-01-24,active,1
 state,"Chicago, US (State/Province)",2020-01-24,confirmed,1
 state,"Chicago, US (State/Province)",2020-01-24,deaths,0
@@ -1387,6 +1435,10 @@ state,"Chongqing, China (State/Province)",2020-03-15,active,0
 state,"Chongqing, China (State/Province)",2020-03-15,confirmed,576
 state,"Chongqing, China (State/Province)",2020-03-15,deaths,6
 state,"Chongqing, China (State/Province)",2020-03-15,recovered,570
+state,"Chongqing, China (State/Province)",2020-03-16,active,0
+state,"Chongqing, China (State/Province)",2020-03-16,confirmed,576
+state,"Chongqing, China (State/Province)",2020-03-16,deaths,6
+state,"Chongqing, China (State/Province)",2020-03-16,recovered,570
 state,"Colorado, US (State/Province)",2020-03-06,active,4
 state,"Colorado, US (State/Province)",2020-03-06,confirmed,4
 state,"Colorado, US (State/Province)",2020-03-06,deaths,0
@@ -1427,6 +1479,10 @@ state,"Colorado, US (State/Province)",2020-03-15,active,130
 state,"Colorado, US (State/Province)",2020-03-15,confirmed,131
 state,"Colorado, US (State/Province)",2020-03-15,deaths,1
 state,"Colorado, US (State/Province)",2020-03-15,recovered,0
+state,"Colorado, US (State/Province)",2020-03-16,active,159
+state,"Colorado, US (State/Province)",2020-03-16,confirmed,160
+state,"Colorado, US (State/Province)",2020-03-16,deaths,1
+state,"Colorado, US (State/Province)",2020-03-16,recovered,0
 state,"Connecticut, US (State/Province)",2020-03-07,active,2
 state,"Connecticut, US (State/Province)",2020-03-07,confirmed,2
 state,"Connecticut, US (State/Province)",2020-03-07,deaths,0
@@ -1463,6 +1519,10 @@ state,"Connecticut, US (State/Province)",2020-03-15,active,24
 state,"Connecticut, US (State/Province)",2020-03-15,confirmed,24
 state,"Connecticut, US (State/Province)",2020-03-15,deaths,0
 state,"Connecticut, US (State/Province)",2020-03-15,recovered,0
+state,"Connecticut, US (State/Province)",2020-03-16,active,30
+state,"Connecticut, US (State/Province)",2020-03-16,confirmed,30
+state,"Connecticut, US (State/Province)",2020-03-16,deaths,0
+state,"Connecticut, US (State/Province)",2020-03-16,recovered,0
 state,"Cruise Ship, Australia (State/Province)",2020-02-21,active,4
 state,"Cruise Ship, Australia (State/Province)",2020-02-21,confirmed,4
 state,"Cruise Ship, Australia (State/Province)",2020-02-21,deaths,0
@@ -1559,10 +1619,18 @@ state,"Cruise Ship, Australia (State/Province)",2020-03-15,active,0
 state,"Cruise Ship, Australia (State/Province)",2020-03-15,confirmed,0
 state,"Cruise Ship, Australia (State/Province)",2020-03-15,deaths,0
 state,"Cruise Ship, Australia (State/Province)",2020-03-15,recovered,0
+state,"Cruise Ship, Australia (State/Province)",2020-03-16,active,0
+state,"Cruise Ship, Australia (State/Province)",2020-03-16,confirmed,0
+state,"Cruise Ship, Australia (State/Province)",2020-03-16,deaths,0
+state,"Cruise Ship, Australia (State/Province)",2020-03-16,recovered,0
 state,"Cruise Ship, Canada (State/Province)",2020-03-13,active,2
 state,"Cruise Ship, Canada (State/Province)",2020-03-13,confirmed,2
 state,"Cruise Ship, Canada (State/Province)",2020-03-13,deaths,0
 state,"Cruise Ship, Canada (State/Province)",2020-03-13,recovered,0
+state,"Cruise Ship, Canada (State/Province)",2020-03-16,active,2
+state,"Cruise Ship, Canada (State/Province)",2020-03-16,confirmed,2
+state,"Cruise Ship, Canada (State/Province)",2020-03-16,deaths,0
+state,"Cruise Ship, Canada (State/Province)",2020-03-16,recovered,0
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-11,active,364
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-11,confirmed,696
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-11,deaths,7
@@ -1583,6 +1651,10 @@ state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-15,active,364
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-15,confirmed,696
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-15,deaths,7
 state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-15,recovered,325
+state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-16,active,364
+state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-16,confirmed,696
+state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-16,deaths,7
+state,"Cruise Ship, Cruise Ship (State/Province)",2020-03-16,recovered,325
 state,"Cruise Ship, Israel (State/Province)",2020-02-21,active,1
 state,"Cruise Ship, Israel (State/Province)",2020-02-21,confirmed,1
 state,"Cruise Ship, Israel (State/Province)",2020-02-21,deaths,0
@@ -1827,6 +1899,14 @@ state,"Cruise Ship, US (State/Province)",2020-03-15,active,67
 state,"Cruise Ship, US (State/Province)",2020-03-15,confirmed,67
 state,"Cruise Ship, US (State/Province)",2020-03-15,deaths,0
 state,"Cruise Ship, US (State/Province)",2020-03-15,recovered,0
+state,"Cruise Ship, US (State/Province)",2020-03-16,active,67
+state,"Cruise Ship, US (State/Province)",2020-03-16,confirmed,67
+state,"Cruise Ship, US (State/Province)",2020-03-16,deaths,0
+state,"Cruise Ship, US (State/Province)",2020-03-16,recovered,0
+state,"Curacao, Netherlands (State/Province)",2020-03-16,active,1
+state,"Curacao, Netherlands (State/Province)",2020-03-16,confirmed,1
+state,"Curacao, Netherlands (State/Province)",2020-03-16,deaths,0
+state,"Curacao, Netherlands (State/Province)",2020-03-16,recovered,0
 state,"D.C., US (State/Province)",2020-03-08,active,2
 state,"D.C., US (State/Province)",2020-03-08,confirmed,2
 state,"D.C., US (State/Province)",2020-03-08,deaths,0
@@ -1859,6 +1939,10 @@ state,"Delaware, US (State/Province)",2020-03-15,active,7
 state,"Delaware, US (State/Province)",2020-03-15,confirmed,7
 state,"Delaware, US (State/Province)",2020-03-15,deaths,0
 state,"Delaware, US (State/Province)",2020-03-15,recovered,0
+state,"Delaware, US (State/Province)",2020-03-16,active,8
+state,"Delaware, US (State/Province)",2020-03-16,confirmed,8
+state,"Delaware, US (State/Province)",2020-03-16,deaths,0
+state,"Delaware, US (State/Province)",2020-03-16,recovered,0
 state,"Denmark, Denmark (State/Province)",2020-03-11,active,441
 state,"Denmark, Denmark (State/Province)",2020-03-11,confirmed,442
 state,"Denmark, Denmark (State/Province)",2020-03-11,deaths,0
@@ -1879,6 +1963,10 @@ state,"Denmark, Denmark (State/Province)",2020-03-15,active,861
 state,"Denmark, Denmark (State/Province)",2020-03-15,confirmed,864
 state,"Denmark, Denmark (State/Province)",2020-03-15,deaths,2
 state,"Denmark, Denmark (State/Province)",2020-03-15,recovered,1
+state,"Denmark, Denmark (State/Province)",2020-03-16,active,910
+state,"Denmark, Denmark (State/Province)",2020-03-16,confirmed,914
+state,"Denmark, Denmark (State/Province)",2020-03-16,deaths,3
+state,"Denmark, Denmark (State/Province)",2020-03-16,recovered,1
 state,"District of Columbia, US (State/Province)",2020-03-10,active,5
 state,"District of Columbia, US (State/Province)",2020-03-10,confirmed,5
 state,"District of Columbia, US (State/Province)",2020-03-10,deaths,0
@@ -1903,6 +1991,10 @@ state,"District of Columbia, US (State/Province)",2020-03-15,active,16
 state,"District of Columbia, US (State/Province)",2020-03-15,confirmed,16
 state,"District of Columbia, US (State/Province)",2020-03-15,deaths,0
 state,"District of Columbia, US (State/Province)",2020-03-15,recovered,0
+state,"District of Columbia, US (State/Province)",2020-03-16,active,22
+state,"District of Columbia, US (State/Province)",2020-03-16,confirmed,22
+state,"District of Columbia, US (State/Province)",2020-03-16,deaths,0
+state,"District of Columbia, US (State/Province)",2020-03-16,recovered,0
 state,"Faroe Islands, Denmark (State/Province)",2020-03-11,active,2
 state,"Faroe Islands, Denmark (State/Province)",2020-03-11,confirmed,2
 state,"Faroe Islands, Denmark (State/Province)",2020-03-11,deaths,0
@@ -1923,6 +2015,10 @@ state,"Faroe Islands, Denmark (State/Province)",2020-03-15,active,11
 state,"Faroe Islands, Denmark (State/Province)",2020-03-15,confirmed,11
 state,"Faroe Islands, Denmark (State/Province)",2020-03-15,deaths,0
 state,"Faroe Islands, Denmark (State/Province)",2020-03-15,recovered,0
+state,"Faroe Islands, Denmark (State/Province)",2020-03-16,active,18
+state,"Faroe Islands, Denmark (State/Province)",2020-03-16,confirmed,18
+state,"Faroe Islands, Denmark (State/Province)",2020-03-16,deaths,0
+state,"Faroe Islands, Denmark (State/Province)",2020-03-16,recovered,0
 state,"Fench Guiana, France (State/Province)",2020-03-14,active,5
 state,"Fench Guiana, France (State/Province)",2020-03-14,confirmed,5
 state,"Fench Guiana, France (State/Province)",2020-03-14,deaths,0
@@ -1983,10 +2079,18 @@ state,"Florida, US (State/Province)",2020-03-15,active,111
 state,"Florida, US (State/Province)",2020-03-15,confirmed,115
 state,"Florida, US (State/Province)",2020-03-15,deaths,4
 state,"Florida, US (State/Province)",2020-03-15,recovered,0
+state,"Florida, US (State/Province)",2020-03-16,active,150
+state,"Florida, US (State/Province)",2020-03-16,confirmed,155
+state,"Florida, US (State/Province)",2020-03-16,deaths,5
+state,"Florida, US (State/Province)",2020-03-16,recovered,0
 state,"French Guiana, France (State/Province)",2020-03-15,active,7
 state,"French Guiana, France (State/Province)",2020-03-15,confirmed,7
 state,"French Guiana, France (State/Province)",2020-03-15,deaths,0
 state,"French Guiana, France (State/Province)",2020-03-15,recovered,0
+state,"French Guiana, France (State/Province)",2020-03-16,active,5
+state,"French Guiana, France (State/Province)",2020-03-16,confirmed,5
+state,"French Guiana, France (State/Province)",2020-03-16,deaths,0
+state,"French Guiana, France (State/Province)",2020-03-16,recovered,0
 state,"French Polynesia, France (State/Province)",2020-03-13,active,3
 state,"French Polynesia, France (State/Province)",2020-03-13,confirmed,3
 state,"French Polynesia, France (State/Province)",2020-03-13,deaths,0
@@ -1999,6 +2103,10 @@ state,"French Polynesia, France (State/Province)",2020-03-15,active,3
 state,"French Polynesia, France (State/Province)",2020-03-15,confirmed,3
 state,"French Polynesia, France (State/Province)",2020-03-15,deaths,0
 state,"French Polynesia, France (State/Province)",2020-03-15,recovered,0
+state,"French Polynesia, France (State/Province)",2020-03-16,active,3
+state,"French Polynesia, France (State/Province)",2020-03-16,confirmed,3
+state,"French Polynesia, France (State/Province)",2020-03-16,deaths,0
+state,"French Polynesia, France (State/Province)",2020-03-16,recovered,0
 state,"Fujian, China (State/Province)",2020-01-22,active,1
 state,"Fujian, China (State/Province)",2020-01-22,confirmed,1
 state,"Fujian, China (State/Province)",2020-01-22,deaths,0
@@ -2215,6 +2323,10 @@ state,"Fujian, China (State/Province)",2020-03-15,active,0
 state,"Fujian, China (State/Province)",2020-03-15,confirmed,296
 state,"Fujian, China (State/Province)",2020-03-15,deaths,1
 state,"Fujian, China (State/Province)",2020-03-15,recovered,295
+state,"Fujian, China (State/Province)",2020-03-16,active,0
+state,"Fujian, China (State/Province)",2020-03-16,confirmed,296
+state,"Fujian, China (State/Province)",2020-03-16,deaths,1
+state,"Fujian, China (State/Province)",2020-03-16,recovered,295
 state,"Gansu, China (State/Province)",2020-01-22,active,0
 state,"Gansu, China (State/Province)",2020-01-22,confirmed,0
 state,"Gansu, China (State/Province)",2020-01-22,deaths,0
@@ -2431,6 +2543,10 @@ state,"Gansu, China (State/Province)",2020-03-15,active,40
 state,"Gansu, China (State/Province)",2020-03-15,confirmed,133
 state,"Gansu, China (State/Province)",2020-03-15,deaths,2
 state,"Gansu, China (State/Province)",2020-03-15,recovered,91
+state,"Gansu, China (State/Province)",2020-03-16,active,40
+state,"Gansu, China (State/Province)",2020-03-16,confirmed,133
+state,"Gansu, China (State/Province)",2020-03-16,deaths,2
+state,"Gansu, China (State/Province)",2020-03-16,recovered,91
 state,"Georgia, US (State/Province)",2020-03-03,active,2
 state,"Georgia, US (State/Province)",2020-03-03,confirmed,2
 state,"Georgia, US (State/Province)",2020-03-03,deaths,0
@@ -2483,6 +2599,10 @@ state,"Georgia, US (State/Province)",2020-03-15,active,98
 state,"Georgia, US (State/Province)",2020-03-15,confirmed,99
 state,"Georgia, US (State/Province)",2020-03-15,deaths,1
 state,"Georgia, US (State/Province)",2020-03-15,recovered,0
+state,"Georgia, US (State/Province)",2020-03-16,active,120
+state,"Georgia, US (State/Province)",2020-03-16,confirmed,121
+state,"Georgia, US (State/Province)",2020-03-16,deaths,1
+state,"Georgia, US (State/Province)",2020-03-16,recovered,0
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-11,active,0
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-11,confirmed,1
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-11,deaths,0
@@ -2503,10 +2623,22 @@ state,"Gibraltar, United Kingdom (State/Province)",2020-03-15,active,0
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-15,confirmed,1
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-15,deaths,0
 state,"Gibraltar, United Kingdom (State/Province)",2020-03-15,recovered,1
+state,"Gibraltar, United Kingdom (State/Province)",2020-03-16,active,0
+state,"Gibraltar, United Kingdom (State/Province)",2020-03-16,confirmed,1
+state,"Gibraltar, United Kingdom (State/Province)",2020-03-16,deaths,0
+state,"Gibraltar, United Kingdom (State/Province)",2020-03-16,recovered,1
+state,"Guadeloupe, France (State/Province)",2020-03-16,active,3
+state,"Guadeloupe, France (State/Province)",2020-03-16,confirmed,3
+state,"Guadeloupe, France (State/Province)",2020-03-16,deaths,0
+state,"Guadeloupe, France (State/Province)",2020-03-16,recovered,0
 state,"Guam, US (State/Province)",2020-03-15,active,3
 state,"Guam, US (State/Province)",2020-03-15,confirmed,3
 state,"Guam, US (State/Province)",2020-03-15,deaths,0
 state,"Guam, US (State/Province)",2020-03-15,recovered,0
+state,"Guam, US (State/Province)",2020-03-16,active,3
+state,"Guam, US (State/Province)",2020-03-16,confirmed,3
+state,"Guam, US (State/Province)",2020-03-16,deaths,0
+state,"Guam, US (State/Province)",2020-03-16,recovered,0
 state,"Guangdong, China (State/Province)",2020-01-22,active,26
 state,"Guangdong, China (State/Province)",2020-01-22,confirmed,26
 state,"Guangdong, China (State/Province)",2020-01-22,deaths,0
@@ -2723,6 +2855,10 @@ state,"Guangdong, China (State/Province)",2020-03-15,active,48
 state,"Guangdong, China (State/Province)",2020-03-15,confirmed,1360
 state,"Guangdong, China (State/Province)",2020-03-15,deaths,8
 state,"Guangdong, China (State/Province)",2020-03-15,recovered,1304
+state,"Guangdong, China (State/Province)",2020-03-16,active,47
+state,"Guangdong, China (State/Province)",2020-03-16,confirmed,1361
+state,"Guangdong, China (State/Province)",2020-03-16,deaths,8
+state,"Guangdong, China (State/Province)",2020-03-16,recovered,1306
 state,"Guangxi, China (State/Province)",2020-01-22,active,2
 state,"Guangxi, China (State/Province)",2020-01-22,confirmed,2
 state,"Guangxi, China (State/Province)",2020-01-22,deaths,0
@@ -2939,6 +3075,10 @@ state,"Guangxi, China (State/Province)",2020-03-15,active,7
 state,"Guangxi, China (State/Province)",2020-03-15,confirmed,252
 state,"Guangxi, China (State/Province)",2020-03-15,deaths,2
 state,"Guangxi, China (State/Province)",2020-03-15,recovered,243
+state,"Guangxi, China (State/Province)",2020-03-16,active,2
+state,"Guangxi, China (State/Province)",2020-03-16,confirmed,252
+state,"Guangxi, China (State/Province)",2020-03-16,deaths,2
+state,"Guangxi, China (State/Province)",2020-03-16,recovered,248
 state,"Guizhou, China (State/Province)",2020-01-22,active,1
 state,"Guizhou, China (State/Province)",2020-01-22,confirmed,1
 state,"Guizhou, China (State/Province)",2020-01-22,deaths,0
@@ -3155,6 +3295,10 @@ state,"Guizhou, China (State/Province)",2020-03-15,active,1
 state,"Guizhou, China (State/Province)",2020-03-15,confirmed,146
 state,"Guizhou, China (State/Province)",2020-03-15,deaths,2
 state,"Guizhou, China (State/Province)",2020-03-15,recovered,143
+state,"Guizhou, China (State/Province)",2020-03-16,active,0
+state,"Guizhou, China (State/Province)",2020-03-16,confirmed,146
+state,"Guizhou, China (State/Province)",2020-03-16,deaths,2
+state,"Guizhou, China (State/Province)",2020-03-16,recovered,144
 state,"Hainan, China (State/Province)",2020-01-22,active,4
 state,"Hainan, China (State/Province)",2020-01-22,confirmed,4
 state,"Hainan, China (State/Province)",2020-01-22,deaths,0
@@ -3371,6 +3515,10 @@ state,"Hainan, China (State/Province)",2020-03-15,active,2
 state,"Hainan, China (State/Province)",2020-03-15,confirmed,168
 state,"Hainan, China (State/Province)",2020-03-15,deaths,6
 state,"Hainan, China (State/Province)",2020-03-15,recovered,160
+state,"Hainan, China (State/Province)",2020-03-16,active,1
+state,"Hainan, China (State/Province)",2020-03-16,confirmed,168
+state,"Hainan, China (State/Province)",2020-03-16,deaths,6
+state,"Hainan, China (State/Province)",2020-03-16,recovered,161
 state,"Hawaii, US (State/Province)",2020-03-07,active,1
 state,"Hawaii, US (State/Province)",2020-03-07,confirmed,1
 state,"Hawaii, US (State/Province)",2020-03-07,deaths,0
@@ -3407,6 +3555,10 @@ state,"Hawaii, US (State/Province)",2020-03-15,active,6
 state,"Hawaii, US (State/Province)",2020-03-15,confirmed,6
 state,"Hawaii, US (State/Province)",2020-03-15,deaths,0
 state,"Hawaii, US (State/Province)",2020-03-15,recovered,0
+state,"Hawaii, US (State/Province)",2020-03-16,active,7
+state,"Hawaii, US (State/Province)",2020-03-16,confirmed,7
+state,"Hawaii, US (State/Province)",2020-03-16,deaths,0
+state,"Hawaii, US (State/Province)",2020-03-16,recovered,0
 state,"Hebei, China (State/Province)",2020-01-22,active,1
 state,"Hebei, China (State/Province)",2020-01-22,confirmed,1
 state,"Hebei, China (State/Province)",2020-01-22,deaths,0
@@ -3623,6 +3775,10 @@ state,"Hebei, China (State/Province)",2020-03-15,active,2
 state,"Hebei, China (State/Province)",2020-03-15,confirmed,318
 state,"Hebei, China (State/Province)",2020-03-15,deaths,6
 state,"Hebei, China (State/Province)",2020-03-15,recovered,310
+state,"Hebei, China (State/Province)",2020-03-16,active,2
+state,"Hebei, China (State/Province)",2020-03-16,confirmed,318
+state,"Hebei, China (State/Province)",2020-03-16,deaths,6
+state,"Hebei, China (State/Province)",2020-03-16,recovered,310
 state,"Heilongjiang, China (State/Province)",2020-01-22,active,0
 state,"Heilongjiang, China (State/Province)",2020-01-22,confirmed,0
 state,"Heilongjiang, China (State/Province)",2020-01-22,deaths,0
@@ -3839,6 +3995,10 @@ state,"Heilongjiang, China (State/Province)",2020-03-15,active,16
 state,"Heilongjiang, China (State/Province)",2020-03-15,confirmed,482
 state,"Heilongjiang, China (State/Province)",2020-03-15,deaths,13
 state,"Heilongjiang, China (State/Province)",2020-03-15,recovered,453
+state,"Heilongjiang, China (State/Province)",2020-03-16,active,14
+state,"Heilongjiang, China (State/Province)",2020-03-16,confirmed,482
+state,"Heilongjiang, China (State/Province)",2020-03-16,deaths,13
+state,"Heilongjiang, China (State/Province)",2020-03-16,recovered,455
 state,"Henan, China (State/Province)",2020-01-22,active,5
 state,"Henan, China (State/Province)",2020-01-22,confirmed,5
 state,"Henan, China (State/Province)",2020-01-22,deaths,0
@@ -4055,6 +4215,10 @@ state,"Henan, China (State/Province)",2020-03-15,active,1
 state,"Henan, China (State/Province)",2020-03-15,confirmed,1273
 state,"Henan, China (State/Province)",2020-03-15,deaths,22
 state,"Henan, China (State/Province)",2020-03-15,recovered,1250
+state,"Henan, China (State/Province)",2020-03-16,active,1
+state,"Henan, China (State/Province)",2020-03-16,confirmed,1273
+state,"Henan, China (State/Province)",2020-03-16,deaths,22
+state,"Henan, China (State/Province)",2020-03-16,recovered,1250
 state,"Hong Kong, China (State/Province)",2020-03-11,active,58
 state,"Hong Kong, China (State/Province)",2020-03-11,confirmed,126
 state,"Hong Kong, China (State/Province)",2020-03-11,deaths,3
@@ -4075,6 +4239,10 @@ state,"Hong Kong, China (State/Province)",2020-03-15,active,60
 state,"Hong Kong, China (State/Province)",2020-03-15,confirmed,145
 state,"Hong Kong, China (State/Province)",2020-03-15,deaths,4
 state,"Hong Kong, China (State/Province)",2020-03-15,recovered,81
+state,"Hong Kong, China (State/Province)",2020-03-16,active,67
+state,"Hong Kong, China (State/Province)",2020-03-16,confirmed,155
+state,"Hong Kong, China (State/Province)",2020-03-16,deaths,4
+state,"Hong Kong, China (State/Province)",2020-03-16,recovered,84
 state,"Hong Kong, Hong Kong (State/Province)",2020-01-22,active,0
 state,"Hong Kong, Hong Kong (State/Province)",2020-01-22,confirmed,0
 state,"Hong Kong, Hong Kong (State/Province)",2020-01-22,deaths,0
@@ -4487,6 +4655,10 @@ state,"Hubei, China (State/Province)",2020-03-15,active,10421
 state,"Hubei, China (State/Province)",2020-03-15,confirmed,67794
 state,"Hubei, China (State/Province)",2020-03-15,deaths,3085
 state,"Hubei, China (State/Province)",2020-03-15,recovered,54288
+state,"Hubei, China (State/Province)",2020-03-16,active,9557
+state,"Hubei, China (State/Province)",2020-03-16,confirmed,67798
+state,"Hubei, China (State/Province)",2020-03-16,deaths,3099
+state,"Hubei, China (State/Province)",2020-03-16,recovered,55142
 state,"Hunan, China (State/Province)",2020-01-22,active,4
 state,"Hunan, China (State/Province)",2020-01-22,confirmed,4
 state,"Hunan, China (State/Province)",2020-01-22,deaths,0
@@ -4703,6 +4875,10 @@ state,"Hunan, China (State/Province)",2020-03-15,active,0
 state,"Hunan, China (State/Province)",2020-03-15,confirmed,1018
 state,"Hunan, China (State/Province)",2020-03-15,deaths,4
 state,"Hunan, China (State/Province)",2020-03-15,recovered,1014
+state,"Hunan, China (State/Province)",2020-03-16,active,0
+state,"Hunan, China (State/Province)",2020-03-16,confirmed,1018
+state,"Hunan, China (State/Province)",2020-03-16,deaths,4
+state,"Hunan, China (State/Province)",2020-03-16,recovered,1014
 state,"Idaho, US (State/Province)",2020-03-10,active,0
 state,"Idaho, US (State/Province)",2020-03-10,confirmed,0
 state,"Idaho, US (State/Province)",2020-03-10,deaths,0
@@ -4727,6 +4903,10 @@ state,"Idaho, US (State/Province)",2020-03-15,active,5
 state,"Idaho, US (State/Province)",2020-03-15,confirmed,5
 state,"Idaho, US (State/Province)",2020-03-15,deaths,0
 state,"Idaho, US (State/Province)",2020-03-15,recovered,0
+state,"Idaho, US (State/Province)",2020-03-16,active,5
+state,"Idaho, US (State/Province)",2020-03-16,confirmed,5
+state,"Idaho, US (State/Province)",2020-03-16,deaths,0
+state,"Idaho, US (State/Province)",2020-03-16,recovered,0
 state,"Illinois, US (State/Province)",2020-01-25,active,1
 state,"Illinois, US (State/Province)",2020-01-25,confirmed,1
 state,"Illinois, US (State/Province)",2020-01-25,deaths,0
@@ -4931,6 +5111,10 @@ state,"Illinois, US (State/Province)",2020-03-15,active,91
 state,"Illinois, US (State/Province)",2020-03-15,confirmed,93
 state,"Illinois, US (State/Province)",2020-03-15,deaths,0
 state,"Illinois, US (State/Province)",2020-03-15,recovered,2
+state,"Illinois, US (State/Province)",2020-03-16,active,103
+state,"Illinois, US (State/Province)",2020-03-16,confirmed,105
+state,"Illinois, US (State/Province)",2020-03-16,deaths,0
+state,"Illinois, US (State/Province)",2020-03-16,recovered,2
 state,"Indiana, US (State/Province)",2020-03-06,active,1
 state,"Indiana, US (State/Province)",2020-03-06,confirmed,1
 state,"Indiana, US (State/Province)",2020-03-06,deaths,0
@@ -4971,6 +5155,10 @@ state,"Indiana, US (State/Province)",2020-03-15,active,20
 state,"Indiana, US (State/Province)",2020-03-15,confirmed,20
 state,"Indiana, US (State/Province)",2020-03-15,deaths,0
 state,"Indiana, US (State/Province)",2020-03-15,recovered,0
+state,"Indiana, US (State/Province)",2020-03-16,active,24
+state,"Indiana, US (State/Province)",2020-03-16,confirmed,25
+state,"Indiana, US (State/Province)",2020-03-16,deaths,1
+state,"Indiana, US (State/Province)",2020-03-16,recovered,0
 state,"Inner Mongolia, China (State/Province)",2020-01-22,active,0
 state,"Inner Mongolia, China (State/Province)",2020-01-22,confirmed,0
 state,"Inner Mongolia, China (State/Province)",2020-01-22,deaths,0
@@ -5187,6 +5375,10 @@ state,"Inner Mongolia, China (State/Province)",2020-03-15,active,3
 state,"Inner Mongolia, China (State/Province)",2020-03-15,confirmed,75
 state,"Inner Mongolia, China (State/Province)",2020-03-15,deaths,1
 state,"Inner Mongolia, China (State/Province)",2020-03-15,recovered,71
+state,"Inner Mongolia, China (State/Province)",2020-03-16,active,1
+state,"Inner Mongolia, China (State/Province)",2020-03-16,confirmed,75
+state,"Inner Mongolia, China (State/Province)",2020-03-16,deaths,1
+state,"Inner Mongolia, China (State/Province)",2020-03-16,recovered,73
 state,"Iowa, US (State/Province)",2020-03-09,active,3
 state,"Iowa, US (State/Province)",2020-03-09,confirmed,3
 state,"Iowa, US (State/Province)",2020-03-09,deaths,0
@@ -5215,6 +5407,10 @@ state,"Iowa, US (State/Province)",2020-03-15,active,18
 state,"Iowa, US (State/Province)",2020-03-15,confirmed,18
 state,"Iowa, US (State/Province)",2020-03-15,deaths,0
 state,"Iowa, US (State/Province)",2020-03-15,recovered,0
+state,"Iowa, US (State/Province)",2020-03-16,active,23
+state,"Iowa, US (State/Province)",2020-03-16,confirmed,23
+state,"Iowa, US (State/Province)",2020-03-16,deaths,0
+state,"Iowa, US (State/Province)",2020-03-16,recovered,0
 state,"Jiangsu, China (State/Province)",2020-01-22,active,1
 state,"Jiangsu, China (State/Province)",2020-01-22,confirmed,1
 state,"Jiangsu, China (State/Province)",2020-01-22,deaths,0
@@ -5431,6 +5627,10 @@ state,"Jiangsu, China (State/Province)",2020-03-15,active,0
 state,"Jiangsu, China (State/Province)",2020-03-15,confirmed,631
 state,"Jiangsu, China (State/Province)",2020-03-15,deaths,0
 state,"Jiangsu, China (State/Province)",2020-03-15,recovered,631
+state,"Jiangsu, China (State/Province)",2020-03-16,active,0
+state,"Jiangsu, China (State/Province)",2020-03-16,confirmed,631
+state,"Jiangsu, China (State/Province)",2020-03-16,deaths,0
+state,"Jiangsu, China (State/Province)",2020-03-16,recovered,631
 state,"Jiangxi, China (State/Province)",2020-01-22,active,2
 state,"Jiangxi, China (State/Province)",2020-01-22,confirmed,2
 state,"Jiangxi, China (State/Province)",2020-01-22,deaths,0
@@ -5647,6 +5847,10 @@ state,"Jiangxi, China (State/Province)",2020-03-15,active,0
 state,"Jiangxi, China (State/Province)",2020-03-15,confirmed,935
 state,"Jiangxi, China (State/Province)",2020-03-15,deaths,1
 state,"Jiangxi, China (State/Province)",2020-03-15,recovered,934
+state,"Jiangxi, China (State/Province)",2020-03-16,active,0
+state,"Jiangxi, China (State/Province)",2020-03-16,confirmed,935
+state,"Jiangxi, China (State/Province)",2020-03-16,deaths,1
+state,"Jiangxi, China (State/Province)",2020-03-16,recovered,934
 state,"Jilin, China (State/Province)",2020-01-22,active,0
 state,"Jilin, China (State/Province)",2020-01-22,confirmed,0
 state,"Jilin, China (State/Province)",2020-01-22,deaths,0
@@ -5863,6 +6067,10 @@ state,"Jilin, China (State/Province)",2020-03-15,active,1
 state,"Jilin, China (State/Province)",2020-03-15,confirmed,93
 state,"Jilin, China (State/Province)",2020-03-15,deaths,1
 state,"Jilin, China (State/Province)",2020-03-15,recovered,91
+state,"Jilin, China (State/Province)",2020-03-16,active,0
+state,"Jilin, China (State/Province)",2020-03-16,confirmed,93
+state,"Jilin, China (State/Province)",2020-03-16,deaths,1
+state,"Jilin, China (State/Province)",2020-03-16,recovered,92
 state,"Kansas, US (State/Province)",2020-03-08,active,1
 state,"Kansas, US (State/Province)",2020-03-08,confirmed,1
 state,"Kansas, US (State/Province)",2020-03-08,deaths,0
@@ -5895,6 +6103,10 @@ state,"Kansas, US (State/Province)",2020-03-15,active,7
 state,"Kansas, US (State/Province)",2020-03-15,confirmed,8
 state,"Kansas, US (State/Province)",2020-03-15,deaths,1
 state,"Kansas, US (State/Province)",2020-03-15,recovered,0
+state,"Kansas, US (State/Province)",2020-03-16,active,10
+state,"Kansas, US (State/Province)",2020-03-16,confirmed,11
+state,"Kansas, US (State/Province)",2020-03-16,deaths,1
+state,"Kansas, US (State/Province)",2020-03-16,recovered,0
 state,"Kentucky, US (State/Province)",2020-03-06,active,1
 state,"Kentucky, US (State/Province)",2020-03-06,confirmed,1
 state,"Kentucky, US (State/Province)",2020-03-06,deaths,0
@@ -5935,6 +6147,10 @@ state,"Kentucky, US (State/Province)",2020-03-15,active,20
 state,"Kentucky, US (State/Province)",2020-03-15,confirmed,20
 state,"Kentucky, US (State/Province)",2020-03-15,deaths,0
 state,"Kentucky, US (State/Province)",2020-03-15,recovered,0
+state,"Kentucky, US (State/Province)",2020-03-16,active,19
+state,"Kentucky, US (State/Province)",2020-03-16,confirmed,21
+state,"Kentucky, US (State/Province)",2020-03-16,deaths,1
+state,"Kentucky, US (State/Province)",2020-03-16,recovered,1
 state,"Liaoning, China (State/Province)",2020-01-22,active,2
 state,"Liaoning, China (State/Province)",2020-01-22,confirmed,2
 state,"Liaoning, China (State/Province)",2020-01-22,deaths,0
@@ -6151,6 +6367,10 @@ state,"Liaoning, China (State/Province)",2020-03-15,active,10
 state,"Liaoning, China (State/Province)",2020-03-15,confirmed,125
 state,"Liaoning, China (State/Province)",2020-03-15,deaths,1
 state,"Liaoning, China (State/Province)",2020-03-15,recovered,114
+state,"Liaoning, China (State/Province)",2020-03-16,active,9
+state,"Liaoning, China (State/Province)",2020-03-16,confirmed,125
+state,"Liaoning, China (State/Province)",2020-03-16,deaths,1
+state,"Liaoning, China (State/Province)",2020-03-16,recovered,115
 state,"Louisiana, US (State/Province)",2020-03-09,active,1
 state,"Louisiana, US (State/Province)",2020-03-09,confirmed,1
 state,"Louisiana, US (State/Province)",2020-03-09,deaths,0
@@ -6179,6 +6399,10 @@ state,"Louisiana, US (State/Province)",2020-03-15,active,89
 state,"Louisiana, US (State/Province)",2020-03-15,confirmed,91
 state,"Louisiana, US (State/Province)",2020-03-15,deaths,2
 state,"Louisiana, US (State/Province)",2020-03-15,recovered,0
+state,"Louisiana, US (State/Province)",2020-03-16,active,133
+state,"Louisiana, US (State/Province)",2020-03-16,confirmed,136
+state,"Louisiana, US (State/Province)",2020-03-16,deaths,3
+state,"Louisiana, US (State/Province)",2020-03-16,recovered,0
 state,"Macau, China (State/Province)",2020-03-11,active,0
 state,"Macau, China (State/Province)",2020-03-11,confirmed,10
 state,"Macau, China (State/Province)",2020-03-11,deaths,0
@@ -6199,6 +6423,10 @@ state,"Macau, China (State/Province)",2020-03-15,active,0
 state,"Macau, China (State/Province)",2020-03-15,confirmed,10
 state,"Macau, China (State/Province)",2020-03-15,deaths,0
 state,"Macau, China (State/Province)",2020-03-15,recovered,10
+state,"Macau, China (State/Province)",2020-03-16,active,1
+state,"Macau, China (State/Province)",2020-03-16,confirmed,11
+state,"Macau, China (State/Province)",2020-03-16,deaths,0
+state,"Macau, China (State/Province)",2020-03-16,recovered,10
 state,"Macau, Macao SAR (State/Province)",2020-03-10,active,0
 state,"Macau, Macao SAR (State/Province)",2020-03-10,confirmed,10
 state,"Macau, Macao SAR (State/Province)",2020-03-10,deaths,0
@@ -6419,6 +6647,10 @@ state,"Maine, US (State/Province)",2020-03-15,active,12
 state,"Maine, US (State/Province)",2020-03-15,confirmed,12
 state,"Maine, US (State/Province)",2020-03-15,deaths,0
 state,"Maine, US (State/Province)",2020-03-15,recovered,0
+state,"Maine, US (State/Province)",2020-03-16,active,17
+state,"Maine, US (State/Province)",2020-03-16,confirmed,17
+state,"Maine, US (State/Province)",2020-03-16,deaths,0
+state,"Maine, US (State/Province)",2020-03-16,recovered,0
 state,"Manitoba, Canada (State/Province)",2020-03-13,active,4
 state,"Manitoba, Canada (State/Province)",2020-03-13,confirmed,4
 state,"Manitoba, Canada (State/Province)",2020-03-13,deaths,0
@@ -6431,6 +6663,10 @@ state,"Manitoba, Canada (State/Province)",2020-03-15,active,4
 state,"Manitoba, Canada (State/Province)",2020-03-15,confirmed,4
 state,"Manitoba, Canada (State/Province)",2020-03-15,deaths,0
 state,"Manitoba, Canada (State/Province)",2020-03-15,recovered,0
+state,"Manitoba, Canada (State/Province)",2020-03-16,active,7
+state,"Manitoba, Canada (State/Province)",2020-03-16,confirmed,7
+state,"Manitoba, Canada (State/Province)",2020-03-16,deaths,0
+state,"Manitoba, Canada (State/Province)",2020-03-16,recovered,0
 state,"Maryland, US (State/Province)",2020-03-06,active,3
 state,"Maryland, US (State/Province)",2020-03-06,confirmed,3
 state,"Maryland, US (State/Province)",2020-03-06,deaths,0
@@ -6471,6 +6707,10 @@ state,"Maryland, US (State/Province)",2020-03-15,active,32
 state,"Maryland, US (State/Province)",2020-03-15,confirmed,32
 state,"Maryland, US (State/Province)",2020-03-15,deaths,0
 state,"Maryland, US (State/Province)",2020-03-15,recovered,0
+state,"Maryland, US (State/Province)",2020-03-16,active,38
+state,"Maryland, US (State/Province)",2020-03-16,confirmed,41
+state,"Maryland, US (State/Province)",2020-03-16,deaths,0
+state,"Maryland, US (State/Province)",2020-03-16,recovered,3
 state,"Massachusetts, US (State/Province)",2020-02-01,active,1
 state,"Massachusetts, US (State/Province)",2020-02-01,confirmed,1
 state,"Massachusetts, US (State/Province)",2020-02-01,deaths,0
@@ -6647,10 +6887,18 @@ state,"Massachusetts, US (State/Province)",2020-03-15,active,163
 state,"Massachusetts, US (State/Province)",2020-03-15,confirmed,164
 state,"Massachusetts, US (State/Province)",2020-03-15,deaths,0
 state,"Massachusetts, US (State/Province)",2020-03-15,recovered,1
+state,"Massachusetts, US (State/Province)",2020-03-16,active,196
+state,"Massachusetts, US (State/Province)",2020-03-16,confirmed,197
+state,"Massachusetts, US (State/Province)",2020-03-16,deaths,0
+state,"Massachusetts, US (State/Province)",2020-03-16,recovered,1
 state,"Mayotte, France (State/Province)",2020-03-15,active,1
 state,"Mayotte, France (State/Province)",2020-03-15,confirmed,1
 state,"Mayotte, France (State/Province)",2020-03-15,deaths,0
 state,"Mayotte, France (State/Province)",2020-03-15,recovered,0
+state,"Mayotte, France (State/Province)",2020-03-16,active,1
+state,"Mayotte, France (State/Province)",2020-03-16,confirmed,1
+state,"Mayotte, France (State/Province)",2020-03-16,deaths,0
+state,"Mayotte, France (State/Province)",2020-03-16,recovered,0
 state,"Michigan, US (State/Province)",2020-03-10,active,0
 state,"Michigan, US (State/Province)",2020-03-10,confirmed,0
 state,"Michigan, US (State/Province)",2020-03-10,deaths,0
@@ -6675,6 +6923,10 @@ state,"Michigan, US (State/Province)",2020-03-15,active,33
 state,"Michigan, US (State/Province)",2020-03-15,confirmed,33
 state,"Michigan, US (State/Province)",2020-03-15,deaths,0
 state,"Michigan, US (State/Province)",2020-03-15,recovered,0
+state,"Michigan, US (State/Province)",2020-03-16,active,53
+state,"Michigan, US (State/Province)",2020-03-16,confirmed,53
+state,"Michigan, US (State/Province)",2020-03-16,deaths,0
+state,"Michigan, US (State/Province)",2020-03-16,recovered,0
 state,"Minnesota, US (State/Province)",2020-03-06,active,1
 state,"Minnesota, US (State/Province)",2020-03-06,confirmed,1
 state,"Minnesota, US (State/Province)",2020-03-06,deaths,0
@@ -6715,6 +6967,10 @@ state,"Minnesota, US (State/Province)",2020-03-15,active,35
 state,"Minnesota, US (State/Province)",2020-03-15,confirmed,35
 state,"Minnesota, US (State/Province)",2020-03-15,deaths,0
 state,"Minnesota, US (State/Province)",2020-03-15,recovered,0
+state,"Minnesota, US (State/Province)",2020-03-16,active,54
+state,"Minnesota, US (State/Province)",2020-03-16,confirmed,54
+state,"Minnesota, US (State/Province)",2020-03-16,deaths,0
+state,"Minnesota, US (State/Province)",2020-03-16,recovered,0
 state,"Mississippi, US (State/Province)",2020-03-10,active,0
 state,"Mississippi, US (State/Province)",2020-03-10,confirmed,0
 state,"Mississippi, US (State/Province)",2020-03-10,deaths,0
@@ -6739,6 +6995,10 @@ state,"Mississippi, US (State/Province)",2020-03-15,active,10
 state,"Mississippi, US (State/Province)",2020-03-15,confirmed,10
 state,"Mississippi, US (State/Province)",2020-03-15,deaths,0
 state,"Mississippi, US (State/Province)",2020-03-15,recovered,0
+state,"Mississippi, US (State/Province)",2020-03-16,active,13
+state,"Mississippi, US (State/Province)",2020-03-16,confirmed,13
+state,"Mississippi, US (State/Province)",2020-03-16,deaths,0
+state,"Mississippi, US (State/Province)",2020-03-16,recovered,0
 state,"Missouri, US (State/Province)",2020-03-08,active,1
 state,"Missouri, US (State/Province)",2020-03-08,confirmed,1
 state,"Missouri, US (State/Province)",2020-03-08,deaths,0
@@ -6771,6 +7031,10 @@ state,"Missouri, US (State/Province)",2020-03-15,active,5
 state,"Missouri, US (State/Province)",2020-03-15,confirmed,5
 state,"Missouri, US (State/Province)",2020-03-15,deaths,0
 state,"Missouri, US (State/Province)",2020-03-15,recovered,0
+state,"Missouri, US (State/Province)",2020-03-16,active,6
+state,"Missouri, US (State/Province)",2020-03-16,confirmed,6
+state,"Missouri, US (State/Province)",2020-03-16,deaths,0
+state,"Missouri, US (State/Province)",2020-03-16,recovered,0
 state,"Montana, US (State/Province)",2020-03-10,active,0
 state,"Montana, US (State/Province)",2020-03-10,confirmed,0
 state,"Montana, US (State/Province)",2020-03-10,deaths,0
@@ -6795,6 +7059,10 @@ state,"Montana, US (State/Province)",2020-03-15,active,7
 state,"Montana, US (State/Province)",2020-03-15,confirmed,7
 state,"Montana, US (State/Province)",2020-03-15,deaths,0
 state,"Montana, US (State/Province)",2020-03-15,recovered,0
+state,"Montana, US (State/Province)",2020-03-16,active,7
+state,"Montana, US (State/Province)",2020-03-16,confirmed,7
+state,"Montana, US (State/Province)",2020-03-16,deaths,0
+state,"Montana, US (State/Province)",2020-03-16,recovered,0
 state,"Nebraska, US (State/Province)",2020-02-21,active,11
 state,"Nebraska, US (State/Province)",2020-02-21,confirmed,11
 state,"Nebraska, US (State/Province)",2020-02-21,deaths,0
@@ -6839,6 +7107,14 @@ state,"Nebraska, US (State/Province)",2020-03-15,active,17
 state,"Nebraska, US (State/Province)",2020-03-15,confirmed,17
 state,"Nebraska, US (State/Province)",2020-03-15,deaths,0
 state,"Nebraska, US (State/Province)",2020-03-15,recovered,0
+state,"Nebraska, US (State/Province)",2020-03-16,active,18
+state,"Nebraska, US (State/Province)",2020-03-16,confirmed,18
+state,"Nebraska, US (State/Province)",2020-03-16,deaths,0
+state,"Nebraska, US (State/Province)",2020-03-16,recovered,0
+state,"Netherlands, Netherlands (State/Province)",2020-03-16,active,1387
+state,"Netherlands, Netherlands (State/Province)",2020-03-16,confirmed,1413
+state,"Netherlands, Netherlands (State/Province)",2020-03-16,deaths,24
+state,"Netherlands, Netherlands (State/Province)",2020-03-16,recovered,2
 state,"Nevada, US (State/Province)",2020-03-05,active,1
 state,"Nevada, US (State/Province)",2020-03-05,confirmed,1
 state,"Nevada, US (State/Province)",2020-03-05,deaths,0
@@ -6883,6 +7159,10 @@ state,"Nevada, US (State/Province)",2020-03-15,active,24
 state,"Nevada, US (State/Province)",2020-03-15,confirmed,24
 state,"Nevada, US (State/Province)",2020-03-15,deaths,0
 state,"Nevada, US (State/Province)",2020-03-15,recovered,0
+state,"Nevada, US (State/Province)",2020-03-16,active,44
+state,"Nevada, US (State/Province)",2020-03-16,confirmed,45
+state,"Nevada, US (State/Province)",2020-03-16,deaths,1
+state,"Nevada, US (State/Province)",2020-03-16,recovered,0
 state,"New Brunswick, Canada (State/Province)",2020-03-11,active,1
 state,"New Brunswick, Canada (State/Province)",2020-03-11,confirmed,1
 state,"New Brunswick, Canada (State/Province)",2020-03-11,deaths,0
@@ -6903,6 +7183,10 @@ state,"New Brunswick, Canada (State/Province)",2020-03-15,active,2
 state,"New Brunswick, Canada (State/Province)",2020-03-15,confirmed,2
 state,"New Brunswick, Canada (State/Province)",2020-03-15,deaths,0
 state,"New Brunswick, Canada (State/Province)",2020-03-15,recovered,0
+state,"New Brunswick, Canada (State/Province)",2020-03-16,active,6
+state,"New Brunswick, Canada (State/Province)",2020-03-16,confirmed,6
+state,"New Brunswick, Canada (State/Province)",2020-03-16,deaths,0
+state,"New Brunswick, Canada (State/Province)",2020-03-16,recovered,0
 state,"New Hampshire, US (State/Province)",2020-03-02,active,1
 state,"New Hampshire, US (State/Province)",2020-03-02,confirmed,1
 state,"New Hampshire, US (State/Province)",2020-03-02,deaths,0
@@ -6959,6 +7243,10 @@ state,"New Hampshire, US (State/Province)",2020-03-15,active,13
 state,"New Hampshire, US (State/Province)",2020-03-15,confirmed,13
 state,"New Hampshire, US (State/Province)",2020-03-15,deaths,0
 state,"New Hampshire, US (State/Province)",2020-03-15,recovered,0
+state,"New Hampshire, US (State/Province)",2020-03-16,active,17
+state,"New Hampshire, US (State/Province)",2020-03-16,confirmed,17
+state,"New Hampshire, US (State/Province)",2020-03-16,deaths,0
+state,"New Hampshire, US (State/Province)",2020-03-16,recovered,0
 state,"New Jersey, US (State/Province)",2020-03-05,active,2
 state,"New Jersey, US (State/Province)",2020-03-05,confirmed,2
 state,"New Jersey, US (State/Province)",2020-03-05,deaths,0
@@ -7003,6 +7291,10 @@ state,"New Jersey, US (State/Province)",2020-03-15,active,96
 state,"New Jersey, US (State/Province)",2020-03-15,confirmed,98
 state,"New Jersey, US (State/Province)",2020-03-15,deaths,2
 state,"New Jersey, US (State/Province)",2020-03-15,recovered,0
+state,"New Jersey, US (State/Province)",2020-03-16,active,175
+state,"New Jersey, US (State/Province)",2020-03-16,confirmed,178
+state,"New Jersey, US (State/Province)",2020-03-16,deaths,2
+state,"New Jersey, US (State/Province)",2020-03-16,recovered,1
 state,"New Mexico, US (State/Province)",2020-03-10,active,0
 state,"New Mexico, US (State/Province)",2020-03-10,confirmed,0
 state,"New Mexico, US (State/Province)",2020-03-10,deaths,0
@@ -7027,6 +7319,10 @@ state,"New Mexico, US (State/Province)",2020-03-15,active,13
 state,"New Mexico, US (State/Province)",2020-03-15,confirmed,13
 state,"New Mexico, US (State/Province)",2020-03-15,deaths,0
 state,"New Mexico, US (State/Province)",2020-03-15,recovered,0
+state,"New Mexico, US (State/Province)",2020-03-16,active,17
+state,"New Mexico, US (State/Province)",2020-03-16,confirmed,17
+state,"New Mexico, US (State/Province)",2020-03-16,deaths,0
+state,"New Mexico, US (State/Province)",2020-03-16,recovered,0
 state,"New South Wales, Australia (State/Province)",2020-01-27,active,4
 state,"New South Wales, Australia (State/Province)",2020-01-27,confirmed,4
 state,"New South Wales, Australia (State/Province)",2020-01-27,deaths,0
@@ -7223,6 +7519,10 @@ state,"New South Wales, Australia (State/Province)",2020-03-15,active,128
 state,"New South Wales, Australia (State/Province)",2020-03-15,confirmed,134
 state,"New South Wales, Australia (State/Province)",2020-03-15,deaths,2
 state,"New South Wales, Australia (State/Province)",2020-03-15,recovered,4
+state,"New South Wales, Australia (State/Province)",2020-03-16,active,165
+state,"New South Wales, Australia (State/Province)",2020-03-16,confirmed,171
+state,"New South Wales, Australia (State/Province)",2020-03-16,deaths,2
+state,"New South Wales, Australia (State/Province)",2020-03-16,recovered,4
 state,"New York, US (State/Province)",2020-03-02,active,1
 state,"New York, US (State/Province)",2020-03-02,confirmed,1
 state,"New York, US (State/Province)",2020-03-02,deaths,0
@@ -7279,10 +7579,18 @@ state,"New York, US (State/Province)",2020-03-15,active,729
 state,"New York, US (State/Province)",2020-03-15,confirmed,732
 state,"New York, US (State/Province)",2020-03-15,deaths,3
 state,"New York, US (State/Province)",2020-03-15,recovered,0
+state,"New York, US (State/Province)",2020-03-16,active,957
+state,"New York, US (State/Province)",2020-03-16,confirmed,967
+state,"New York, US (State/Province)",2020-03-16,deaths,10
+state,"New York, US (State/Province)",2020-03-16,recovered,0
 state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-15,active,1
 state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-15,confirmed,1
 state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-15,deaths,0
 state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-15,recovered,0
+state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-16,active,1
+state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-16,confirmed,1
+state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-16,deaths,0
+state,"Newfoundland and Labrador, Canada (State/Province)",2020-03-16,recovered,0
 state,"Ningxia, China (State/Province)",2020-01-22,active,1
 state,"Ningxia, China (State/Province)",2020-01-22,confirmed,1
 state,"Ningxia, China (State/Province)",2020-01-22,deaths,0
@@ -7499,6 +7807,10 @@ state,"Ningxia, China (State/Province)",2020-03-15,active,2
 state,"Ningxia, China (State/Province)",2020-03-15,confirmed,75
 state,"Ningxia, China (State/Province)",2020-03-15,deaths,0
 state,"Ningxia, China (State/Province)",2020-03-15,recovered,73
+state,"Ningxia, China (State/Province)",2020-03-16,active,0
+state,"Ningxia, China (State/Province)",2020-03-16,confirmed,75
+state,"Ningxia, China (State/Province)",2020-03-16,deaths,0
+state,"Ningxia, China (State/Province)",2020-03-16,recovered,75
 state,"None, Austria (State/Province)",2020-02-25,active,2
 state,"None, Austria (State/Province)",2020-02-25,confirmed,2
 state,"None, Austria (State/Province)",2020-02-25,deaths,0
@@ -7563,6 +7875,10 @@ state,"North Carolina, US (State/Province)",2020-03-15,active,33
 state,"North Carolina, US (State/Province)",2020-03-15,confirmed,33
 state,"North Carolina, US (State/Province)",2020-03-15,deaths,0
 state,"North Carolina, US (State/Province)",2020-03-15,recovered,0
+state,"North Carolina, US (State/Province)",2020-03-16,active,38
+state,"North Carolina, US (State/Province)",2020-03-16,confirmed,38
+state,"North Carolina, US (State/Province)",2020-03-16,deaths,0
+state,"North Carolina, US (State/Province)",2020-03-16,recovered,0
 state,"North Dakota, US (State/Province)",2020-03-10,active,0
 state,"North Dakota, US (State/Province)",2020-03-10,confirmed,0
 state,"North Dakota, US (State/Province)",2020-03-10,deaths,0
@@ -7587,6 +7903,10 @@ state,"North Dakota, US (State/Province)",2020-03-15,active,1
 state,"North Dakota, US (State/Province)",2020-03-15,confirmed,1
 state,"North Dakota, US (State/Province)",2020-03-15,deaths,0
 state,"North Dakota, US (State/Province)",2020-03-15,recovered,0
+state,"North Dakota, US (State/Province)",2020-03-16,active,1
+state,"North Dakota, US (State/Province)",2020-03-16,confirmed,1
+state,"North Dakota, US (State/Province)",2020-03-16,deaths,0
+state,"North Dakota, US (State/Province)",2020-03-16,recovered,0
 state,"Northern Territory, Australia (State/Province)",2020-03-04,active,1
 state,"Northern Territory, Australia (State/Province)",2020-03-04,confirmed,1
 state,"Northern Territory, Australia (State/Province)",2020-03-04,deaths,0
@@ -7635,6 +7955,14 @@ state,"Northern Territory, Australia (State/Province)",2020-03-15,active,1
 state,"Northern Territory, Australia (State/Province)",2020-03-15,confirmed,1
 state,"Northern Territory, Australia (State/Province)",2020-03-15,deaths,0
 state,"Northern Territory, Australia (State/Province)",2020-03-15,recovered,0
+state,"Northern Territory, Australia (State/Province)",2020-03-16,active,1
+state,"Northern Territory, Australia (State/Province)",2020-03-16,confirmed,1
+state,"Northern Territory, Australia (State/Province)",2020-03-16,deaths,0
+state,"Northern Territory, Australia (State/Province)",2020-03-16,recovered,0
+state,"Nova Scotia, Canada (State/Province)",2020-03-16,active,5
+state,"Nova Scotia, Canada (State/Province)",2020-03-16,confirmed,5
+state,"Nova Scotia, Canada (State/Province)",2020-03-16,deaths,0
+state,"Nova Scotia, Canada (State/Province)",2020-03-16,recovered,0
 state,"Ohio, US (State/Province)",2020-03-10,active,3
 state,"Ohio, US (State/Province)",2020-03-10,confirmed,3
 state,"Ohio, US (State/Province)",2020-03-10,deaths,0
@@ -7659,6 +7987,10 @@ state,"Ohio, US (State/Province)",2020-03-15,active,37
 state,"Ohio, US (State/Province)",2020-03-15,confirmed,37
 state,"Ohio, US (State/Province)",2020-03-15,deaths,0
 state,"Ohio, US (State/Province)",2020-03-15,recovered,0
+state,"Ohio, US (State/Province)",2020-03-16,active,50
+state,"Ohio, US (State/Province)",2020-03-16,confirmed,50
+state,"Ohio, US (State/Province)",2020-03-16,deaths,0
+state,"Ohio, US (State/Province)",2020-03-16,recovered,0
 state,"Oklahoma, US (State/Province)",2020-03-07,active,1
 state,"Oklahoma, US (State/Province)",2020-03-07,confirmed,1
 state,"Oklahoma, US (State/Province)",2020-03-07,deaths,0
@@ -7695,6 +8027,10 @@ state,"Oklahoma, US (State/Province)",2020-03-15,active,7
 state,"Oklahoma, US (State/Province)",2020-03-15,confirmed,7
 state,"Oklahoma, US (State/Province)",2020-03-15,deaths,0
 state,"Oklahoma, US (State/Province)",2020-03-15,recovered,0
+state,"Oklahoma, US (State/Province)",2020-03-16,active,10
+state,"Oklahoma, US (State/Province)",2020-03-16,confirmed,10
+state,"Oklahoma, US (State/Province)",2020-03-16,deaths,0
+state,"Oklahoma, US (State/Province)",2020-03-16,recovered,0
 state,"Ontario, Canada (State/Province)",2020-01-26,active,1
 state,"Ontario, Canada (State/Province)",2020-01-26,confirmed,1
 state,"Ontario, Canada (State/Province)",2020-01-26,deaths,0
@@ -7895,6 +8231,10 @@ state,"Ontario, Canada (State/Province)",2020-03-15,active,100
 state,"Ontario, Canada (State/Province)",2020-03-15,confirmed,104
 state,"Ontario, Canada (State/Province)",2020-03-15,deaths,0
 state,"Ontario, Canada (State/Province)",2020-03-15,recovered,4
+state,"Ontario, Canada (State/Province)",2020-03-16,active,172
+state,"Ontario, Canada (State/Province)",2020-03-16,confirmed,177
+state,"Ontario, Canada (State/Province)",2020-03-16,deaths,0
+state,"Ontario, Canada (State/Province)",2020-03-16,recovered,5
 state,"Oregon, US (State/Province)",2020-02-29,active,1
 state,"Oregon, US (State/Province)",2020-02-29,confirmed,1
 state,"Oregon, US (State/Province)",2020-02-29,deaths,0
@@ -7959,6 +8299,10 @@ state,"Oregon, US (State/Province)",2020-03-15,active,35
 state,"Oregon, US (State/Province)",2020-03-15,confirmed,36
 state,"Oregon, US (State/Province)",2020-03-15,deaths,1
 state,"Oregon, US (State/Province)",2020-03-15,recovered,0
+state,"Oregon, US (State/Province)",2020-03-16,active,38
+state,"Oregon, US (State/Province)",2020-03-16,confirmed,39
+state,"Oregon, US (State/Province)",2020-03-16,deaths,1
+state,"Oregon, US (State/Province)",2020-03-16,recovered,0
 state,"Pennsylvania, US (State/Province)",2020-03-06,active,2
 state,"Pennsylvania, US (State/Province)",2020-03-06,confirmed,2
 state,"Pennsylvania, US (State/Province)",2020-03-06,deaths,0
@@ -7999,10 +8343,18 @@ state,"Pennsylvania, US (State/Province)",2020-03-15,active,66
 state,"Pennsylvania, US (State/Province)",2020-03-15,confirmed,66
 state,"Pennsylvania, US (State/Province)",2020-03-15,deaths,0
 state,"Pennsylvania, US (State/Province)",2020-03-15,recovered,0
+state,"Pennsylvania, US (State/Province)",2020-03-16,active,77
+state,"Pennsylvania, US (State/Province)",2020-03-16,confirmed,77
+state,"Pennsylvania, US (State/Province)",2020-03-16,deaths,0
+state,"Pennsylvania, US (State/Province)",2020-03-16,recovered,0
 state,"Prince Edward Island, Canada (State/Province)",2020-03-15,active,1
 state,"Prince Edward Island, Canada (State/Province)",2020-03-15,confirmed,1
 state,"Prince Edward Island, Canada (State/Province)",2020-03-15,deaths,0
 state,"Prince Edward Island, Canada (State/Province)",2020-03-15,recovered,0
+state,"Prince Edward Island, Canada (State/Province)",2020-03-16,active,1
+state,"Prince Edward Island, Canada (State/Province)",2020-03-16,confirmed,1
+state,"Prince Edward Island, Canada (State/Province)",2020-03-16,deaths,0
+state,"Prince Edward Island, Canada (State/Province)",2020-03-16,recovered,0
 state,"Puerto Rico, US (State/Province)",2020-03-14,active,3
 state,"Puerto Rico, US (State/Province)",2020-03-14,confirmed,3
 state,"Puerto Rico, US (State/Province)",2020-03-14,deaths,0
@@ -8011,6 +8363,10 @@ state,"Puerto Rico, US (State/Province)",2020-03-15,active,5
 state,"Puerto Rico, US (State/Province)",2020-03-15,confirmed,5
 state,"Puerto Rico, US (State/Province)",2020-03-15,deaths,0
 state,"Puerto Rico, US (State/Province)",2020-03-15,recovered,0
+state,"Puerto Rico, US (State/Province)",2020-03-16,active,5
+state,"Puerto Rico, US (State/Province)",2020-03-16,confirmed,5
+state,"Puerto Rico, US (State/Province)",2020-03-16,deaths,0
+state,"Puerto Rico, US (State/Province)",2020-03-16,recovered,0
 state,"Qinghai, China (State/Province)",2020-01-22,active,0
 state,"Qinghai, China (State/Province)",2020-01-22,confirmed,0
 state,"Qinghai, China (State/Province)",2020-01-22,deaths,0
@@ -8227,6 +8583,10 @@ state,"Qinghai, China (State/Province)",2020-03-15,active,0
 state,"Qinghai, China (State/Province)",2020-03-15,confirmed,18
 state,"Qinghai, China (State/Province)",2020-03-15,deaths,0
 state,"Qinghai, China (State/Province)",2020-03-15,recovered,18
+state,"Qinghai, China (State/Province)",2020-03-16,active,0
+state,"Qinghai, China (State/Province)",2020-03-16,confirmed,18
+state,"Qinghai, China (State/Province)",2020-03-16,deaths,0
+state,"Qinghai, China (State/Province)",2020-03-16,recovered,18
 state,"Quebec, Canada (State/Province)",2020-02-28,active,1
 state,"Quebec, Canada (State/Province)",2020-02-28,confirmed,1
 state,"Quebec, Canada (State/Province)",2020-02-28,deaths,0
@@ -8295,6 +8655,10 @@ state,"Quebec, Canada (State/Province)",2020-03-15,active,24
 state,"Quebec, Canada (State/Province)",2020-03-15,confirmed,24
 state,"Quebec, Canada (State/Province)",2020-03-15,deaths,0
 state,"Quebec, Canada (State/Province)",2020-03-15,recovered,0
+state,"Quebec, Canada (State/Province)",2020-03-16,active,50
+state,"Quebec, Canada (State/Province)",2020-03-16,confirmed,50
+state,"Quebec, Canada (State/Province)",2020-03-16,deaths,0
+state,"Quebec, Canada (State/Province)",2020-03-16,recovered,0
 state,"Queensland, Australia (State/Province)",2020-01-30,active,3
 state,"Queensland, Australia (State/Province)",2020-01-30,confirmed,3
 state,"Queensland, Australia (State/Province)",2020-01-30,deaths,0
@@ -8479,6 +8843,10 @@ state,"Queensland, Australia (State/Province)",2020-03-15,active,53
 state,"Queensland, Australia (State/Province)",2020-03-15,confirmed,61
 state,"Queensland, Australia (State/Province)",2020-03-15,deaths,0
 state,"Queensland, Australia (State/Province)",2020-03-15,recovered,8
+state,"Queensland, Australia (State/Province)",2020-03-16,active,60
+state,"Queensland, Australia (State/Province)",2020-03-16,confirmed,68
+state,"Queensland, Australia (State/Province)",2020-03-16,deaths,0
+state,"Queensland, Australia (State/Province)",2020-03-16,recovered,8
 state,"Rhode Island, US (State/Province)",2020-03-01,active,1
 state,"Rhode Island, US (State/Province)",2020-03-01,confirmed,1
 state,"Rhode Island, US (State/Province)",2020-03-01,deaths,0
@@ -8539,6 +8907,10 @@ state,"Rhode Island, US (State/Province)",2020-03-15,active,20
 state,"Rhode Island, US (State/Province)",2020-03-15,confirmed,20
 state,"Rhode Island, US (State/Province)",2020-03-15,deaths,0
 state,"Rhode Island, US (State/Province)",2020-03-15,recovered,0
+state,"Rhode Island, US (State/Province)",2020-03-16,active,21
+state,"Rhode Island, US (State/Province)",2020-03-16,confirmed,21
+state,"Rhode Island, US (State/Province)",2020-03-16,deaths,0
+state,"Rhode Island, US (State/Province)",2020-03-16,recovered,0
 state,"Saint Barthelemy, France (State/Province)",2020-03-11,active,1
 state,"Saint Barthelemy, France (State/Province)",2020-03-11,confirmed,1
 state,"Saint Barthelemy, France (State/Province)",2020-03-11,deaths,0
@@ -8559,6 +8931,10 @@ state,"Saint Barthelemy, France (State/Province)",2020-03-15,active,1
 state,"Saint Barthelemy, France (State/Province)",2020-03-15,confirmed,1
 state,"Saint Barthelemy, France (State/Province)",2020-03-15,deaths,0
 state,"Saint Barthelemy, France (State/Province)",2020-03-15,recovered,0
+state,"Saint Barthelemy, France (State/Province)",2020-03-16,active,3
+state,"Saint Barthelemy, France (State/Province)",2020-03-16,confirmed,3
+state,"Saint Barthelemy, France (State/Province)",2020-03-16,deaths,0
+state,"Saint Barthelemy, France (State/Province)",2020-03-16,recovered,0
 state,"Saskatchewan, Canada (State/Province)",2020-03-13,active,2
 state,"Saskatchewan, Canada (State/Province)",2020-03-13,confirmed,2
 state,"Saskatchewan, Canada (State/Province)",2020-03-13,deaths,0
@@ -8571,6 +8947,10 @@ state,"Saskatchewan, Canada (State/Province)",2020-03-15,active,2
 state,"Saskatchewan, Canada (State/Province)",2020-03-15,confirmed,2
 state,"Saskatchewan, Canada (State/Province)",2020-03-15,deaths,0
 state,"Saskatchewan, Canada (State/Province)",2020-03-15,recovered,0
+state,"Saskatchewan, Canada (State/Province)",2020-03-16,active,7
+state,"Saskatchewan, Canada (State/Province)",2020-03-16,confirmed,7
+state,"Saskatchewan, Canada (State/Province)",2020-03-16,deaths,0
+state,"Saskatchewan, Canada (State/Province)",2020-03-16,recovered,0
 state,"Shaanxi, China (State/Province)",2020-01-22,active,0
 state,"Shaanxi, China (State/Province)",2020-01-22,confirmed,0
 state,"Shaanxi, China (State/Province)",2020-01-22,deaths,0
@@ -8787,6 +9167,10 @@ state,"Shaanxi, China (State/Province)",2020-03-15,active,11
 state,"Shaanxi, China (State/Province)",2020-03-15,confirmed,245
 state,"Shaanxi, China (State/Province)",2020-03-15,deaths,2
 state,"Shaanxi, China (State/Province)",2020-03-15,recovered,232
+state,"Shaanxi, China (State/Province)",2020-03-16,active,10
+state,"Shaanxi, China (State/Province)",2020-03-16,confirmed,245
+state,"Shaanxi, China (State/Province)",2020-03-16,deaths,2
+state,"Shaanxi, China (State/Province)",2020-03-16,recovered,233
 state,"Shandong, China (State/Province)",2020-01-22,active,2
 state,"Shandong, China (State/Province)",2020-01-22,confirmed,2
 state,"Shandong, China (State/Province)",2020-01-22,deaths,0
@@ -9003,6 +9387,10 @@ state,"Shandong, China (State/Province)",2020-03-15,active,12
 state,"Shandong, China (State/Province)",2020-03-15,confirmed,760
 state,"Shandong, China (State/Province)",2020-03-15,deaths,7
 state,"Shandong, China (State/Province)",2020-03-15,recovered,741
+state,"Shandong, China (State/Province)",2020-03-16,active,7
+state,"Shandong, China (State/Province)",2020-03-16,confirmed,760
+state,"Shandong, China (State/Province)",2020-03-16,deaths,7
+state,"Shandong, China (State/Province)",2020-03-16,recovered,746
 state,"Shanghai, China (State/Province)",2020-01-22,active,9
 state,"Shanghai, China (State/Province)",2020-01-22,confirmed,9
 state,"Shanghai, China (State/Province)",2020-01-22,deaths,0
@@ -9219,6 +9607,10 @@ state,"Shanghai, China (State/Province)",2020-03-15,active,26
 state,"Shanghai, China (State/Province)",2020-03-15,confirmed,353
 state,"Shanghai, China (State/Province)",2020-03-15,deaths,3
 state,"Shanghai, China (State/Province)",2020-03-15,recovered,324
+state,"Shanghai, China (State/Province)",2020-03-16,active,27
+state,"Shanghai, China (State/Province)",2020-03-16,confirmed,355
+state,"Shanghai, China (State/Province)",2020-03-16,deaths,3
+state,"Shanghai, China (State/Province)",2020-03-16,recovered,325
 state,"Shanxi, China (State/Province)",2020-01-22,active,1
 state,"Shanxi, China (State/Province)",2020-01-22,confirmed,1
 state,"Shanxi, China (State/Province)",2020-01-22,deaths,0
@@ -9435,6 +9827,10 @@ state,"Shanxi, China (State/Province)",2020-03-15,active,0
 state,"Shanxi, China (State/Province)",2020-03-15,confirmed,133
 state,"Shanxi, China (State/Province)",2020-03-15,deaths,0
 state,"Shanxi, China (State/Province)",2020-03-15,recovered,133
+state,"Shanxi, China (State/Province)",2020-03-16,active,0
+state,"Shanxi, China (State/Province)",2020-03-16,confirmed,133
+state,"Shanxi, China (State/Province)",2020-03-16,deaths,0
+state,"Shanxi, China (State/Province)",2020-03-16,recovered,133
 state,"Sichuan, China (State/Province)",2020-01-22,active,5
 state,"Sichuan, China (State/Province)",2020-01-22,confirmed,5
 state,"Sichuan, China (State/Province)",2020-01-22,deaths,0
@@ -9651,6 +10047,10 @@ state,"Sichuan, China (State/Province)",2020-03-15,active,20
 state,"Sichuan, China (State/Province)",2020-03-15,confirmed,539
 state,"Sichuan, China (State/Province)",2020-03-15,deaths,3
 state,"Sichuan, China (State/Province)",2020-03-15,recovered,516
+state,"Sichuan, China (State/Province)",2020-03-16,active,20
+state,"Sichuan, China (State/Province)",2020-03-16,confirmed,539
+state,"Sichuan, China (State/Province)",2020-03-16,deaths,3
+state,"Sichuan, China (State/Province)",2020-03-16,recovered,516
 state,"South Australia, Australia (State/Province)",2020-02-01,active,1
 state,"South Australia, Australia (State/Province)",2020-02-01,confirmed,1
 state,"South Australia, Australia (State/Province)",2020-02-01,deaths,0
@@ -9827,6 +10227,10 @@ state,"South Australia, Australia (State/Province)",2020-03-15,active,17
 state,"South Australia, Australia (State/Province)",2020-03-15,confirmed,20
 state,"South Australia, Australia (State/Province)",2020-03-15,deaths,0
 state,"South Australia, Australia (State/Province)",2020-03-15,recovered,3
+state,"South Australia, Australia (State/Province)",2020-03-16,active,26
+state,"South Australia, Australia (State/Province)",2020-03-16,confirmed,29
+state,"South Australia, Australia (State/Province)",2020-03-16,deaths,0
+state,"South Australia, Australia (State/Province)",2020-03-16,recovered,3
 state,"South Carolina, US (State/Province)",2020-03-07,active,2
 state,"South Carolina, US (State/Province)",2020-03-07,confirmed,2
 state,"South Carolina, US (State/Province)",2020-03-07,deaths,0
@@ -9863,6 +10267,10 @@ state,"South Carolina, US (State/Province)",2020-03-15,active,28
 state,"South Carolina, US (State/Province)",2020-03-15,confirmed,28
 state,"South Carolina, US (State/Province)",2020-03-15,deaths,0
 state,"South Carolina, US (State/Province)",2020-03-15,recovered,0
+state,"South Carolina, US (State/Province)",2020-03-16,active,32
+state,"South Carolina, US (State/Province)",2020-03-16,confirmed,33
+state,"South Carolina, US (State/Province)",2020-03-16,deaths,1
+state,"South Carolina, US (State/Province)",2020-03-16,recovered,0
 state,"South Dakota, US (State/Province)",2020-03-10,active,0
 state,"South Dakota, US (State/Province)",2020-03-10,confirmed,0
 state,"South Dakota, US (State/Province)",2020-03-10,deaths,0
@@ -9887,6 +10295,10 @@ state,"South Dakota, US (State/Province)",2020-03-15,active,8
 state,"South Dakota, US (State/Province)",2020-03-15,confirmed,9
 state,"South Dakota, US (State/Province)",2020-03-15,deaths,1
 state,"South Dakota, US (State/Province)",2020-03-15,recovered,0
+state,"South Dakota, US (State/Province)",2020-03-16,active,9
+state,"South Dakota, US (State/Province)",2020-03-16,confirmed,10
+state,"South Dakota, US (State/Province)",2020-03-16,deaths,1
+state,"South Dakota, US (State/Province)",2020-03-16,recovered,0
 state,"St Martin, France (State/Province)",2020-03-11,active,2
 state,"St Martin, France (State/Province)",2020-03-11,confirmed,2
 state,"St Martin, France (State/Province)",2020-03-11,deaths,0
@@ -9907,6 +10319,10 @@ state,"St Martin, France (State/Province)",2020-03-15,active,2
 state,"St Martin, France (State/Province)",2020-03-15,confirmed,2
 state,"St Martin, France (State/Province)",2020-03-15,deaths,0
 state,"St Martin, France (State/Province)",2020-03-15,recovered,0
+state,"St Martin, France (State/Province)",2020-03-16,active,2
+state,"St Martin, France (State/Province)",2020-03-16,confirmed,2
+state,"St Martin, France (State/Province)",2020-03-16,deaths,0
+state,"St Martin, France (State/Province)",2020-03-16,recovered,0
 state,"Taiwan, Taipei and environs (State/Province)",2020-03-10,active,29
 state,"Taiwan, Taipei and environs (State/Province)",2020-03-10,confirmed,47
 state,"Taiwan, Taipei and environs (State/Province)",2020-03-10,deaths,1
@@ -10159,6 +10575,10 @@ state,"Tasmania, Australia (State/Province)",2020-03-15,active,6
 state,"Tasmania, Australia (State/Province)",2020-03-15,confirmed,6
 state,"Tasmania, Australia (State/Province)",2020-03-15,deaths,0
 state,"Tasmania, Australia (State/Province)",2020-03-15,recovered,0
+state,"Tasmania, Australia (State/Province)",2020-03-16,active,7
+state,"Tasmania, Australia (State/Province)",2020-03-16,confirmed,7
+state,"Tasmania, Australia (State/Province)",2020-03-16,deaths,0
+state,"Tasmania, Australia (State/Province)",2020-03-16,recovered,0
 state,"Tennessee, US (State/Province)",2020-03-05,active,1
 state,"Tennessee, US (State/Province)",2020-03-05,confirmed,1
 state,"Tennessee, US (State/Province)",2020-03-05,deaths,0
@@ -10203,6 +10623,10 @@ state,"Tennessee, US (State/Province)",2020-03-15,active,39
 state,"Tennessee, US (State/Province)",2020-03-15,confirmed,39
 state,"Tennessee, US (State/Province)",2020-03-15,deaths,0
 state,"Tennessee, US (State/Province)",2020-03-15,recovered,0
+state,"Tennessee, US (State/Province)",2020-03-16,active,52
+state,"Tennessee, US (State/Province)",2020-03-16,confirmed,52
+state,"Tennessee, US (State/Province)",2020-03-16,deaths,0
+state,"Tennessee, US (State/Province)",2020-03-16,recovered,0
 state,"Texas, US (State/Province)",2020-02-13,active,1
 state,"Texas, US (State/Province)",2020-02-13,confirmed,1
 state,"Texas, US (State/Province)",2020-02-13,deaths,0
@@ -10331,6 +10755,10 @@ state,"Texas, US (State/Province)",2020-03-15,active,72
 state,"Texas, US (State/Province)",2020-03-15,confirmed,72
 state,"Texas, US (State/Province)",2020-03-15,deaths,0
 state,"Texas, US (State/Province)",2020-03-15,recovered,0
+state,"Texas, US (State/Province)",2020-03-16,active,85
+state,"Texas, US (State/Province)",2020-03-16,confirmed,85
+state,"Texas, US (State/Province)",2020-03-16,deaths,0
+state,"Texas, US (State/Province)",2020-03-16,recovered,0
 state,"Tianjin, China (State/Province)",2020-01-22,active,4
 state,"Tianjin, China (State/Province)",2020-01-22,confirmed,4
 state,"Tianjin, China (State/Province)",2020-01-22,deaths,0
@@ -10547,6 +10975,10 @@ state,"Tianjin, China (State/Province)",2020-03-15,active,0
 state,"Tianjin, China (State/Province)",2020-03-15,confirmed,136
 state,"Tianjin, China (State/Province)",2020-03-15,deaths,3
 state,"Tianjin, China (State/Province)",2020-03-15,recovered,133
+state,"Tianjin, China (State/Province)",2020-03-16,active,0
+state,"Tianjin, China (State/Province)",2020-03-16,confirmed,136
+state,"Tianjin, China (State/Province)",2020-03-16,deaths,3
+state,"Tianjin, China (State/Province)",2020-03-16,recovered,133
 state,"Tibet, China (State/Province)",2020-01-22,active,0
 state,"Tibet, China (State/Province)",2020-01-22,confirmed,0
 state,"Tibet, China (State/Province)",2020-01-22,deaths,0
@@ -10739,6 +11171,10 @@ state,"Tibet, China (State/Province)",2020-03-15,active,0
 state,"Tibet, China (State/Province)",2020-03-15,confirmed,1
 state,"Tibet, China (State/Province)",2020-03-15,deaths,0
 state,"Tibet, China (State/Province)",2020-03-15,recovered,1
+state,"Tibet, China (State/Province)",2020-03-16,active,0
+state,"Tibet, China (State/Province)",2020-03-16,confirmed,1
+state,"Tibet, China (State/Province)",2020-03-16,deaths,0
+state,"Tibet, China (State/Province)",2020-03-16,recovered,1
 state,"UK, United Kingdom (State/Province)",2020-03-11,active,430
 state,"UK, United Kingdom (State/Province)",2020-03-11,confirmed,456
 state,"UK, United Kingdom (State/Province)",2020-03-11,deaths,8
@@ -10759,6 +11195,10 @@ state,"United Kingdom, United Kingdom (State/Province)",2020-03-15,active,1101
 state,"United Kingdom, United Kingdom (State/Province)",2020-03-15,confirmed,1140
 state,"United Kingdom, United Kingdom (State/Province)",2020-03-15,deaths,21
 state,"United Kingdom, United Kingdom (State/Province)",2020-03-15,recovered,18
+state,"United Kingdom, United Kingdom (State/Province)",2020-03-16,active,1468
+state,"United Kingdom, United Kingdom (State/Province)",2020-03-16,confirmed,1543
+state,"United Kingdom, United Kingdom (State/Province)",2020-03-16,deaths,55
+state,"United Kingdom, United Kingdom (State/Province)",2020-03-16,recovered,20
 state,"Utah, US (State/Province)",2020-03-07,active,1
 state,"Utah, US (State/Province)",2020-03-07,confirmed,1
 state,"Utah, US (State/Province)",2020-03-07,deaths,0
@@ -10795,6 +11235,10 @@ state,"Utah, US (State/Province)",2020-03-15,active,28
 state,"Utah, US (State/Province)",2020-03-15,confirmed,28
 state,"Utah, US (State/Province)",2020-03-15,deaths,0
 state,"Utah, US (State/Province)",2020-03-15,recovered,0
+state,"Utah, US (State/Province)",2020-03-16,active,39
+state,"Utah, US (State/Province)",2020-03-16,confirmed,39
+state,"Utah, US (State/Province)",2020-03-16,deaths,0
+state,"Utah, US (State/Province)",2020-03-16,recovered,0
 state,"Vermont, US (State/Province)",2020-03-08,active,1
 state,"Vermont, US (State/Province)",2020-03-08,confirmed,1
 state,"Vermont, US (State/Province)",2020-03-08,deaths,0
@@ -10827,6 +11271,10 @@ state,"Vermont, US (State/Province)",2020-03-15,active,8
 state,"Vermont, US (State/Province)",2020-03-15,confirmed,8
 state,"Vermont, US (State/Province)",2020-03-15,deaths,0
 state,"Vermont, US (State/Province)",2020-03-15,recovered,0
+state,"Vermont, US (State/Province)",2020-03-16,active,12
+state,"Vermont, US (State/Province)",2020-03-16,confirmed,12
+state,"Vermont, US (State/Province)",2020-03-16,deaths,0
+state,"Vermont, US (State/Province)",2020-03-16,recovered,0
 state,"Victoria, Australia (State/Province)",2020-01-27,active,1
 state,"Victoria, Australia (State/Province)",2020-01-27,confirmed,1
 state,"Victoria, Australia (State/Province)",2020-01-27,deaths,0
@@ -11023,6 +11471,10 @@ state,"Victoria, Australia (State/Province)",2020-03-15,active,49
 state,"Victoria, Australia (State/Province)",2020-03-15,confirmed,57
 state,"Victoria, Australia (State/Province)",2020-03-15,deaths,0
 state,"Victoria, Australia (State/Province)",2020-03-15,recovered,8
+state,"Victoria, Australia (State/Province)",2020-03-16,active,63
+state,"Victoria, Australia (State/Province)",2020-03-16,confirmed,71
+state,"Victoria, Australia (State/Province)",2020-03-16,deaths,0
+state,"Victoria, Australia (State/Province)",2020-03-16,recovered,8
 state,"Virgin Islands, US (State/Province)",2020-03-14,active,1
 state,"Virgin Islands, US (State/Province)",2020-03-14,confirmed,1
 state,"Virgin Islands, US (State/Province)",2020-03-14,deaths,0
@@ -11031,6 +11483,10 @@ state,"Virgin Islands, US (State/Province)",2020-03-15,active,1
 state,"Virgin Islands, US (State/Province)",2020-03-15,confirmed,1
 state,"Virgin Islands, US (State/Province)",2020-03-15,deaths,0
 state,"Virgin Islands, US (State/Province)",2020-03-15,recovered,0
+state,"Virgin Islands, US (State/Province)",2020-03-16,active,1
+state,"Virgin Islands, US (State/Province)",2020-03-16,confirmed,1
+state,"Virgin Islands, US (State/Province)",2020-03-16,deaths,0
+state,"Virgin Islands, US (State/Province)",2020-03-16,recovered,0
 state,"Virginia, US (State/Province)",2020-03-08,active,2
 state,"Virginia, US (State/Province)",2020-03-08,confirmed,2
 state,"Virginia, US (State/Province)",2020-03-08,deaths,0
@@ -11063,6 +11519,10 @@ state,"Virginia, US (State/Province)",2020-03-15,active,44
 state,"Virginia, US (State/Province)",2020-03-15,confirmed,45
 state,"Virginia, US (State/Province)",2020-03-15,deaths,1
 state,"Virginia, US (State/Province)",2020-03-15,recovered,0
+state,"Virginia, US (State/Province)",2020-03-16,active,48
+state,"Virginia, US (State/Province)",2020-03-16,confirmed,49
+state,"Virginia, US (State/Province)",2020-03-16,deaths,1
+state,"Virginia, US (State/Province)",2020-03-16,recovered,0
 state,"Washington, US (State/Province)",2020-01-22,active,1
 state,"Washington, US (State/Province)",2020-01-22,confirmed,1
 state,"Washington, US (State/Province)",2020-01-22,deaths,0
@@ -11279,6 +11739,10 @@ state,"Washington, US (State/Province)",2020-03-15,active,602
 state,"Washington, US (State/Province)",2020-03-15,confirmed,643
 state,"Washington, US (State/Province)",2020-03-15,deaths,40
 state,"Washington, US (State/Province)",2020-03-15,recovered,1
+state,"Washington, US (State/Province)",2020-03-16,active,855
+state,"Washington, US (State/Province)",2020-03-16,confirmed,904
+state,"Washington, US (State/Province)",2020-03-16,deaths,48
+state,"Washington, US (State/Province)",2020-03-16,recovered,1
 state,"West Virginia, US (State/Province)",2020-03-10,active,0
 state,"West Virginia, US (State/Province)",2020-03-10,confirmed,0
 state,"West Virginia, US (State/Province)",2020-03-10,deaths,0
@@ -11303,6 +11767,10 @@ state,"West Virginia, US (State/Province)",2020-03-15,active,0
 state,"West Virginia, US (State/Province)",2020-03-15,confirmed,0
 state,"West Virginia, US (State/Province)",2020-03-15,deaths,0
 state,"West Virginia, US (State/Province)",2020-03-15,recovered,0
+state,"West Virginia, US (State/Province)",2020-03-16,active,0
+state,"West Virginia, US (State/Province)",2020-03-16,confirmed,0
+state,"West Virginia, US (State/Province)",2020-03-16,deaths,0
+state,"West Virginia, US (State/Province)",2020-03-16,recovered,0
 state,"Western Australia, Australia (State/Province)",2020-02-29,active,2
 state,"Western Australia, Australia (State/Province)",2020-02-29,confirmed,2
 state,"Western Australia, Australia (State/Province)",2020-02-29,deaths,0
@@ -11367,6 +11835,10 @@ state,"Western Australia, Australia (State/Province)",2020-03-15,active,16
 state,"Western Australia, Australia (State/Province)",2020-03-15,confirmed,17
 state,"Western Australia, Australia (State/Province)",2020-03-15,deaths,1
 state,"Western Australia, Australia (State/Province)",2020-03-15,recovered,0
+state,"Western Australia, Australia (State/Province)",2020-03-16,active,27
+state,"Western Australia, Australia (State/Province)",2020-03-16,confirmed,28
+state,"Western Australia, Australia (State/Province)",2020-03-16,deaths,1
+state,"Western Australia, Australia (State/Province)",2020-03-16,recovered,0
 state,"Wisconsin, US (State/Province)",2020-02-05,active,1
 state,"Wisconsin, US (State/Province)",2020-02-05,confirmed,1
 state,"Wisconsin, US (State/Province)",2020-02-05,deaths,0
@@ -11527,6 +11999,10 @@ state,"Wisconsin, US (State/Province)",2020-03-15,active,31
 state,"Wisconsin, US (State/Province)",2020-03-15,confirmed,32
 state,"Wisconsin, US (State/Province)",2020-03-15,deaths,0
 state,"Wisconsin, US (State/Province)",2020-03-15,recovered,1
+state,"Wisconsin, US (State/Province)",2020-03-16,active,46
+state,"Wisconsin, US (State/Province)",2020-03-16,confirmed,47
+state,"Wisconsin, US (State/Province)",2020-03-16,deaths,0
+state,"Wisconsin, US (State/Province)",2020-03-16,recovered,1
 state,"Wyoming, US (State/Province)",2020-03-10,active,0
 state,"Wyoming, US (State/Province)",2020-03-10,confirmed,0
 state,"Wyoming, US (State/Province)",2020-03-10,deaths,0
@@ -11551,6 +12027,10 @@ state,"Wyoming, US (State/Province)",2020-03-15,active,3
 state,"Wyoming, US (State/Province)",2020-03-15,confirmed,3
 state,"Wyoming, US (State/Province)",2020-03-15,deaths,0
 state,"Wyoming, US (State/Province)",2020-03-15,recovered,0
+state,"Wyoming, US (State/Province)",2020-03-16,active,3
+state,"Wyoming, US (State/Province)",2020-03-16,confirmed,3
+state,"Wyoming, US (State/Province)",2020-03-16,deaths,0
+state,"Wyoming, US (State/Province)",2020-03-16,recovered,0
 state,"Xinjiang, China (State/Province)",2020-01-22,active,0
 state,"Xinjiang, China (State/Province)",2020-01-22,confirmed,0
 state,"Xinjiang, China (State/Province)",2020-01-22,deaths,0
@@ -11767,6 +12247,10 @@ state,"Xinjiang, China (State/Province)",2020-03-15,active,0
 state,"Xinjiang, China (State/Province)",2020-03-15,confirmed,76
 state,"Xinjiang, China (State/Province)",2020-03-15,deaths,3
 state,"Xinjiang, China (State/Province)",2020-03-15,recovered,73
+state,"Xinjiang, China (State/Province)",2020-03-16,active,0
+state,"Xinjiang, China (State/Province)",2020-03-16,confirmed,76
+state,"Xinjiang, China (State/Province)",2020-03-16,deaths,3
+state,"Xinjiang, China (State/Province)",2020-03-16,recovered,73
 state,"Yunnan, China (State/Province)",2020-01-22,active,1
 state,"Yunnan, China (State/Province)",2020-01-22,confirmed,1
 state,"Yunnan, China (State/Province)",2020-01-22,deaths,0
@@ -11983,6 +12467,10 @@ state,"Yunnan, China (State/Province)",2020-03-15,active,0
 state,"Yunnan, China (State/Province)",2020-03-15,confirmed,174
 state,"Yunnan, China (State/Province)",2020-03-15,deaths,2
 state,"Yunnan, China (State/Province)",2020-03-15,recovered,172
+state,"Yunnan, China (State/Province)",2020-03-16,active,2
+state,"Yunnan, China (State/Province)",2020-03-16,confirmed,176
+state,"Yunnan, China (State/Province)",2020-03-16,deaths,2
+state,"Yunnan, China (State/Province)",2020-03-16,recovered,172
 state,"Zhejiang, China (State/Province)",2020-01-22,active,10
 state,"Zhejiang, China (State/Province)",2020-01-22,confirmed,10
 state,"Zhejiang, China (State/Province)",2020-01-22,deaths,0
@@ -12199,6 +12687,10 @@ state,"Zhejiang, China (State/Province)",2020-03-15,active,19
 state,"Zhejiang, China (State/Province)",2020-03-15,confirmed,1231
 state,"Zhejiang, China (State/Province)",2020-03-15,deaths,1
 state,"Zhejiang, China (State/Province)",2020-03-15,recovered,1211
+state,"Zhejiang, China (State/Province)",2020-03-16,active,14
+state,"Zhejiang, China (State/Province)",2020-03-16,confirmed,1231
+state,"Zhejiang, China (State/Province)",2020-03-16,deaths,1
+state,"Zhejiang, China (State/Province)",2020-03-16,recovered,1216
 country,Afghanistan (Country),2020-02-24,active,1
 country,Afghanistan (Country),2020-02-24,confirmed,1
 country,Afghanistan (Country),2020-02-24,deaths,0
@@ -12283,6 +12775,10 @@ country,Afghanistan (Country),2020-03-15,active,16
 country,Afghanistan (Country),2020-03-15,confirmed,16
 country,Afghanistan (Country),2020-03-15,deaths,0
 country,Afghanistan (Country),2020-03-15,recovered,0
+country,Afghanistan (Country),2020-03-16,active,20
+country,Afghanistan (Country),2020-03-16,confirmed,21
+country,Afghanistan (Country),2020-03-16,deaths,0
+country,Afghanistan (Country),2020-03-16,recovered,1
 country,Albania (Country),2020-03-09,active,2
 country,Albania (Country),2020-03-09,confirmed,2
 country,Albania (Country),2020-03-09,deaths,0
@@ -12311,6 +12807,10 @@ country,Albania (Country),2020-03-15,active,41
 country,Albania (Country),2020-03-15,confirmed,42
 country,Albania (Country),2020-03-15,deaths,1
 country,Albania (Country),2020-03-15,recovered,0
+country,Albania (Country),2020-03-16,active,50
+country,Albania (Country),2020-03-16,confirmed,51
+country,Albania (Country),2020-03-16,deaths,1
+country,Albania (Country),2020-03-16,recovered,0
 country,Algeria (Country),2020-02-25,active,1
 country,Algeria (Country),2020-02-25,confirmed,1
 country,Algeria (Country),2020-02-25,deaths,0
@@ -12391,6 +12891,10 @@ country,Algeria (Country),2020-03-15,active,32
 country,Algeria (Country),2020-03-15,confirmed,48
 country,Algeria (Country),2020-03-15,deaths,4
 country,Algeria (Country),2020-03-15,recovered,12
+country,Algeria (Country),2020-03-16,active,38
+country,Algeria (Country),2020-03-16,confirmed,54
+country,Algeria (Country),2020-03-16,deaths,4
+country,Algeria (Country),2020-03-16,recovered,12
 country,Andorra (Country),2020-03-02,active,1
 country,Andorra (Country),2020-03-02,confirmed,1
 country,Andorra (Country),2020-03-02,deaths,0
@@ -12447,6 +12951,10 @@ country,Andorra (Country),2020-03-15,active,0
 country,Andorra (Country),2020-03-15,confirmed,1
 country,Andorra (Country),2020-03-15,deaths,0
 country,Andorra (Country),2020-03-15,recovered,1
+country,Andorra (Country),2020-03-16,active,1
+country,Andorra (Country),2020-03-16,confirmed,2
+country,Andorra (Country),2020-03-16,deaths,0
+country,Andorra (Country),2020-03-16,recovered,1
 country,Antigua and Barbuda (Country),2020-03-13,active,1
 country,Antigua and Barbuda (Country),2020-03-13,confirmed,1
 country,Antigua and Barbuda (Country),2020-03-13,deaths,0
@@ -12459,6 +12967,10 @@ country,Antigua and Barbuda (Country),2020-03-15,active,1
 country,Antigua and Barbuda (Country),2020-03-15,confirmed,1
 country,Antigua and Barbuda (Country),2020-03-15,deaths,0
 country,Antigua and Barbuda (Country),2020-03-15,recovered,0
+country,Antigua and Barbuda (Country),2020-03-16,active,1
+country,Antigua and Barbuda (Country),2020-03-16,confirmed,1
+country,Antigua and Barbuda (Country),2020-03-16,deaths,0
+country,Antigua and Barbuda (Country),2020-03-16,recovered,0
 country,Argentina (Country),2020-03-03,active,1
 country,Argentina (Country),2020-03-03,confirmed,1
 country,Argentina (Country),2020-03-03,deaths,0
@@ -12511,6 +13023,10 @@ country,Argentina (Country),2020-03-15,active,42
 country,Argentina (Country),2020-03-15,confirmed,45
 country,Argentina (Country),2020-03-15,deaths,2
 country,Argentina (Country),2020-03-15,recovered,1
+country,Argentina (Country),2020-03-16,active,53
+country,Argentina (Country),2020-03-16,confirmed,56
+country,Argentina (Country),2020-03-16,deaths,2
+country,Argentina (Country),2020-03-16,recovered,1
 country,Armenia (Country),2020-03-01,active,1
 country,Armenia (Country),2020-03-01,confirmed,1
 country,Armenia (Country),2020-03-01,deaths,0
@@ -12571,6 +13087,10 @@ country,Armenia (Country),2020-03-15,active,26
 country,Armenia (Country),2020-03-15,confirmed,26
 country,Armenia (Country),2020-03-15,deaths,0
 country,Armenia (Country),2020-03-15,recovered,0
+country,Armenia (Country),2020-03-16,active,52
+country,Armenia (Country),2020-03-16,confirmed,52
+country,Armenia (Country),2020-03-16,deaths,0
+country,Armenia (Country),2020-03-16,recovered,0
 country,Aruba (Country),2020-03-13,active,2
 country,Aruba (Country),2020-03-13,confirmed,2
 country,Aruba (Country),2020-03-13,deaths,0
@@ -12583,6 +13103,10 @@ country,Aruba (Country),2020-03-15,active,2
 country,Aruba (Country),2020-03-15,confirmed,2
 country,Aruba (Country),2020-03-15,deaths,0
 country,Aruba (Country),2020-03-15,recovered,0
+country,Aruba (Country),2020-03-16,active,2
+country,Aruba (Country),2020-03-16,confirmed,2
+country,Aruba (Country),2020-03-16,deaths,0
+country,Aruba (Country),2020-03-16,recovered,0
 country,Australia (Country),2020-01-23,active,0
 country,Australia (Country),2020-01-23,confirmed,0
 country,Australia (Country),2020-01-23,deaths,0
@@ -12791,6 +13315,10 @@ country,Australia (Country),2020-03-15,active,271
 country,Australia (Country),2020-03-15,confirmed,297
 country,Australia (Country),2020-03-15,deaths,3
 country,Australia (Country),2020-03-15,recovered,23
+country,Australia (Country),2020-03-16,active,351
+country,Australia (Country),2020-03-16,confirmed,377
+country,Australia (Country),2020-03-16,deaths,3
+country,Australia (Country),2020-03-16,recovered,23
 country,Austria (Country),2020-02-25,active,2
 country,Austria (Country),2020-02-25,confirmed,2
 country,Austria (Country),2020-02-25,deaths,0
@@ -12871,6 +13399,10 @@ country,Austria (Country),2020-03-15,active,853
 country,Austria (Country),2020-03-15,confirmed,860
 country,Austria (Country),2020-03-15,deaths,1
 country,Austria (Country),2020-03-15,recovered,6
+country,Austria (Country),2020-03-16,active,1009
+country,Austria (Country),2020-03-16,confirmed,1018
+country,Austria (Country),2020-03-16,deaths,3
+country,Austria (Country),2020-03-16,recovered,6
 country,Azerbaijan (Country),2020-02-28,active,1
 country,Azerbaijan (Country),2020-02-28,confirmed,1
 country,Azerbaijan (Country),2020-02-28,deaths,0
@@ -12935,6 +13467,10 @@ country,Azerbaijan (Country),2020-03-15,active,16
 country,Azerbaijan (Country),2020-03-15,confirmed,23
 country,Azerbaijan (Country),2020-03-15,deaths,1
 country,Azerbaijan (Country),2020-03-15,recovered,6
+country,Azerbaijan (Country),2020-03-16,active,8
+country,Azerbaijan (Country),2020-03-16,confirmed,15
+country,Azerbaijan (Country),2020-03-16,deaths,1
+country,Azerbaijan (Country),2020-03-16,recovered,6
 country,Bahrain (Country),2020-02-24,active,1
 country,Bahrain (Country),2020-02-24,confirmed,1
 country,Bahrain (Country),2020-02-24,deaths,0
@@ -13019,6 +13555,10 @@ country,Bahrain (Country),2020-03-15,active,154
 country,Bahrain (Country),2020-03-15,confirmed,214
 country,Bahrain (Country),2020-03-15,deaths,0
 country,Bahrain (Country),2020-03-15,recovered,60
+country,Bahrain (Country),2020-03-16,active,136
+country,Bahrain (Country),2020-03-16,confirmed,214
+country,Bahrain (Country),2020-03-16,deaths,1
+country,Bahrain (Country),2020-03-16,recovered,77
 country,Bangladesh (Country),2020-03-08,active,3
 country,Bangladesh (Country),2020-03-08,confirmed,3
 country,Bangladesh (Country),2020-03-08,deaths,0
@@ -13051,6 +13591,10 @@ country,Bangladesh (Country),2020-03-15,active,5
 country,Bangladesh (Country),2020-03-15,confirmed,5
 country,Bangladesh (Country),2020-03-15,deaths,0
 country,Bangladesh (Country),2020-03-15,recovered,0
+country,Bangladesh (Country),2020-03-16,active,6
+country,Bangladesh (Country),2020-03-16,confirmed,8
+country,Bangladesh (Country),2020-03-16,deaths,0
+country,Bangladesh (Country),2020-03-16,recovered,2
 country,Belarus (Country),2020-02-28,active,1
 country,Belarus (Country),2020-02-28,confirmed,1
 country,Belarus (Country),2020-02-28,deaths,0
@@ -13119,6 +13663,10 @@ country,Belarus (Country),2020-03-15,active,24
 country,Belarus (Country),2020-03-15,confirmed,27
 country,Belarus (Country),2020-03-15,deaths,0
 country,Belarus (Country),2020-03-15,recovered,3
+country,Belarus (Country),2020-03-16,active,33
+country,Belarus (Country),2020-03-16,confirmed,36
+country,Belarus (Country),2020-03-16,deaths,0
+country,Belarus (Country),2020-03-16,recovered,3
 country,Belgium (Country),2020-02-04,active,1
 country,Belgium (Country),2020-02-04,confirmed,1
 country,Belgium (Country),2020-02-04,deaths,0
@@ -13283,6 +13831,14 @@ country,Belgium (Country),2020-03-15,active,881
 country,Belgium (Country),2020-03-15,confirmed,886
 country,Belgium (Country),2020-03-15,deaths,4
 country,Belgium (Country),2020-03-15,recovered,1
+country,Belgium (Country),2020-03-16,active,1052
+country,Belgium (Country),2020-03-16,confirmed,1058
+country,Belgium (Country),2020-03-16,deaths,5
+country,Belgium (Country),2020-03-16,recovered,1
+country,Benin (Country),2020-03-16,active,1
+country,Benin (Country),2020-03-16,confirmed,1
+country,Benin (Country),2020-03-16,deaths,0
+country,Benin (Country),2020-03-16,recovered,0
 country,Bhutan (Country),2020-03-06,active,1
 country,Bhutan (Country),2020-03-06,confirmed,1
 country,Bhutan (Country),2020-03-06,deaths,0
@@ -13323,6 +13879,10 @@ country,Bhutan (Country),2020-03-15,active,1
 country,Bhutan (Country),2020-03-15,confirmed,1
 country,Bhutan (Country),2020-03-15,deaths,0
 country,Bhutan (Country),2020-03-15,recovered,0
+country,Bhutan (Country),2020-03-16,active,1
+country,Bhutan (Country),2020-03-16,confirmed,1
+country,Bhutan (Country),2020-03-16,deaths,0
+country,Bhutan (Country),2020-03-16,recovered,0
 country,Bolivia (Country),2020-03-11,active,2
 country,Bolivia (Country),2020-03-11,confirmed,2
 country,Bolivia (Country),2020-03-11,deaths,0
@@ -13343,6 +13903,10 @@ country,Bolivia (Country),2020-03-15,active,10
 country,Bolivia (Country),2020-03-15,confirmed,10
 country,Bolivia (Country),2020-03-15,deaths,0
 country,Bolivia (Country),2020-03-15,recovered,0
+country,Bolivia (Country),2020-03-16,active,11
+country,Bolivia (Country),2020-03-16,confirmed,11
+country,Bolivia (Country),2020-03-16,deaths,0
+country,Bolivia (Country),2020-03-16,recovered,0
 country,Bosnia and Herzegovina (Country),2020-03-05,active,2
 country,Bosnia and Herzegovina (Country),2020-03-05,confirmed,2
 country,Bosnia and Herzegovina (Country),2020-03-05,deaths,0
@@ -13387,6 +13951,10 @@ country,Bosnia and Herzegovina (Country),2020-03-15,active,24
 country,Bosnia and Herzegovina (Country),2020-03-15,confirmed,24
 country,Bosnia and Herzegovina (Country),2020-03-15,deaths,0
 country,Bosnia and Herzegovina (Country),2020-03-15,recovered,0
+country,Bosnia and Herzegovina (Country),2020-03-16,active,25
+country,Bosnia and Herzegovina (Country),2020-03-16,confirmed,25
+country,Bosnia and Herzegovina (Country),2020-03-16,deaths,0
+country,Bosnia and Herzegovina (Country),2020-03-16,recovered,0
 country,Brazil (Country),2020-01-23,active,0
 country,Brazil (Country),2020-01-23,confirmed,0
 country,Brazil (Country),2020-01-23,deaths,0
@@ -13467,6 +14035,10 @@ country,Brazil (Country),2020-03-15,active,162
 country,Brazil (Country),2020-03-15,confirmed,162
 country,Brazil (Country),2020-03-15,deaths,0
 country,Brazil (Country),2020-03-15,recovered,0
+country,Brazil (Country),2020-03-16,active,199
+country,Brazil (Country),2020-03-16,confirmed,200
+country,Brazil (Country),2020-03-16,deaths,0
+country,Brazil (Country),2020-03-16,recovered,1
 country,Brunei (Country),2020-03-09,active,1
 country,Brunei (Country),2020-03-09,confirmed,1
 country,Brunei (Country),2020-03-09,deaths,0
@@ -13495,6 +14067,10 @@ country,Brunei (Country),2020-03-15,active,50
 country,Brunei (Country),2020-03-15,confirmed,50
 country,Brunei (Country),2020-03-15,deaths,0
 country,Brunei (Country),2020-03-15,recovered,0
+country,Brunei (Country),2020-03-16,active,54
+country,Brunei (Country),2020-03-16,confirmed,54
+country,Brunei (Country),2020-03-16,deaths,0
+country,Brunei (Country),2020-03-16,recovered,0
 country,Bulgaria (Country),2020-03-08,active,4
 country,Bulgaria (Country),2020-03-08,confirmed,4
 country,Bulgaria (Country),2020-03-08,deaths,0
@@ -13527,6 +14103,10 @@ country,Bulgaria (Country),2020-03-15,active,49
 country,Bulgaria (Country),2020-03-15,confirmed,51
 country,Bulgaria (Country),2020-03-15,deaths,2
 country,Bulgaria (Country),2020-03-15,recovered,0
+country,Bulgaria (Country),2020-03-16,active,50
+country,Bulgaria (Country),2020-03-16,confirmed,52
+country,Bulgaria (Country),2020-03-16,deaths,2
+country,Bulgaria (Country),2020-03-16,recovered,0
 country,Burkina Faso (Country),2020-03-10,active,1
 country,Burkina Faso (Country),2020-03-10,confirmed,1
 country,Burkina Faso (Country),2020-03-10,deaths,0
@@ -13551,6 +14131,10 @@ country,Burkina Faso (Country),2020-03-15,active,3
 country,Burkina Faso (Country),2020-03-15,confirmed,3
 country,Burkina Faso (Country),2020-03-15,deaths,0
 country,Burkina Faso (Country),2020-03-15,recovered,0
+country,Burkina Faso (Country),2020-03-16,active,15
+country,Burkina Faso (Country),2020-03-16,confirmed,15
+country,Burkina Faso (Country),2020-03-16,deaths,0
+country,Burkina Faso (Country),2020-03-16,recovered,0
 country,Cambodia (Country),2020-01-27,active,1
 country,Cambodia (Country),2020-01-27,confirmed,1
 country,Cambodia (Country),2020-01-27,deaths,0
@@ -13747,6 +14331,10 @@ country,Cambodia (Country),2020-03-15,active,6
 country,Cambodia (Country),2020-03-15,confirmed,7
 country,Cambodia (Country),2020-03-15,deaths,0
 country,Cambodia (Country),2020-03-15,recovered,1
+country,Cambodia (Country),2020-03-16,active,6
+country,Cambodia (Country),2020-03-16,confirmed,7
+country,Cambodia (Country),2020-03-16,deaths,0
+country,Cambodia (Country),2020-03-16,recovered,1
 country,Cameroon (Country),2020-03-06,active,1
 country,Cameroon (Country),2020-03-06,confirmed,1
 country,Cameroon (Country),2020-03-06,deaths,0
@@ -13787,6 +14375,10 @@ country,Cameroon (Country),2020-03-15,active,2
 country,Cameroon (Country),2020-03-15,confirmed,2
 country,Cameroon (Country),2020-03-15,deaths,0
 country,Cameroon (Country),2020-03-15,recovered,0
+country,Cameroon (Country),2020-03-16,active,4
+country,Cameroon (Country),2020-03-16,confirmed,4
+country,Cameroon (Country),2020-03-16,deaths,0
+country,Cameroon (Country),2020-03-16,recovered,0
 country,Canada (Country),2020-01-26,active,1
 country,Canada (Country),2020-01-26,confirmed,1
 country,Canada (Country),2020-01-26,deaths,0
@@ -13987,6 +14579,10 @@ country,Canada (Country),2020-03-15,active,241
 country,Canada (Country),2020-03-15,confirmed,250
 country,Canada (Country),2020-03-15,deaths,1
 country,Canada (Country),2020-03-15,recovered,8
+country,Canada (Country),2020-03-16,active,402
+country,Canada (Country),2020-03-16,confirmed,415
+country,Canada (Country),2020-03-16,deaths,4
+country,Canada (Country),2020-03-16,recovered,9
 country,Cayman Islands (Country),2020-03-13,active,1
 country,Cayman Islands (Country),2020-03-13,confirmed,1
 country,Cayman Islands (Country),2020-03-13,deaths,0
@@ -14003,6 +14599,10 @@ country,Central African Republic (Country),2020-03-15,active,1
 country,Central African Republic (Country),2020-03-15,confirmed,1
 country,Central African Republic (Country),2020-03-15,deaths,0
 country,Central African Republic (Country),2020-03-15,recovered,0
+country,Central African Republic (Country),2020-03-16,active,1
+country,Central African Republic (Country),2020-03-16,confirmed,1
+country,Central African Republic (Country),2020-03-16,deaths,0
+country,Central African Republic (Country),2020-03-16,recovered,0
 country,Channel Islands (Country),2020-03-10,active,1
 country,Channel Islands (Country),2020-03-10,confirmed,1
 country,Channel Islands (Country),2020-03-10,deaths,0
@@ -14059,6 +14659,10 @@ country,Chile (Country),2020-03-15,active,74
 country,Chile (Country),2020-03-15,confirmed,74
 country,Chile (Country),2020-03-15,deaths,0
 country,Chile (Country),2020-03-15,recovered,0
+country,Chile (Country),2020-03-16,active,155
+country,Chile (Country),2020-03-16,confirmed,155
+country,Chile (Country),2020-03-16,deaths,0
+country,Chile (Country),2020-03-16,recovered,0
 country,China (Country),2020-01-22,active,502
 country,China (Country),2020-01-22,confirmed,547
 country,China (Country),2020-01-22,deaths,17
@@ -14275,6 +14879,10 @@ country,China (Country),2020-03-15,active,10783
 country,China (Country),2020-03-15,confirmed,81003
 country,China (Country),2020-03-15,deaths,3203
 country,China (Country),2020-03-15,recovered,67017
+country,China (Country),2020-03-16,active,9906
+country,China (Country),2020-03-16,confirmed,81033
+country,China (Country),2020-03-16,deaths,3217
+country,China (Country),2020-03-16,recovered,67910
 country,Colombia (Country),2020-01-23,active,0
 country,Colombia (Country),2020-01-23,confirmed,0
 country,Colombia (Country),2020-01-23,deaths,0
@@ -14319,10 +14927,18 @@ country,Colombia (Country),2020-03-15,active,34
 country,Colombia (Country),2020-03-15,confirmed,34
 country,Colombia (Country),2020-03-15,deaths,0
 country,Colombia (Country),2020-03-15,recovered,0
+country,Colombia (Country),2020-03-16,active,54
+country,Colombia (Country),2020-03-16,confirmed,54
+country,Colombia (Country),2020-03-16,deaths,0
+country,Colombia (Country),2020-03-16,recovered,0
 country,Congo (Brazzaville) (Country),2020-03-15,active,1
 country,Congo (Brazzaville) (Country),2020-03-15,confirmed,1
 country,Congo (Brazzaville) (Country),2020-03-15,deaths,0
 country,Congo (Brazzaville) (Country),2020-03-15,recovered,0
+country,Congo (Brazzaville) (Country),2020-03-16,active,1
+country,Congo (Brazzaville) (Country),2020-03-16,confirmed,1
+country,Congo (Brazzaville) (Country),2020-03-16,deaths,0
+country,Congo (Brazzaville) (Country),2020-03-16,recovered,0
 country,Congo (Kinshasa) (Country),2020-03-11,active,1
 country,Congo (Kinshasa) (Country),2020-03-11,confirmed,1
 country,Congo (Kinshasa) (Country),2020-03-11,deaths,0
@@ -14343,6 +14959,10 @@ country,Congo (Kinshasa) (Country),2020-03-15,active,2
 country,Congo (Kinshasa) (Country),2020-03-15,confirmed,2
 country,Congo (Kinshasa) (Country),2020-03-15,deaths,0
 country,Congo (Kinshasa) (Country),2020-03-15,recovered,0
+country,Congo (Kinshasa) (Country),2020-03-16,active,2
+country,Congo (Kinshasa) (Country),2020-03-16,confirmed,2
+country,Congo (Kinshasa) (Country),2020-03-16,deaths,0
+country,Congo (Kinshasa) (Country),2020-03-16,recovered,0
 country,Costa Rica (Country),2020-03-06,active,1
 country,Costa Rica (Country),2020-03-06,confirmed,1
 country,Costa Rica (Country),2020-03-06,deaths,0
@@ -14383,6 +15003,10 @@ country,Costa Rica (Country),2020-03-15,active,27
 country,Costa Rica (Country),2020-03-15,confirmed,27
 country,Costa Rica (Country),2020-03-15,deaths,0
 country,Costa Rica (Country),2020-03-15,recovered,0
+country,Costa Rica (Country),2020-03-16,active,35
+country,Costa Rica (Country),2020-03-16,confirmed,35
+country,Costa Rica (Country),2020-03-16,deaths,0
+country,Costa Rica (Country),2020-03-16,recovered,0
 country,Cote d'Ivoire (Country),2020-03-11,active,1
 country,Cote d'Ivoire (Country),2020-03-11,confirmed,1
 country,Cote d'Ivoire (Country),2020-03-11,deaths,0
@@ -14403,6 +15027,10 @@ country,Cote d'Ivoire (Country),2020-03-15,active,1
 country,Cote d'Ivoire (Country),2020-03-15,confirmed,1
 country,Cote d'Ivoire (Country),2020-03-15,deaths,0
 country,Cote d'Ivoire (Country),2020-03-15,recovered,0
+country,Cote d'Ivoire (Country),2020-03-16,active,1
+country,Cote d'Ivoire (Country),2020-03-16,confirmed,1
+country,Cote d'Ivoire (Country),2020-03-16,deaths,0
+country,Cote d'Ivoire (Country),2020-03-16,recovered,0
 country,Croatia (Country),2020-02-25,active,1
 country,Croatia (Country),2020-02-25,confirmed,1
 country,Croatia (Country),2020-02-25,deaths,0
@@ -14483,6 +15111,10 @@ country,Croatia (Country),2020-03-15,active,48
 country,Croatia (Country),2020-03-15,confirmed,49
 country,Croatia (Country),2020-03-15,deaths,0
 country,Croatia (Country),2020-03-15,recovered,1
+country,Croatia (Country),2020-03-16,active,55
+country,Croatia (Country),2020-03-16,confirmed,57
+country,Croatia (Country),2020-03-16,deaths,0
+country,Croatia (Country),2020-03-16,recovered,2
 country,Cruise Ship (Country),2020-03-11,active,364
 country,Cruise Ship (Country),2020-03-11,confirmed,696
 country,Cruise Ship (Country),2020-03-11,deaths,7
@@ -14503,6 +15135,10 @@ country,Cruise Ship (Country),2020-03-15,active,364
 country,Cruise Ship (Country),2020-03-15,confirmed,696
 country,Cruise Ship (Country),2020-03-15,deaths,7
 country,Cruise Ship (Country),2020-03-15,recovered,325
+country,Cruise Ship (Country),2020-03-16,active,364
+country,Cruise Ship (Country),2020-03-16,confirmed,696
+country,Cruise Ship (Country),2020-03-16,deaths,7
+country,Cruise Ship (Country),2020-03-16,recovered,325
 country,Cuba (Country),2020-03-12,active,3
 country,Cuba (Country),2020-03-12,confirmed,3
 country,Cuba (Country),2020-03-12,deaths,0
@@ -14519,6 +15155,10 @@ country,Cuba (Country),2020-03-15,active,4
 country,Cuba (Country),2020-03-15,confirmed,4
 country,Cuba (Country),2020-03-15,deaths,0
 country,Cuba (Country),2020-03-15,recovered,0
+country,Cuba (Country),2020-03-16,active,4
+country,Cuba (Country),2020-03-16,confirmed,4
+country,Cuba (Country),2020-03-16,deaths,0
+country,Cuba (Country),2020-03-16,recovered,0
 country,Curacao (Country),2020-03-14,active,1
 country,Curacao (Country),2020-03-14,confirmed,1
 country,Curacao (Country),2020-03-14,deaths,0
@@ -14555,6 +15195,10 @@ country,Cyprus (Country),2020-03-15,active,26
 country,Cyprus (Country),2020-03-15,confirmed,26
 country,Cyprus (Country),2020-03-15,deaths,0
 country,Cyprus (Country),2020-03-15,recovered,0
+country,Cyprus (Country),2020-03-16,active,33
+country,Cyprus (Country),2020-03-16,confirmed,33
+country,Cyprus (Country),2020-03-16,deaths,0
+country,Cyprus (Country),2020-03-16,recovered,0
 country,Czech Republic (Country),2020-03-01,active,3
 country,Czech Republic (Country),2020-03-01,confirmed,3
 country,Czech Republic (Country),2020-03-01,deaths,0
@@ -14615,6 +15259,10 @@ country,Czechia (Country),2020-03-15,active,253
 country,Czechia (Country),2020-03-15,confirmed,253
 country,Czechia (Country),2020-03-15,deaths,0
 country,Czechia (Country),2020-03-15,recovered,0
+country,Czechia (Country),2020-03-16,active,295
+country,Czechia (Country),2020-03-16,confirmed,298
+country,Czechia (Country),2020-03-16,deaths,0
+country,Czechia (Country),2020-03-16,recovered,3
 country,Denmark (Country),2020-02-27,active,1
 country,Denmark (Country),2020-02-27,confirmed,1
 country,Denmark (Country),2020-02-27,deaths,0
@@ -14687,6 +15335,10 @@ country,Denmark (Country),2020-03-15,active,872
 country,Denmark (Country),2020-03-15,confirmed,875
 country,Denmark (Country),2020-03-15,deaths,2
 country,Denmark (Country),2020-03-15,recovered,1
+country,Denmark (Country),2020-03-16,active,928
+country,Denmark (Country),2020-03-16,confirmed,932
+country,Denmark (Country),2020-03-16,deaths,3
+country,Denmark (Country),2020-03-16,recovered,1
 country,Dominican Republic (Country),2020-03-01,active,1
 country,Dominican Republic (Country),2020-03-01,confirmed,1
 country,Dominican Republic (Country),2020-03-01,deaths,0
@@ -14747,6 +15399,10 @@ country,Dominican Republic (Country),2020-03-15,active,11
 country,Dominican Republic (Country),2020-03-15,confirmed,11
 country,Dominican Republic (Country),2020-03-15,deaths,0
 country,Dominican Republic (Country),2020-03-15,recovered,0
+country,Dominican Republic (Country),2020-03-16,active,11
+country,Dominican Republic (Country),2020-03-16,confirmed,11
+country,Dominican Republic (Country),2020-03-16,deaths,0
+country,Dominican Republic (Country),2020-03-16,recovered,0
 country,Ecuador (Country),2020-03-01,active,6
 country,Ecuador (Country),2020-03-01,confirmed,6
 country,Ecuador (Country),2020-03-01,deaths,0
@@ -14807,6 +15463,10 @@ country,Ecuador (Country),2020-03-15,active,26
 country,Ecuador (Country),2020-03-15,confirmed,28
 country,Ecuador (Country),2020-03-15,deaths,2
 country,Ecuador (Country),2020-03-15,recovered,0
+country,Ecuador (Country),2020-03-16,active,35
+country,Ecuador (Country),2020-03-16,confirmed,37
+country,Ecuador (Country),2020-03-16,deaths,2
+country,Ecuador (Country),2020-03-16,recovered,0
 country,Egypt (Country),2020-02-14,active,1
 country,Egypt (Country),2020-02-14,confirmed,1
 country,Egypt (Country),2020-02-14,deaths,0
@@ -14931,10 +15591,18 @@ country,Egypt (Country),2020-03-15,active,87
 country,Egypt (Country),2020-03-15,confirmed,110
 country,Egypt (Country),2020-03-15,deaths,2
 country,Egypt (Country),2020-03-15,recovered,21
+country,Egypt (Country),2020-03-16,active,121
+country,Egypt (Country),2020-03-16,confirmed,150
+country,Egypt (Country),2020-03-16,deaths,2
+country,Egypt (Country),2020-03-16,recovered,27
 country,Equatorial Guinea (Country),2020-03-15,active,1
 country,Equatorial Guinea (Country),2020-03-15,confirmed,1
 country,Equatorial Guinea (Country),2020-03-15,deaths,0
 country,Equatorial Guinea (Country),2020-03-15,recovered,0
+country,Equatorial Guinea (Country),2020-03-16,active,1
+country,Equatorial Guinea (Country),2020-03-16,confirmed,1
+country,Equatorial Guinea (Country),2020-03-16,deaths,0
+country,Equatorial Guinea (Country),2020-03-16,recovered,0
 country,Estonia (Country),2020-02-27,active,1
 country,Estonia (Country),2020-02-27,confirmed,1
 country,Estonia (Country),2020-02-27,deaths,0
@@ -15007,6 +15675,10 @@ country,Estonia (Country),2020-03-15,active,170
 country,Estonia (Country),2020-03-15,confirmed,171
 country,Estonia (Country),2020-03-15,deaths,0
 country,Estonia (Country),2020-03-15,recovered,1
+country,Estonia (Country),2020-03-16,active,204
+country,Estonia (Country),2020-03-16,confirmed,205
+country,Estonia (Country),2020-03-16,deaths,0
+country,Estonia (Country),2020-03-16,recovered,1
 country,Eswatini (Country),2020-03-14,active,1
 country,Eswatini (Country),2020-03-14,confirmed,1
 country,Eswatini (Country),2020-03-14,deaths,0
@@ -15015,6 +15687,10 @@ country,Eswatini (Country),2020-03-15,active,1
 country,Eswatini (Country),2020-03-15,confirmed,1
 country,Eswatini (Country),2020-03-15,deaths,0
 country,Eswatini (Country),2020-03-15,recovered,0
+country,Eswatini (Country),2020-03-16,active,1
+country,Eswatini (Country),2020-03-16,confirmed,1
+country,Eswatini (Country),2020-03-16,deaths,0
+country,Eswatini (Country),2020-03-16,recovered,0
 country,Ethiopia (Country),2020-03-13,active,1
 country,Ethiopia (Country),2020-03-13,confirmed,1
 country,Ethiopia (Country),2020-03-13,deaths,0
@@ -15027,6 +15703,10 @@ country,Ethiopia (Country),2020-03-15,active,1
 country,Ethiopia (Country),2020-03-15,confirmed,1
 country,Ethiopia (Country),2020-03-15,deaths,0
 country,Ethiopia (Country),2020-03-15,recovered,0
+country,Ethiopia (Country),2020-03-16,active,5
+country,Ethiopia (Country),2020-03-16,confirmed,5
+country,Ethiopia (Country),2020-03-16,deaths,0
+country,Ethiopia (Country),2020-03-16,recovered,0
 country,Faroe Islands (Country),2020-03-04,active,1
 country,Faroe Islands (Country),2020-03-04,confirmed,1
 country,Faroe Islands (Country),2020-03-04,deaths,0
@@ -15243,6 +15923,10 @@ country,Finland (Country),2020-03-15,active,234
 country,Finland (Country),2020-03-15,confirmed,244
 country,Finland (Country),2020-03-15,deaths,0
 country,Finland (Country),2020-03-15,recovered,10
+country,Finland (Country),2020-03-16,active,267
+country,Finland (Country),2020-03-16,confirmed,277
+country,Finland (Country),2020-03-16,deaths,0
+country,Finland (Country),2020-03-16,recovered,10
 country,France (Country),2020-01-24,active,2
 country,France (Country),2020-01-24,confirmed,2
 country,France (Country),2020-01-24,deaths,0
@@ -15451,6 +16135,10 @@ country,France (Country),2020-03-15,active,4410
 country,France (Country),2020-03-15,confirmed,4513
 country,France (Country),2020-03-15,deaths,91
 country,France (Country),2020-03-15,recovered,12
+country,France (Country),2020-03-16,active,6490
+country,France (Country),2020-03-16,confirmed,6650
+country,France (Country),2020-03-16,deaths,148
+country,France (Country),2020-03-16,recovered,12
 country,French Guiana (Country),2020-03-07,active,5
 country,French Guiana (Country),2020-03-07,confirmed,5
 country,French Guiana (Country),2020-03-07,deaths,0
@@ -15483,6 +16171,10 @@ country,French Guiana (Country),2020-03-14,active,5
 country,French Guiana (Country),2020-03-14,confirmed,5
 country,French Guiana (Country),2020-03-14,deaths,0
 country,French Guiana (Country),2020-03-14,recovered,0
+country,French Guiana (Country),2020-03-16,active,11
+country,French Guiana (Country),2020-03-16,confirmed,11
+country,French Guiana (Country),2020-03-16,deaths,0
+country,French Guiana (Country),2020-03-16,recovered,0
 country,Gabon (Country),2020-03-14,active,1
 country,Gabon (Country),2020-03-14,confirmed,1
 country,Gabon (Country),2020-03-14,deaths,0
@@ -15491,6 +16183,10 @@ country,Gabon (Country),2020-03-15,active,1
 country,Gabon (Country),2020-03-15,confirmed,1
 country,Gabon (Country),2020-03-15,deaths,0
 country,Gabon (Country),2020-03-15,recovered,0
+country,Gabon (Country),2020-03-16,active,1
+country,Gabon (Country),2020-03-16,confirmed,1
+country,Gabon (Country),2020-03-16,deaths,0
+country,Gabon (Country),2020-03-16,recovered,0
 country,Georgia (Country),2020-02-26,active,1
 country,Georgia (Country),2020-02-26,confirmed,1
 country,Georgia (Country),2020-02-26,deaths,0
@@ -15567,6 +16263,10 @@ country,Georgia (Country),2020-03-15,active,33
 country,Georgia (Country),2020-03-15,confirmed,33
 country,Georgia (Country),2020-03-15,deaths,0
 country,Georgia (Country),2020-03-15,recovered,0
+country,Georgia (Country),2020-03-16,active,32
+country,Georgia (Country),2020-03-16,confirmed,33
+country,Georgia (Country),2020-03-16,deaths,0
+country,Georgia (Country),2020-03-16,recovered,1
 country,Germany (Country),2020-01-28,active,4
 country,Germany (Country),2020-01-28,confirmed,4
 country,Germany (Country),2020-01-28,deaths,0
@@ -15759,6 +16459,10 @@ country,Germany (Country),2020-03-15,active,5738
 country,Germany (Country),2020-03-15,confirmed,5795
 country,Germany (Country),2020-03-15,deaths,11
 country,Germany (Country),2020-03-15,recovered,46
+country,Germany (Country),2020-03-16,active,7188
+country,Germany (Country),2020-03-16,confirmed,7272
+country,Germany (Country),2020-03-16,deaths,17
+country,Germany (Country),2020-03-16,recovered,67
 country,Ghana (Country),2020-03-14,active,3
 country,Ghana (Country),2020-03-14,confirmed,3
 country,Ghana (Country),2020-03-14,deaths,0
@@ -15767,6 +16471,10 @@ country,Ghana (Country),2020-03-15,active,6
 country,Ghana (Country),2020-03-15,confirmed,6
 country,Ghana (Country),2020-03-15,deaths,0
 country,Ghana (Country),2020-03-15,recovered,0
+country,Ghana (Country),2020-03-16,active,6
+country,Ghana (Country),2020-03-16,confirmed,6
+country,Ghana (Country),2020-03-16,deaths,0
+country,Ghana (Country),2020-03-16,recovered,0
 country,Gibraltar (Country),2020-03-04,active,1
 country,Gibraltar (Country),2020-03-04,confirmed,1
 country,Gibraltar (Country),2020-03-04,deaths,0
@@ -15871,6 +16579,14 @@ country,Greece (Country),2020-03-15,active,319
 country,Greece (Country),2020-03-15,confirmed,331
 country,Greece (Country),2020-03-15,deaths,4
 country,Greece (Country),2020-03-15,recovered,8
+country,Greece (Country),2020-03-16,active,319
+country,Greece (Country),2020-03-16,confirmed,331
+country,Greece (Country),2020-03-16,deaths,4
+country,Greece (Country),2020-03-16,recovered,8
+country,Greenland (Country),2020-03-16,active,1
+country,Greenland (Country),2020-03-16,confirmed,1
+country,Greenland (Country),2020-03-16,deaths,0
+country,Greenland (Country),2020-03-16,recovered,0
 country,Guadeloupe (Country),2020-03-13,active,1
 country,Guadeloupe (Country),2020-03-13,confirmed,1
 country,Guadeloupe (Country),2020-03-13,deaths,0
@@ -15883,6 +16599,14 @@ country,Guadeloupe (Country),2020-03-15,active,3
 country,Guadeloupe (Country),2020-03-15,confirmed,3
 country,Guadeloupe (Country),2020-03-15,deaths,0
 country,Guadeloupe (Country),2020-03-15,recovered,0
+country,Guadeloupe (Country),2020-03-16,active,6
+country,Guadeloupe (Country),2020-03-16,confirmed,6
+country,Guadeloupe (Country),2020-03-16,deaths,0
+country,Guadeloupe (Country),2020-03-16,recovered,0
+country,Guam (Country),2020-03-16,active,3
+country,Guam (Country),2020-03-16,confirmed,3
+country,Guam (Country),2020-03-16,deaths,0
+country,Guam (Country),2020-03-16,recovered,0
 country,Guatemala (Country),2020-03-14,active,1
 country,Guatemala (Country),2020-03-14,confirmed,1
 country,Guatemala (Country),2020-03-14,deaths,0
@@ -15891,6 +16615,10 @@ country,Guatemala (Country),2020-03-15,active,1
 country,Guatemala (Country),2020-03-15,confirmed,1
 country,Guatemala (Country),2020-03-15,deaths,0
 country,Guatemala (Country),2020-03-15,recovered,0
+country,Guatemala (Country),2020-03-16,active,1
+country,Guatemala (Country),2020-03-16,confirmed,2
+country,Guatemala (Country),2020-03-16,deaths,1
+country,Guatemala (Country),2020-03-16,recovered,0
 country,Guernsey (Country),2020-03-14,active,1
 country,Guernsey (Country),2020-03-14,confirmed,1
 country,Guernsey (Country),2020-03-14,deaths,0
@@ -15899,6 +16627,10 @@ country,Guernsey (Country),2020-03-15,active,1
 country,Guernsey (Country),2020-03-15,confirmed,1
 country,Guernsey (Country),2020-03-15,deaths,0
 country,Guernsey (Country),2020-03-15,recovered,0
+country,Guernsey (Country),2020-03-16,active,1
+country,Guernsey (Country),2020-03-16,confirmed,1
+country,Guernsey (Country),2020-03-16,deaths,0
+country,Guernsey (Country),2020-03-16,recovered,0
 country,Guinea (Country),2020-03-13,active,1
 country,Guinea (Country),2020-03-13,confirmed,1
 country,Guinea (Country),2020-03-13,deaths,0
@@ -15911,6 +16643,10 @@ country,Guinea (Country),2020-03-15,active,1
 country,Guinea (Country),2020-03-15,confirmed,1
 country,Guinea (Country),2020-03-15,deaths,0
 country,Guinea (Country),2020-03-15,recovered,0
+country,Guinea (Country),2020-03-16,active,1
+country,Guinea (Country),2020-03-16,confirmed,1
+country,Guinea (Country),2020-03-16,deaths,0
+country,Guinea (Country),2020-03-16,recovered,0
 country,Guyana (Country),2020-03-12,active,0
 country,Guyana (Country),2020-03-12,confirmed,1
 country,Guyana (Country),2020-03-12,deaths,1
@@ -15927,6 +16663,10 @@ country,Guyana (Country),2020-03-15,active,3
 country,Guyana (Country),2020-03-15,confirmed,4
 country,Guyana (Country),2020-03-15,deaths,1
 country,Guyana (Country),2020-03-15,recovered,0
+country,Guyana (Country),2020-03-16,active,3
+country,Guyana (Country),2020-03-16,confirmed,4
+country,Guyana (Country),2020-03-16,deaths,1
+country,Guyana (Country),2020-03-16,recovered,0
 country,Holy See (Country),2020-03-10,active,1
 country,Holy See (Country),2020-03-10,confirmed,1
 country,Holy See (Country),2020-03-10,deaths,0
@@ -15951,6 +16691,10 @@ country,Holy See (Country),2020-03-15,active,1
 country,Holy See (Country),2020-03-15,confirmed,1
 country,Holy See (Country),2020-03-15,deaths,0
 country,Holy See (Country),2020-03-15,recovered,0
+country,Holy See (Country),2020-03-16,active,1
+country,Holy See (Country),2020-03-16,confirmed,1
+country,Holy See (Country),2020-03-16,deaths,0
+country,Holy See (Country),2020-03-16,recovered,0
 country,Honduras (Country),2020-03-11,active,2
 country,Honduras (Country),2020-03-11,confirmed,2
 country,Honduras (Country),2020-03-11,deaths,0
@@ -15971,6 +16715,10 @@ country,Honduras (Country),2020-03-15,active,3
 country,Honduras (Country),2020-03-15,confirmed,3
 country,Honduras (Country),2020-03-15,deaths,0
 country,Honduras (Country),2020-03-15,recovered,0
+country,Honduras (Country),2020-03-16,active,6
+country,Honduras (Country),2020-03-16,confirmed,6
+country,Honduras (Country),2020-03-16,deaths,0
+country,Honduras (Country),2020-03-16,recovered,0
 country,Hong Kong (Country),2020-01-22,active,0
 country,Hong Kong (Country),2020-01-22,confirmed,0
 country,Hong Kong (Country),2020-01-22,deaths,0
@@ -16215,6 +16963,10 @@ country,Hungary (Country),2020-03-15,active,30
 country,Hungary (Country),2020-03-15,confirmed,32
 country,Hungary (Country),2020-03-15,deaths,1
 country,Hungary (Country),2020-03-15,recovered,1
+country,Hungary (Country),2020-03-16,active,37
+country,Hungary (Country),2020-03-16,confirmed,39
+country,Hungary (Country),2020-03-16,deaths,1
+country,Hungary (Country),2020-03-16,recovered,1
 country,Iceland (Country),2020-02-28,active,1
 country,Iceland (Country),2020-02-28,confirmed,1
 country,Iceland (Country),2020-02-28,deaths,0
@@ -16283,6 +17035,10 @@ country,Iceland (Country),2020-03-15,active,158
 country,Iceland (Country),2020-03-15,confirmed,171
 country,Iceland (Country),2020-03-15,deaths,5
 country,Iceland (Country),2020-03-15,recovered,8
+country,Iceland (Country),2020-03-16,active,180
+country,Iceland (Country),2020-03-16,confirmed,180
+country,Iceland (Country),2020-03-16,deaths,0
+country,Iceland (Country),2020-03-16,recovered,0
 country,India (Country),2020-01-30,active,1
 country,India (Country),2020-01-30,confirmed,1
 country,India (Country),2020-01-30,deaths,0
@@ -16467,6 +17223,10 @@ country,India (Country),2020-03-15,active,98
 country,India (Country),2020-03-15,confirmed,113
 country,India (Country),2020-03-15,deaths,2
 country,India (Country),2020-03-15,recovered,13
+country,India (Country),2020-03-16,active,104
+country,India (Country),2020-03-16,confirmed,119
+country,India (Country),2020-03-16,deaths,2
+country,India (Country),2020-03-16,recovered,13
 country,Indonesia (Country),2020-03-02,active,2
 country,Indonesia (Country),2020-03-02,confirmed,2
 country,Indonesia (Country),2020-03-02,deaths,0
@@ -16523,6 +17283,10 @@ country,Indonesia (Country),2020-03-15,active,104
 country,Indonesia (Country),2020-03-15,confirmed,117
 country,Indonesia (Country),2020-03-15,deaths,5
 country,Indonesia (Country),2020-03-15,recovered,8
+country,Indonesia (Country),2020-03-16,active,121
+country,Indonesia (Country),2020-03-16,confirmed,134
+country,Indonesia (Country),2020-03-16,deaths,5
+country,Indonesia (Country),2020-03-16,recovered,8
 country,Iran (Country),2020-02-19,active,0
 country,Iran (Country),2020-02-19,confirmed,2
 country,Iran (Country),2020-02-19,deaths,2
@@ -16623,6 +17387,10 @@ country,Iran (Country),2020-03-15,active,8624
 country,Iran (Country),2020-03-15,confirmed,13938
 country,Iran (Country),2020-03-15,deaths,724
 country,Iran (Country),2020-03-15,recovered,4590
+country,Iran (Country),2020-03-16,active,9548
+country,Iran (Country),2020-03-16,confirmed,14991
+country,Iran (Country),2020-03-16,deaths,853
+country,Iran (Country),2020-03-16,recovered,4590
 country,Iran (Islamic Republic of) (Country),2020-03-10,active,5020
 country,Iran (Islamic Republic of) (Country),2020-03-10,confirmed,8042
 country,Iran (Islamic Republic of) (Country),2020-03-10,deaths,291
@@ -16715,6 +17483,10 @@ country,Iraq (Country),2020-03-15,active,80
 country,Iraq (Country),2020-03-15,confirmed,116
 country,Iraq (Country),2020-03-15,deaths,10
 country,Iraq (Country),2020-03-15,recovered,26
+country,Iraq (Country),2020-03-16,active,88
+country,Iraq (Country),2020-03-16,confirmed,124
+country,Iraq (Country),2020-03-16,deaths,10
+country,Iraq (Country),2020-03-16,recovered,26
 country,Ireland (Country),2020-02-29,active,1
 country,Ireland (Country),2020-02-29,confirmed,1
 country,Ireland (Country),2020-02-29,deaths,0
@@ -16779,6 +17551,10 @@ country,Ireland (Country),2020-03-15,active,127
 country,Ireland (Country),2020-03-15,confirmed,129
 country,Ireland (Country),2020-03-15,deaths,2
 country,Ireland (Country),2020-03-15,recovered,0
+country,Ireland (Country),2020-03-16,active,167
+country,Ireland (Country),2020-03-16,confirmed,169
+country,Ireland (Country),2020-03-16,deaths,2
+country,Ireland (Country),2020-03-16,recovered,0
 country,Israel (Country),2020-02-21,active,1
 country,Israel (Country),2020-02-21,confirmed,1
 country,Israel (Country),2020-02-21,deaths,0
@@ -16875,6 +17651,10 @@ country,Israel (Country),2020-03-15,active,247
 country,Israel (Country),2020-03-15,confirmed,251
 country,Israel (Country),2020-03-15,deaths,0
 country,Israel (Country),2020-03-15,recovered,4
+country,Israel (Country),2020-03-16,active,251
+country,Israel (Country),2020-03-16,confirmed,255
+country,Israel (Country),2020-03-16,deaths,0
+country,Israel (Country),2020-03-16,recovered,4
 country,Italy (Country),2020-01-31,active,2
 country,Italy (Country),2020-01-31,confirmed,2
 country,Italy (Country),2020-01-31,deaths,0
@@ -17055,6 +17835,10 @@ country,Italy (Country),2020-03-15,active,20603
 country,Italy (Country),2020-03-15,confirmed,24747
 country,Italy (Country),2020-03-15,deaths,1809
 country,Italy (Country),2020-03-15,recovered,2335
+country,Italy (Country),2020-03-16,active,23073
+country,Italy (Country),2020-03-16,confirmed,27980
+country,Italy (Country),2020-03-16,deaths,2158
+country,Italy (Country),2020-03-16,recovered,2749
 country,Ivory Coast (Country),2020-01-27,active,1
 country,Ivory Coast (Country),2020-01-27,confirmed,1
 country,Ivory Coast (Country),2020-01-27,deaths,0
@@ -17079,6 +17863,10 @@ country,Jamaica (Country),2020-03-15,active,10
 country,Jamaica (Country),2020-03-15,confirmed,10
 country,Jamaica (Country),2020-03-15,deaths,0
 country,Jamaica (Country),2020-03-15,recovered,0
+country,Jamaica (Country),2020-03-16,active,8
+country,Jamaica (Country),2020-03-16,confirmed,10
+country,Jamaica (Country),2020-03-16,deaths,0
+country,Jamaica (Country),2020-03-16,recovered,2
 country,Japan (Country),2020-01-22,active,2
 country,Japan (Country),2020-01-22,confirmed,2
 country,Japan (Country),2020-01-22,deaths,0
@@ -17295,6 +18083,10 @@ country,Japan (Country),2020-03-15,active,699
 country,Japan (Country),2020-03-15,confirmed,839
 country,Japan (Country),2020-03-15,deaths,22
 country,Japan (Country),2020-03-15,recovered,118
+country,Japan (Country),2020-03-16,active,654
+country,Japan (Country),2020-03-16,confirmed,825
+country,Japan (Country),2020-03-16,deaths,27
+country,Japan (Country),2020-03-16,recovered,144
 country,Jersey (Country),2020-03-14,active,2
 country,Jersey (Country),2020-03-14,confirmed,2
 country,Jersey (Country),2020-03-14,deaths,0
@@ -17303,6 +18095,10 @@ country,Jersey (Country),2020-03-15,active,2
 country,Jersey (Country),2020-03-15,confirmed,2
 country,Jersey (Country),2020-03-15,deaths,0
 country,Jersey (Country),2020-03-15,recovered,0
+country,Jersey (Country),2020-03-16,active,2
+country,Jersey (Country),2020-03-16,confirmed,2
+country,Jersey (Country),2020-03-16,deaths,0
+country,Jersey (Country),2020-03-16,recovered,0
 country,Jordan (Country),2020-03-03,active,1
 country,Jordan (Country),2020-03-03,confirmed,1
 country,Jordan (Country),2020-03-03,deaths,0
@@ -17355,6 +18151,10 @@ country,Jordan (Country),2020-03-15,active,7
 country,Jordan (Country),2020-03-15,confirmed,8
 country,Jordan (Country),2020-03-15,deaths,0
 country,Jordan (Country),2020-03-15,recovered,1
+country,Jordan (Country),2020-03-16,active,16
+country,Jordan (Country),2020-03-16,confirmed,17
+country,Jordan (Country),2020-03-16,deaths,0
+country,Jordan (Country),2020-03-16,recovered,1
 country,Kazakhstan (Country),2020-03-13,active,4
 country,Kazakhstan (Country),2020-03-13,confirmed,4
 country,Kazakhstan (Country),2020-03-13,deaths,0
@@ -17367,6 +18167,10 @@ country,Kazakhstan (Country),2020-03-15,active,9
 country,Kazakhstan (Country),2020-03-15,confirmed,9
 country,Kazakhstan (Country),2020-03-15,deaths,0
 country,Kazakhstan (Country),2020-03-15,recovered,0
+country,Kazakhstan (Country),2020-03-16,active,10
+country,Kazakhstan (Country),2020-03-16,confirmed,10
+country,Kazakhstan (Country),2020-03-16,deaths,0
+country,Kazakhstan (Country),2020-03-16,recovered,0
 country,Kenya (Country),2020-03-13,active,1
 country,Kenya (Country),2020-03-13,confirmed,1
 country,Kenya (Country),2020-03-13,deaths,0
@@ -17379,10 +18183,18 @@ country,Kenya (Country),2020-03-15,active,3
 country,Kenya (Country),2020-03-15,confirmed,3
 country,Kenya (Country),2020-03-15,deaths,0
 country,Kenya (Country),2020-03-15,recovered,0
+country,Kenya (Country),2020-03-16,active,3
+country,Kenya (Country),2020-03-16,confirmed,3
+country,Kenya (Country),2020-03-16,deaths,0
+country,Kenya (Country),2020-03-16,recovered,0
 country,Kosovo (Country),2020-03-15,active,2
 country,Kosovo (Country),2020-03-15,confirmed,2
 country,Kosovo (Country),2020-03-15,deaths,0
 country,Kosovo (Country),2020-03-15,recovered,0
+country,Kosovo (Country),2020-03-16,active,2
+country,Kosovo (Country),2020-03-16,confirmed,2
+country,Kosovo (Country),2020-03-16,deaths,0
+country,Kosovo (Country),2020-03-16,recovered,0
 country,Kuwait (Country),2020-02-24,active,1
 country,Kuwait (Country),2020-02-24,confirmed,1
 country,Kuwait (Country),2020-02-24,deaths,0
@@ -17467,6 +18279,10 @@ country,Kuwait (Country),2020-03-15,active,107
 country,Kuwait (Country),2020-03-15,confirmed,112
 country,Kuwait (Country),2020-03-15,deaths,0
 country,Kuwait (Country),2020-03-15,recovered,5
+country,Kuwait (Country),2020-03-16,active,114
+country,Kuwait (Country),2020-03-16,confirmed,123
+country,Kuwait (Country),2020-03-16,deaths,0
+country,Kuwait (Country),2020-03-16,recovered,9
 country,Latvia (Country),2020-03-02,active,1
 country,Latvia (Country),2020-03-02,confirmed,1
 country,Latvia (Country),2020-03-02,deaths,0
@@ -17523,6 +18339,10 @@ country,Latvia (Country),2020-03-15,active,29
 country,Latvia (Country),2020-03-15,confirmed,30
 country,Latvia (Country),2020-03-15,deaths,0
 country,Latvia (Country),2020-03-15,recovered,1
+country,Latvia (Country),2020-03-16,active,33
+country,Latvia (Country),2020-03-16,confirmed,34
+country,Latvia (Country),2020-03-16,deaths,0
+country,Latvia (Country),2020-03-16,recovered,1
 country,Lebanon (Country),2020-02-21,active,1
 country,Lebanon (Country),2020-02-21,confirmed,1
 country,Lebanon (Country),2020-02-21,deaths,0
@@ -17619,6 +18439,14 @@ country,Lebanon (Country),2020-03-15,active,106
 country,Lebanon (Country),2020-03-15,confirmed,110
 country,Lebanon (Country),2020-03-15,deaths,3
 country,Lebanon (Country),2020-03-15,recovered,1
+country,Lebanon (Country),2020-03-16,active,95
+country,Lebanon (Country),2020-03-16,confirmed,99
+country,Lebanon (Country),2020-03-16,deaths,3
+country,Lebanon (Country),2020-03-16,recovered,1
+country,Liberia (Country),2020-03-16,active,1
+country,Liberia (Country),2020-03-16,confirmed,1
+country,Liberia (Country),2020-03-16,deaths,0
+country,Liberia (Country),2020-03-16,recovered,0
 country,Liechtenstein (Country),2020-03-04,active,1
 country,Liechtenstein (Country),2020-03-04,confirmed,1
 country,Liechtenstein (Country),2020-03-04,deaths,0
@@ -17667,6 +18495,10 @@ country,Liechtenstein (Country),2020-03-15,active,4
 country,Liechtenstein (Country),2020-03-15,confirmed,4
 country,Liechtenstein (Country),2020-03-15,deaths,0
 country,Liechtenstein (Country),2020-03-15,recovered,0
+country,Liechtenstein (Country),2020-03-16,active,4
+country,Liechtenstein (Country),2020-03-16,confirmed,4
+country,Liechtenstein (Country),2020-03-16,deaths,0
+country,Liechtenstein (Country),2020-03-16,recovered,0
 country,Lithuania (Country),2020-02-28,active,1
 country,Lithuania (Country),2020-02-28,confirmed,1
 country,Lithuania (Country),2020-02-28,deaths,0
@@ -17735,6 +18567,10 @@ country,Lithuania (Country),2020-03-15,active,11
 country,Lithuania (Country),2020-03-15,confirmed,12
 country,Lithuania (Country),2020-03-15,deaths,0
 country,Lithuania (Country),2020-03-15,recovered,1
+country,Lithuania (Country),2020-03-16,active,16
+country,Lithuania (Country),2020-03-16,confirmed,17
+country,Lithuania (Country),2020-03-16,deaths,0
+country,Lithuania (Country),2020-03-16,recovered,1
 country,Luxembourg (Country),2020-02-29,active,1
 country,Luxembourg (Country),2020-02-29,confirmed,1
 country,Luxembourg (Country),2020-02-29,deaths,0
@@ -17799,6 +18635,10 @@ country,Luxembourg (Country),2020-03-15,active,58
 country,Luxembourg (Country),2020-03-15,confirmed,59
 country,Luxembourg (Country),2020-03-15,deaths,1
 country,Luxembourg (Country),2020-03-15,recovered,0
+country,Luxembourg (Country),2020-03-16,active,76
+country,Luxembourg (Country),2020-03-16,confirmed,77
+country,Luxembourg (Country),2020-03-16,deaths,1
+country,Luxembourg (Country),2020-03-16,recovered,0
 country,Macao SAR (Country),2020-03-10,active,0
 country,Macao SAR (Country),2020-03-10,confirmed,10
 country,Macao SAR (Country),2020-03-10,deaths,0
@@ -18203,6 +19043,10 @@ country,Malaysia (Country),2020-03-15,active,386
 country,Malaysia (Country),2020-03-15,confirmed,428
 country,Malaysia (Country),2020-03-15,deaths,0
 country,Malaysia (Country),2020-03-15,recovered,42
+country,Malaysia (Country),2020-03-16,active,524
+country,Malaysia (Country),2020-03-16,confirmed,566
+country,Malaysia (Country),2020-03-16,deaths,0
+country,Malaysia (Country),2020-03-16,recovered,42
 country,Maldives (Country),2020-03-08,active,4
 country,Maldives (Country),2020-03-08,confirmed,4
 country,Maldives (Country),2020-03-08,deaths,0
@@ -18235,6 +19079,10 @@ country,Maldives (Country),2020-03-15,active,13
 country,Maldives (Country),2020-03-15,confirmed,13
 country,Maldives (Country),2020-03-15,deaths,0
 country,Maldives (Country),2020-03-15,recovered,0
+country,Maldives (Country),2020-03-16,active,13
+country,Maldives (Country),2020-03-16,confirmed,13
+country,Maldives (Country),2020-03-16,deaths,0
+country,Maldives (Country),2020-03-16,recovered,0
 country,Malta (Country),2020-03-07,active,3
 country,Malta (Country),2020-03-07,confirmed,3
 country,Malta (Country),2020-03-07,deaths,0
@@ -18271,6 +19119,10 @@ country,Malta (Country),2020-03-15,active,20
 country,Malta (Country),2020-03-15,confirmed,21
 country,Malta (Country),2020-03-15,deaths,0
 country,Malta (Country),2020-03-15,recovered,1
+country,Malta (Country),2020-03-16,active,28
+country,Malta (Country),2020-03-16,confirmed,30
+country,Malta (Country),2020-03-16,deaths,0
+country,Malta (Country),2020-03-16,recovered,2
 country,Martinique (Country),2020-03-07,active,2
 country,Martinique (Country),2020-03-07,confirmed,2
 country,Martinique (Country),2020-03-07,deaths,0
@@ -18307,6 +19159,10 @@ country,Martinique (Country),2020-03-15,active,9
 country,Martinique (Country),2020-03-15,confirmed,9
 country,Martinique (Country),2020-03-15,deaths,0
 country,Martinique (Country),2020-03-15,recovered,0
+country,Martinique (Country),2020-03-16,active,14
+country,Martinique (Country),2020-03-16,confirmed,15
+country,Martinique (Country),2020-03-16,deaths,1
+country,Martinique (Country),2020-03-16,recovered,0
 country,Mauritania (Country),2020-03-14,active,1
 country,Mauritania (Country),2020-03-14,confirmed,1
 country,Mauritania (Country),2020-03-14,deaths,0
@@ -18315,6 +19171,14 @@ country,Mauritania (Country),2020-03-15,active,1
 country,Mauritania (Country),2020-03-15,confirmed,1
 country,Mauritania (Country),2020-03-15,deaths,0
 country,Mauritania (Country),2020-03-15,recovered,0
+country,Mauritania (Country),2020-03-16,active,1
+country,Mauritania (Country),2020-03-16,confirmed,1
+country,Mauritania (Country),2020-03-16,deaths,0
+country,Mauritania (Country),2020-03-16,recovered,0
+country,Mayotte (Country),2020-03-16,active,1
+country,Mayotte (Country),2020-03-16,confirmed,1
+country,Mayotte (Country),2020-03-16,deaths,0
+country,Mayotte (Country),2020-03-16,recovered,0
 country,Mexico (Country),2020-01-23,active,0
 country,Mexico (Country),2020-01-23,confirmed,0
 country,Mexico (Country),2020-01-23,deaths,0
@@ -18387,6 +19251,10 @@ country,Mexico (Country),2020-03-15,active,37
 country,Mexico (Country),2020-03-15,confirmed,41
 country,Mexico (Country),2020-03-15,deaths,0
 country,Mexico (Country),2020-03-15,recovered,4
+country,Mexico (Country),2020-03-16,active,49
+country,Mexico (Country),2020-03-16,confirmed,53
+country,Mexico (Country),2020-03-16,deaths,0
+country,Mexico (Country),2020-03-16,recovered,4
 country,Moldova (Country),2020-03-08,active,1
 country,Moldova (Country),2020-03-08,confirmed,1
 country,Moldova (Country),2020-03-08,deaths,0
@@ -18415,6 +19283,10 @@ country,Moldova (Country),2020-03-15,active,23
 country,Moldova (Country),2020-03-15,confirmed,23
 country,Moldova (Country),2020-03-15,deaths,0
 country,Moldova (Country),2020-03-15,recovered,0
+country,Moldova (Country),2020-03-16,active,23
+country,Moldova (Country),2020-03-16,confirmed,23
+country,Moldova (Country),2020-03-16,deaths,0
+country,Moldova (Country),2020-03-16,recovered,0
 country,Monaco (Country),2020-02-29,active,1
 country,Monaco (Country),2020-02-29,confirmed,1
 country,Monaco (Country),2020-02-29,deaths,0
@@ -18479,6 +19351,10 @@ country,Monaco (Country),2020-03-15,active,2
 country,Monaco (Country),2020-03-15,confirmed,2
 country,Monaco (Country),2020-03-15,deaths,0
 country,Monaco (Country),2020-03-15,recovered,0
+country,Monaco (Country),2020-03-16,active,7
+country,Monaco (Country),2020-03-16,confirmed,7
+country,Monaco (Country),2020-03-16,deaths,0
+country,Monaco (Country),2020-03-16,recovered,0
 country,Mongolia (Country),2020-03-10,active,1
 country,Mongolia (Country),2020-03-10,confirmed,1
 country,Mongolia (Country),2020-03-10,deaths,0
@@ -18503,6 +19379,10 @@ country,Mongolia (Country),2020-03-15,active,1
 country,Mongolia (Country),2020-03-15,confirmed,1
 country,Mongolia (Country),2020-03-15,deaths,0
 country,Mongolia (Country),2020-03-15,recovered,0
+country,Mongolia (Country),2020-03-16,active,1
+country,Mongolia (Country),2020-03-16,confirmed,1
+country,Mongolia (Country),2020-03-16,deaths,0
+country,Mongolia (Country),2020-03-16,recovered,0
 country,Morocco (Country),2020-03-02,active,1
 country,Morocco (Country),2020-03-02,confirmed,1
 country,Morocco (Country),2020-03-02,deaths,0
@@ -18559,6 +19439,10 @@ country,Morocco (Country),2020-03-15,active,26
 country,Morocco (Country),2020-03-15,confirmed,28
 country,Morocco (Country),2020-03-15,deaths,1
 country,Morocco (Country),2020-03-15,recovered,1
+country,Morocco (Country),2020-03-16,active,27
+country,Morocco (Country),2020-03-16,confirmed,29
+country,Morocco (Country),2020-03-16,deaths,1
+country,Morocco (Country),2020-03-16,recovered,1
 country,Namibia (Country),2020-03-14,active,2
 country,Namibia (Country),2020-03-14,confirmed,2
 country,Namibia (Country),2020-03-14,deaths,0
@@ -18567,6 +19451,10 @@ country,Namibia (Country),2020-03-15,active,2
 country,Namibia (Country),2020-03-15,confirmed,2
 country,Namibia (Country),2020-03-15,deaths,0
 country,Namibia (Country),2020-03-15,recovered,0
+country,Namibia (Country),2020-03-16,active,2
+country,Namibia (Country),2020-03-16,confirmed,2
+country,Namibia (Country),2020-03-16,deaths,0
+country,Namibia (Country),2020-03-16,recovered,0
 country,Nepal (Country),2020-01-25,active,1
 country,Nepal (Country),2020-01-25,confirmed,1
 country,Nepal (Country),2020-01-25,deaths,0
@@ -18771,6 +19659,10 @@ country,Nepal (Country),2020-03-15,active,0
 country,Nepal (Country),2020-03-15,confirmed,1
 country,Nepal (Country),2020-03-15,deaths,0
 country,Nepal (Country),2020-03-15,recovered,1
+country,Nepal (Country),2020-03-16,active,0
+country,Nepal (Country),2020-03-16,confirmed,1
+country,Nepal (Country),2020-03-16,deaths,0
+country,Nepal (Country),2020-03-16,recovered,1
 country,Netherlands (Country),2020-02-27,active,1
 country,Netherlands (Country),2020-02-27,confirmed,1
 country,Netherlands (Country),2020-02-27,deaths,0
@@ -18843,6 +19735,10 @@ country,Netherlands (Country),2020-03-15,active,1113
 country,Netherlands (Country),2020-03-15,confirmed,1135
 country,Netherlands (Country),2020-03-15,deaths,20
 country,Netherlands (Country),2020-03-15,recovered,2
+country,Netherlands (Country),2020-03-16,active,1388
+country,Netherlands (Country),2020-03-16,confirmed,1414
+country,Netherlands (Country),2020-03-16,deaths,24
+country,Netherlands (Country),2020-03-16,recovered,2
 country,New Zealand (Country),2020-02-28,active,1
 country,New Zealand (Country),2020-02-28,confirmed,1
 country,New Zealand (Country),2020-02-28,deaths,0
@@ -18911,6 +19807,10 @@ country,New Zealand (Country),2020-03-15,active,8
 country,New Zealand (Country),2020-03-15,confirmed,8
 country,New Zealand (Country),2020-03-15,deaths,0
 country,New Zealand (Country),2020-03-15,recovered,0
+country,New Zealand (Country),2020-03-16,active,8
+country,New Zealand (Country),2020-03-16,confirmed,8
+country,New Zealand (Country),2020-03-16,deaths,0
+country,New Zealand (Country),2020-03-16,recovered,0
 country,Nigeria (Country),2020-02-28,active,1
 country,Nigeria (Country),2020-02-28,confirmed,1
 country,Nigeria (Country),2020-02-28,deaths,0
@@ -18979,6 +19879,10 @@ country,Nigeria (Country),2020-03-15,active,2
 country,Nigeria (Country),2020-03-15,confirmed,2
 country,Nigeria (Country),2020-03-15,deaths,0
 country,Nigeria (Country),2020-03-15,recovered,0
+country,Nigeria (Country),2020-03-16,active,2
+country,Nigeria (Country),2020-03-16,confirmed,2
+country,Nigeria (Country),2020-03-16,deaths,0
+country,Nigeria (Country),2020-03-16,recovered,0
 country,North Ireland (Country),2020-02-28,active,1
 country,North Ireland (Country),2020-02-28,confirmed,1
 country,North Ireland (Country),2020-02-28,deaths,0
@@ -19059,6 +19963,10 @@ country,North Macedonia (Country),2020-03-15,active,13
 country,North Macedonia (Country),2020-03-15,confirmed,14
 country,North Macedonia (Country),2020-03-15,deaths,0
 country,North Macedonia (Country),2020-03-15,recovered,1
+country,North Macedonia (Country),2020-03-16,active,17
+country,North Macedonia (Country),2020-03-16,confirmed,18
+country,North Macedonia (Country),2020-03-16,deaths,0
+country,North Macedonia (Country),2020-03-16,recovered,1
 country,Norway (Country),2020-02-26,active,1
 country,Norway (Country),2020-02-26,confirmed,1
 country,Norway (Country),2020-02-26,deaths,0
@@ -19135,6 +20043,10 @@ country,Norway (Country),2020-03-15,active,1217
 country,Norway (Country),2020-03-15,confirmed,1221
 country,Norway (Country),2020-03-15,deaths,3
 country,Norway (Country),2020-03-15,recovered,1
+country,Norway (Country),2020-03-16,active,1329
+country,Norway (Country),2020-03-16,confirmed,1333
+country,Norway (Country),2020-03-16,deaths,3
+country,Norway (Country),2020-03-16,recovered,1
 country,occupied Palestinian territory (Country),2020-03-10,active,25
 country,occupied Palestinian territory (Country),2020-03-10,confirmed,25
 country,occupied Palestinian territory (Country),2020-03-10,deaths,0
@@ -19155,6 +20067,10 @@ country,occupied Palestinian territory (Country),2020-03-15,active,0
 country,occupied Palestinian territory (Country),2020-03-15,confirmed,0
 country,occupied Palestinian territory (Country),2020-03-15,deaths,0
 country,occupied Palestinian territory (Country),2020-03-15,recovered,0
+country,occupied Palestinian territory (Country),2020-03-16,active,0
+country,occupied Palestinian territory (Country),2020-03-16,confirmed,0
+country,occupied Palestinian territory (Country),2020-03-16,deaths,0
+country,occupied Palestinian territory (Country),2020-03-16,recovered,0
 country,Oman (Country),2020-02-24,active,2
 country,Oman (Country),2020-02-24,confirmed,2
 country,Oman (Country),2020-02-24,deaths,0
@@ -19239,6 +20155,10 @@ country,Oman (Country),2020-03-15,active,13
 country,Oman (Country),2020-03-15,confirmed,22
 country,Oman (Country),2020-03-15,deaths,0
 country,Oman (Country),2020-03-15,recovered,9
+country,Oman (Country),2020-03-16,active,13
+country,Oman (Country),2020-03-16,confirmed,22
+country,Oman (Country),2020-03-16,deaths,0
+country,Oman (Country),2020-03-16,recovered,9
 country,Others (Country),2020-02-07,active,61
 country,Others (Country),2020-02-07,confirmed,61
 country,Others (Country),2020-02-07,deaths,0
@@ -19447,6 +20367,10 @@ country,Pakistan (Country),2020-03-15,active,51
 country,Pakistan (Country),2020-03-15,confirmed,53
 country,Pakistan (Country),2020-03-15,deaths,0
 country,Pakistan (Country),2020-03-15,recovered,2
+country,Pakistan (Country),2020-03-16,active,134
+country,Pakistan (Country),2020-03-16,confirmed,136
+country,Pakistan (Country),2020-03-16,deaths,0
+country,Pakistan (Country),2020-03-16,recovered,2
 country,Palestine (Country),2020-03-05,active,4
 country,Palestine (Country),2020-03-05,confirmed,4
 country,Palestine (Country),2020-03-05,deaths,0
@@ -19491,6 +20415,10 @@ country,Panama (Country),2020-03-15,active,42
 country,Panama (Country),2020-03-15,confirmed,43
 country,Panama (Country),2020-03-15,deaths,1
 country,Panama (Country),2020-03-15,recovered,0
+country,Panama (Country),2020-03-16,active,54
+country,Panama (Country),2020-03-16,confirmed,55
+country,Panama (Country),2020-03-16,deaths,1
+country,Panama (Country),2020-03-16,recovered,0
 country,Paraguay (Country),2020-03-08,active,1
 country,Paraguay (Country),2020-03-08,confirmed,1
 country,Paraguay (Country),2020-03-08,deaths,0
@@ -19523,6 +20451,10 @@ country,Paraguay (Country),2020-03-15,active,6
 country,Paraguay (Country),2020-03-15,confirmed,6
 country,Paraguay (Country),2020-03-15,deaths,0
 country,Paraguay (Country),2020-03-15,recovered,0
+country,Paraguay (Country),2020-03-16,active,8
+country,Paraguay (Country),2020-03-16,confirmed,8
+country,Paraguay (Country),2020-03-16,deaths,0
+country,Paraguay (Country),2020-03-16,recovered,0
 country,Peru (Country),2020-03-06,active,1
 country,Peru (Country),2020-03-06,confirmed,1
 country,Peru (Country),2020-03-06,deaths,0
@@ -19563,6 +20495,10 @@ country,Peru (Country),2020-03-15,active,43
 country,Peru (Country),2020-03-15,confirmed,43
 country,Peru (Country),2020-03-15,deaths,0
 country,Peru (Country),2020-03-15,recovered,0
+country,Peru (Country),2020-03-16,active,86
+country,Peru (Country),2020-03-16,confirmed,86
+country,Peru (Country),2020-03-16,deaths,0
+country,Peru (Country),2020-03-16,recovered,0
 country,Philippines (Country),2020-01-23,active,0
 country,Philippines (Country),2020-01-23,confirmed,0
 country,Philippines (Country),2020-01-23,deaths,0
@@ -19751,6 +20687,10 @@ country,Philippines (Country),2020-03-15,active,127
 country,Philippines (Country),2020-03-15,confirmed,140
 country,Philippines (Country),2020-03-15,deaths,11
 country,Philippines (Country),2020-03-15,recovered,2
+country,Philippines (Country),2020-03-16,active,128
+country,Philippines (Country),2020-03-16,confirmed,142
+country,Philippines (Country),2020-03-16,deaths,12
+country,Philippines (Country),2020-03-16,recovered,2
 country,Poland (Country),2020-03-04,active,1
 country,Poland (Country),2020-03-04,confirmed,1
 country,Poland (Country),2020-03-04,deaths,0
@@ -19799,6 +20739,10 @@ country,Poland (Country),2020-03-15,active,116
 country,Poland (Country),2020-03-15,confirmed,119
 country,Poland (Country),2020-03-15,deaths,3
 country,Poland (Country),2020-03-15,recovered,0
+country,Poland (Country),2020-03-16,active,160
+country,Poland (Country),2020-03-16,confirmed,177
+country,Poland (Country),2020-03-16,deaths,4
+country,Poland (Country),2020-03-16,recovered,13
 country,Portugal (Country),2020-03-02,active,2
 country,Portugal (Country),2020-03-02,confirmed,2
 country,Portugal (Country),2020-03-02,deaths,0
@@ -19855,6 +20799,14 @@ country,Portugal (Country),2020-03-15,active,243
 country,Portugal (Country),2020-03-15,confirmed,245
 country,Portugal (Country),2020-03-15,deaths,0
 country,Portugal (Country),2020-03-15,recovered,2
+country,Portugal (Country),2020-03-16,active,328
+country,Portugal (Country),2020-03-16,confirmed,331
+country,Portugal (Country),2020-03-16,deaths,0
+country,Portugal (Country),2020-03-16,recovered,3
+country,Puerto Rico (Country),2020-03-16,active,3
+country,Puerto Rico (Country),2020-03-16,confirmed,3
+country,Puerto Rico (Country),2020-03-16,deaths,0
+country,Puerto Rico (Country),2020-03-16,recovered,0
 country,Qatar (Country),2020-02-29,active,1
 country,Qatar (Country),2020-02-29,confirmed,1
 country,Qatar (Country),2020-02-29,deaths,0
@@ -19919,6 +20871,10 @@ country,Qatar (Country),2020-03-15,active,397
 country,Qatar (Country),2020-03-15,confirmed,401
 country,Qatar (Country),2020-03-15,deaths,0
 country,Qatar (Country),2020-03-15,recovered,4
+country,Qatar (Country),2020-03-16,active,435
+country,Qatar (Country),2020-03-16,confirmed,439
+country,Qatar (Country),2020-03-16,deaths,0
+country,Qatar (Country),2020-03-16,recovered,4
 country,Republic of Ireland (Country),2020-03-08,active,21
 country,Republic of Ireland (Country),2020-03-08,confirmed,21
 country,Republic of Ireland (Country),2020-03-08,deaths,0
@@ -19927,6 +20883,10 @@ country,Republic of Moldova (Country),2020-03-10,active,3
 country,Republic of Moldova (Country),2020-03-10,confirmed,3
 country,Republic of Moldova (Country),2020-03-10,deaths,0
 country,Republic of Moldova (Country),2020-03-10,recovered,0
+country,Republic of the Congo (Country),2020-03-16,active,1
+country,Republic of the Congo (Country),2020-03-16,confirmed,1
+country,Republic of the Congo (Country),2020-03-16,deaths,0
+country,Republic of the Congo (Country),2020-03-16,recovered,0
 country,Reunion (Country),2020-03-11,active,1
 country,Reunion (Country),2020-03-11,confirmed,1
 country,Reunion (Country),2020-03-11,deaths,0
@@ -19947,6 +20907,10 @@ country,Reunion (Country),2020-03-15,active,7
 country,Reunion (Country),2020-03-15,confirmed,7
 country,Reunion (Country),2020-03-15,deaths,0
 country,Reunion (Country),2020-03-15,recovered,0
+country,Reunion (Country),2020-03-16,active,9
+country,Reunion (Country),2020-03-16,confirmed,9
+country,Reunion (Country),2020-03-16,deaths,0
+country,Reunion (Country),2020-03-16,recovered,0
 country,Romania (Country),2020-02-26,active,1
 country,Romania (Country),2020-02-26,confirmed,1
 country,Romania (Country),2020-02-26,deaths,0
@@ -20023,6 +20987,10 @@ country,Romania (Country),2020-03-15,active,122
 country,Romania (Country),2020-03-15,confirmed,131
 country,Romania (Country),2020-03-15,deaths,0
 country,Romania (Country),2020-03-15,recovered,9
+country,Romania (Country),2020-03-16,active,149
+country,Romania (Country),2020-03-16,confirmed,158
+country,Romania (Country),2020-03-16,deaths,0
+country,Romania (Country),2020-03-16,recovered,9
 country,Russia (Country),2020-01-31,active,2
 country,Russia (Country),2020-01-31,confirmed,2
 country,Russia (Country),2020-01-31,deaths,0
@@ -20199,6 +21167,10 @@ country,Russia (Country),2020-03-15,active,55
 country,Russia (Country),2020-03-15,confirmed,63
 country,Russia (Country),2020-03-15,deaths,0
 country,Russia (Country),2020-03-15,recovered,8
+country,Russia (Country),2020-03-16,active,82
+country,Russia (Country),2020-03-16,confirmed,90
+country,Russia (Country),2020-03-16,deaths,0
+country,Russia (Country),2020-03-16,recovered,8
 country,Russian Federation (Country),2020-03-10,active,7
 country,Russian Federation (Country),2020-03-10,confirmed,10
 country,Russian Federation (Country),2020-03-10,deaths,0
@@ -20211,6 +21183,10 @@ country,Rwanda (Country),2020-03-15,active,1
 country,Rwanda (Country),2020-03-15,confirmed,1
 country,Rwanda (Country),2020-03-15,deaths,0
 country,Rwanda (Country),2020-03-15,recovered,0
+country,Rwanda (Country),2020-03-16,active,5
+country,Rwanda (Country),2020-03-16,confirmed,5
+country,Rwanda (Country),2020-03-16,deaths,0
+country,Rwanda (Country),2020-03-16,recovered,0
 country,Saint Barthelemy (Country),2020-03-04,active,3
 country,Saint Barthelemy (Country),2020-03-04,confirmed,3
 country,Saint Barthelemy (Country),2020-03-04,deaths,0
@@ -20247,6 +21223,10 @@ country,Saint Lucia (Country),2020-03-15,active,2
 country,Saint Lucia (Country),2020-03-15,confirmed,2
 country,Saint Lucia (Country),2020-03-15,deaths,0
 country,Saint Lucia (Country),2020-03-15,recovered,0
+country,Saint Lucia (Country),2020-03-16,active,2
+country,Saint Lucia (Country),2020-03-16,confirmed,2
+country,Saint Lucia (Country),2020-03-16,deaths,0
+country,Saint Lucia (Country),2020-03-16,recovered,0
 country,Saint Martin (Country),2020-03-10,active,2
 country,Saint Martin (Country),2020-03-10,confirmed,2
 country,Saint Martin (Country),2020-03-10,deaths,0
@@ -20259,6 +21239,10 @@ country,Saint Vincent and the Grenadines (Country),2020-03-15,active,1
 country,Saint Vincent and the Grenadines (Country),2020-03-15,confirmed,1
 country,Saint Vincent and the Grenadines (Country),2020-03-15,deaths,0
 country,Saint Vincent and the Grenadines (Country),2020-03-15,recovered,0
+country,Saint Vincent and the Grenadines (Country),2020-03-16,active,1
+country,Saint Vincent and the Grenadines (Country),2020-03-16,confirmed,1
+country,Saint Vincent and the Grenadines (Country),2020-03-16,deaths,0
+country,Saint Vincent and the Grenadines (Country),2020-03-16,recovered,0
 country,San Marino (Country),2020-02-27,active,1
 country,San Marino (Country),2020-02-27,confirmed,1
 country,San Marino (Country),2020-02-27,deaths,0
@@ -20331,6 +21315,10 @@ country,San Marino (Country),2020-03-15,active,92
 country,San Marino (Country),2020-03-15,confirmed,101
 country,San Marino (Country),2020-03-15,deaths,5
 country,San Marino (Country),2020-03-15,recovered,4
+country,San Marino (Country),2020-03-16,active,98
+country,San Marino (Country),2020-03-16,confirmed,109
+country,San Marino (Country),2020-03-16,deaths,7
+country,San Marino (Country),2020-03-16,recovered,4
 country,Saudi Arabia (Country),2020-03-02,active,1
 country,Saudi Arabia (Country),2020-03-02,confirmed,1
 country,Saudi Arabia (Country),2020-03-02,deaths,0
@@ -20387,6 +21375,10 @@ country,Saudi Arabia (Country),2020-03-15,active,102
 country,Saudi Arabia (Country),2020-03-15,confirmed,103
 country,Saudi Arabia (Country),2020-03-15,deaths,0
 country,Saudi Arabia (Country),2020-03-15,recovered,1
+country,Saudi Arabia (Country),2020-03-16,active,116
+country,Saudi Arabia (Country),2020-03-16,confirmed,118
+country,Saudi Arabia (Country),2020-03-16,deaths,0
+country,Saudi Arabia (Country),2020-03-16,recovered,2
 country,Senegal (Country),2020-03-02,active,1
 country,Senegal (Country),2020-03-02,confirmed,1
 country,Senegal (Country),2020-03-02,deaths,0
@@ -20443,6 +21435,10 @@ country,Senegal (Country),2020-03-15,active,23
 country,Senegal (Country),2020-03-15,confirmed,24
 country,Senegal (Country),2020-03-15,deaths,0
 country,Senegal (Country),2020-03-15,recovered,1
+country,Senegal (Country),2020-03-16,active,22
+country,Senegal (Country),2020-03-16,confirmed,24
+country,Senegal (Country),2020-03-16,deaths,0
+country,Senegal (Country),2020-03-16,recovered,2
 country,Serbia (Country),2020-03-06,active,1
 country,Serbia (Country),2020-03-06,confirmed,1
 country,Serbia (Country),2020-03-06,deaths,0
@@ -20483,6 +21479,10 @@ country,Serbia (Country),2020-03-15,active,48
 country,Serbia (Country),2020-03-15,confirmed,48
 country,Serbia (Country),2020-03-15,deaths,0
 country,Serbia (Country),2020-03-15,recovered,0
+country,Serbia (Country),2020-03-16,active,54
+country,Serbia (Country),2020-03-16,confirmed,55
+country,Serbia (Country),2020-03-16,deaths,0
+country,Serbia (Country),2020-03-16,recovered,1
 country,Seychelles (Country),2020-03-14,active,2
 country,Seychelles (Country),2020-03-14,confirmed,2
 country,Seychelles (Country),2020-03-14,deaths,0
@@ -20491,6 +21491,10 @@ country,Seychelles (Country),2020-03-15,active,2
 country,Seychelles (Country),2020-03-15,confirmed,2
 country,Seychelles (Country),2020-03-15,deaths,0
 country,Seychelles (Country),2020-03-15,recovered,0
+country,Seychelles (Country),2020-03-16,active,3
+country,Seychelles (Country),2020-03-16,confirmed,3
+country,Seychelles (Country),2020-03-16,deaths,0
+country,Seychelles (Country),2020-03-16,recovered,0
 country,Singapore (Country),2020-01-23,active,1
 country,Singapore (Country),2020-01-23,confirmed,1
 country,Singapore (Country),2020-01-23,deaths,0
@@ -20703,6 +21707,10 @@ country,Singapore (Country),2020-03-15,active,121
 country,Singapore (Country),2020-03-15,confirmed,226
 country,Singapore (Country),2020-03-15,deaths,0
 country,Singapore (Country),2020-03-15,recovered,105
+country,Singapore (Country),2020-03-16,active,134
+country,Singapore (Country),2020-03-16,confirmed,243
+country,Singapore (Country),2020-03-16,deaths,0
+country,Singapore (Country),2020-03-16,recovered,109
 country,Slovakia (Country),2020-03-06,active,1
 country,Slovakia (Country),2020-03-06,confirmed,1
 country,Slovakia (Country),2020-03-06,deaths,0
@@ -20743,6 +21751,10 @@ country,Slovakia (Country),2020-03-15,active,54
 country,Slovakia (Country),2020-03-15,confirmed,54
 country,Slovakia (Country),2020-03-15,deaths,0
 country,Slovakia (Country),2020-03-15,recovered,0
+country,Slovakia (Country),2020-03-16,active,63
+country,Slovakia (Country),2020-03-16,confirmed,63
+country,Slovakia (Country),2020-03-16,deaths,0
+country,Slovakia (Country),2020-03-16,recovered,0
 country,Slovenia (Country),2020-03-05,active,2
 country,Slovenia (Country),2020-03-05,confirmed,2
 country,Slovenia (Country),2020-03-05,deaths,0
@@ -20787,6 +21799,14 @@ country,Slovenia (Country),2020-03-15,active,218
 country,Slovenia (Country),2020-03-15,confirmed,219
 country,Slovenia (Country),2020-03-15,deaths,1
 country,Slovenia (Country),2020-03-15,recovered,0
+country,Slovenia (Country),2020-03-16,active,252
+country,Slovenia (Country),2020-03-16,confirmed,253
+country,Slovenia (Country),2020-03-16,deaths,1
+country,Slovenia (Country),2020-03-16,recovered,0
+country,Somalia (Country),2020-03-16,active,1
+country,Somalia (Country),2020-03-16,confirmed,1
+country,Somalia (Country),2020-03-16,deaths,0
+country,Somalia (Country),2020-03-16,recovered,0
 country,South Africa (Country),2020-03-05,active,1
 country,South Africa (Country),2020-03-05,confirmed,1
 country,South Africa (Country),2020-03-05,deaths,0
@@ -20831,6 +21851,10 @@ country,South Africa (Country),2020-03-15,active,51
 country,South Africa (Country),2020-03-15,confirmed,51
 country,South Africa (Country),2020-03-15,deaths,0
 country,South Africa (Country),2020-03-15,recovered,0
+country,South Africa (Country),2020-03-16,active,62
+country,South Africa (Country),2020-03-16,confirmed,62
+country,South Africa (Country),2020-03-16,deaths,0
+country,South Africa (Country),2020-03-16,recovered,0
 country,South Korea (Country),2020-01-22,active,1
 country,South Korea (Country),2020-01-22,confirmed,1
 country,South Korea (Country),2020-01-22,deaths,0
@@ -21047,6 +22071,10 @@ country,South Korea (Country),2020-03-15,active,7577
 country,South Korea (Country),2020-03-15,confirmed,8162
 country,South Korea (Country),2020-03-15,deaths,75
 country,South Korea (Country),2020-03-15,recovered,510
+country,South Korea (Country),2020-03-16,active,7024
+country,South Korea (Country),2020-03-16,confirmed,8236
+country,South Korea (Country),2020-03-16,deaths,75
+country,South Korea (Country),2020-03-16,recovered,1137
 country,Spain (Country),2020-02-01,active,1
 country,Spain (Country),2020-02-01,confirmed,1
 country,Spain (Country),2020-02-01,deaths,0
@@ -21223,6 +22251,10 @@ country,Spain (Country),2020-03-15,active,6992
 country,Spain (Country),2020-03-15,confirmed,7798
 country,Spain (Country),2020-03-15,deaths,289
 country,Spain (Country),2020-03-15,recovered,517
+country,Spain (Country),2020-03-16,active,9070
+country,Spain (Country),2020-03-16,confirmed,9942
+country,Spain (Country),2020-03-16,deaths,342
+country,Spain (Country),2020-03-16,recovered,530
 country,Sri Lanka (Country),2020-01-27,active,1
 country,Sri Lanka (Country),2020-01-27,confirmed,1
 country,Sri Lanka (Country),2020-01-27,deaths,0
@@ -21419,6 +22451,10 @@ country,Sri Lanka (Country),2020-03-15,active,17
 country,Sri Lanka (Country),2020-03-15,confirmed,18
 country,Sri Lanka (Country),2020-03-15,deaths,0
 country,Sri Lanka (Country),2020-03-15,recovered,1
+country,Sri Lanka (Country),2020-03-16,active,27
+country,Sri Lanka (Country),2020-03-16,confirmed,28
+country,Sri Lanka (Country),2020-03-16,deaths,0
+country,Sri Lanka (Country),2020-03-16,recovered,1
 country,St. Martin (Country),2020-03-09,active,2
 country,St. Martin (Country),2020-03-09,confirmed,2
 country,St. Martin (Country),2020-03-09,deaths,0
@@ -21435,6 +22471,10 @@ country,Sudan (Country),2020-03-15,active,0
 country,Sudan (Country),2020-03-15,confirmed,1
 country,Sudan (Country),2020-03-15,deaths,1
 country,Sudan (Country),2020-03-15,recovered,0
+country,Sudan (Country),2020-03-16,active,0
+country,Sudan (Country),2020-03-16,confirmed,1
+country,Sudan (Country),2020-03-16,deaths,1
+country,Sudan (Country),2020-03-16,recovered,0
 country,Suriname (Country),2020-03-14,active,1
 country,Suriname (Country),2020-03-14,confirmed,1
 country,Suriname (Country),2020-03-14,deaths,0
@@ -21443,6 +22483,10 @@ country,Suriname (Country),2020-03-15,active,1
 country,Suriname (Country),2020-03-15,confirmed,1
 country,Suriname (Country),2020-03-15,deaths,0
 country,Suriname (Country),2020-03-15,recovered,0
+country,Suriname (Country),2020-03-16,active,1
+country,Suriname (Country),2020-03-16,confirmed,1
+country,Suriname (Country),2020-03-16,deaths,0
+country,Suriname (Country),2020-03-16,recovered,0
 country,Sweden (Country),2020-01-31,active,1
 country,Sweden (Country),2020-01-31,confirmed,1
 country,Sweden (Country),2020-01-31,deaths,0
@@ -21623,6 +22667,10 @@ country,Sweden (Country),2020-03-15,active,1018
 country,Sweden (Country),2020-03-15,confirmed,1022
 country,Sweden (Country),2020-03-15,deaths,3
 country,Sweden (Country),2020-03-15,recovered,1
+country,Sweden (Country),2020-03-16,active,1096
+country,Sweden (Country),2020-03-16,confirmed,1103
+country,Sweden (Country),2020-03-16,deaths,6
+country,Sweden (Country),2020-03-16,recovered,1
 country,Switzerland (Country),2020-02-25,active,1
 country,Switzerland (Country),2020-02-25,confirmed,1
 country,Switzerland (Country),2020-02-25,deaths,0
@@ -21703,6 +22751,10 @@ country,Switzerland (Country),2020-03-15,active,2182
 country,Switzerland (Country),2020-03-15,confirmed,2200
 country,Switzerland (Country),2020-03-15,deaths,14
 country,Switzerland (Country),2020-03-15,recovered,4
+country,Switzerland (Country),2020-03-16,active,2182
+country,Switzerland (Country),2020-03-16,confirmed,2200
+country,Switzerland (Country),2020-03-16,deaths,14
+country,Switzerland (Country),2020-03-16,recovered,4
 country,Taipei and environs (Country),2020-03-10,active,29
 country,Taipei and environs (Country),2020-03-10,confirmed,47
 country,Taipei and environs (Country),2020-03-10,deaths,1
@@ -21919,6 +22971,14 @@ country,Taiwan* (Country),2020-03-15,active,38
 country,Taiwan* (Country),2020-03-15,confirmed,59
 country,Taiwan* (Country),2020-03-15,deaths,1
 country,Taiwan* (Country),2020-03-15,recovered,20
+country,Taiwan* (Country),2020-03-16,active,46
+country,Taiwan* (Country),2020-03-16,confirmed,67
+country,Taiwan* (Country),2020-03-16,deaths,1
+country,Taiwan* (Country),2020-03-16,recovered,20
+country,Tanzania (Country),2020-03-16,active,1
+country,Tanzania (Country),2020-03-16,confirmed,1
+country,Tanzania (Country),2020-03-16,deaths,0
+country,Tanzania (Country),2020-03-16,recovered,0
 country,Thailand (Country),2020-01-22,active,2
 country,Thailand (Country),2020-01-22,confirmed,2
 country,Thailand (Country),2020-01-22,deaths,0
@@ -22135,6 +23195,14 @@ country,Thailand (Country),2020-03-15,active,78
 country,Thailand (Country),2020-03-15,confirmed,114
 country,Thailand (Country),2020-03-15,deaths,1
 country,Thailand (Country),2020-03-15,recovered,35
+country,Thailand (Country),2020-03-16,active,111
+country,Thailand (Country),2020-03-16,confirmed,147
+country,Thailand (Country),2020-03-16,deaths,1
+country,Thailand (Country),2020-03-16,recovered,35
+country,The Bahamas (Country),2020-03-16,active,1
+country,The Bahamas (Country),2020-03-16,confirmed,1
+country,The Bahamas (Country),2020-03-16,deaths,0
+country,The Bahamas (Country),2020-03-16,recovered,0
 country,Togo (Country),2020-03-06,active,1
 country,Togo (Country),2020-03-06,confirmed,1
 country,Togo (Country),2020-03-06,deaths,0
@@ -22175,6 +23243,10 @@ country,Togo (Country),2020-03-15,active,1
 country,Togo (Country),2020-03-15,confirmed,1
 country,Togo (Country),2020-03-15,deaths,0
 country,Togo (Country),2020-03-15,recovered,0
+country,Togo (Country),2020-03-16,active,1
+country,Togo (Country),2020-03-16,confirmed,1
+country,Togo (Country),2020-03-16,deaths,0
+country,Togo (Country),2020-03-16,recovered,0
 country,Trinidad and Tobago (Country),2020-03-14,active,2
 country,Trinidad and Tobago (Country),2020-03-14,confirmed,2
 country,Trinidad and Tobago (Country),2020-03-14,deaths,0
@@ -22183,6 +23255,10 @@ country,Trinidad and Tobago (Country),2020-03-15,active,2
 country,Trinidad and Tobago (Country),2020-03-15,confirmed,2
 country,Trinidad and Tobago (Country),2020-03-15,deaths,0
 country,Trinidad and Tobago (Country),2020-03-15,recovered,0
+country,Trinidad and Tobago (Country),2020-03-16,active,4
+country,Trinidad and Tobago (Country),2020-03-16,confirmed,4
+country,Trinidad and Tobago (Country),2020-03-16,deaths,0
+country,Trinidad and Tobago (Country),2020-03-16,recovered,0
 country,Tunisia (Country),2020-03-04,active,1
 country,Tunisia (Country),2020-03-04,confirmed,1
 country,Tunisia (Country),2020-03-04,deaths,0
@@ -22231,6 +23307,10 @@ country,Tunisia (Country),2020-03-15,active,18
 country,Tunisia (Country),2020-03-15,confirmed,18
 country,Tunisia (Country),2020-03-15,deaths,0
 country,Tunisia (Country),2020-03-15,recovered,0
+country,Tunisia (Country),2020-03-16,active,20
+country,Tunisia (Country),2020-03-16,confirmed,20
+country,Tunisia (Country),2020-03-16,deaths,0
+country,Tunisia (Country),2020-03-16,recovered,0
 country,Turkey (Country),2020-03-11,active,1
 country,Turkey (Country),2020-03-11,confirmed,1
 country,Turkey (Country),2020-03-11,deaths,0
@@ -22251,6 +23331,10 @@ country,Turkey (Country),2020-03-15,active,6
 country,Turkey (Country),2020-03-15,confirmed,6
 country,Turkey (Country),2020-03-15,deaths,0
 country,Turkey (Country),2020-03-15,recovered,0
+country,Turkey (Country),2020-03-16,active,18
+country,Turkey (Country),2020-03-16,confirmed,18
+country,Turkey (Country),2020-03-16,deaths,0
+country,Turkey (Country),2020-03-16,recovered,0
 country,UK (Country),2020-01-31,active,2
 country,UK (Country),2020-01-31,confirmed,2
 country,UK (Country),2020-01-31,deaths,0
@@ -22463,6 +23547,10 @@ country,Ukraine (Country),2020-03-15,active,2
 country,Ukraine (Country),2020-03-15,confirmed,3
 country,Ukraine (Country),2020-03-15,deaths,1
 country,Ukraine (Country),2020-03-15,recovered,0
+country,Ukraine (Country),2020-03-16,active,6
+country,Ukraine (Country),2020-03-16,confirmed,7
+country,Ukraine (Country),2020-03-16,deaths,1
+country,Ukraine (Country),2020-03-16,recovered,0
 country,United Arab Emirates (Country),2020-01-29,active,4
 country,United Arab Emirates (Country),2020-01-29,confirmed,4
 country,United Arab Emirates (Country),2020-01-29,deaths,0
@@ -22651,6 +23739,10 @@ country,United Arab Emirates (Country),2020-03-15,active,75
 country,United Arab Emirates (Country),2020-03-15,confirmed,98
 country,United Arab Emirates (Country),2020-03-15,deaths,0
 country,United Arab Emirates (Country),2020-03-15,recovered,23
+country,United Arab Emirates (Country),2020-03-16,active,75
+country,United Arab Emirates (Country),2020-03-16,confirmed,98
+country,United Arab Emirates (Country),2020-03-16,deaths,0
+country,United Arab Emirates (Country),2020-03-16,recovered,23
 country,United Kingdom (Country),2020-03-11,active,432
 country,United Kingdom (Country),2020-03-11,confirmed,459
 country,United Kingdom (Country),2020-03-11,deaths,8
@@ -22671,6 +23763,10 @@ country,United Kingdom (Country),2020-03-15,active,1104
 country,United Kingdom (Country),2020-03-15,confirmed,1144
 country,United Kingdom (Country),2020-03-15,deaths,21
 country,United Kingdom (Country),2020-03-15,recovered,19
+country,United Kingdom (Country),2020-03-16,active,1474
+country,United Kingdom (Country),2020-03-16,confirmed,1551
+country,United Kingdom (Country),2020-03-16,deaths,56
+country,United Kingdom (Country),2020-03-16,recovered,21
 country,Uruguay (Country),2020-03-14,active,4
 country,Uruguay (Country),2020-03-14,confirmed,4
 country,Uruguay (Country),2020-03-14,deaths,0
@@ -22679,6 +23775,10 @@ country,Uruguay (Country),2020-03-15,active,4
 country,Uruguay (Country),2020-03-15,confirmed,4
 country,Uruguay (Country),2020-03-15,deaths,0
 country,Uruguay (Country),2020-03-15,recovered,0
+country,Uruguay (Country),2020-03-16,active,8
+country,Uruguay (Country),2020-03-16,confirmed,8
+country,Uruguay (Country),2020-03-16,deaths,0
+country,Uruguay (Country),2020-03-16,recovered,0
 country,US (Country),2020-01-22,active,1
 country,US (Country),2020-01-22,confirmed,1
 country,US (Country),2020-01-22,deaths,0
@@ -22895,10 +23995,18 @@ country,US (Country),2020-03-15,active,3424
 country,US (Country),2020-03-15,confirmed,3499
 country,US (Country),2020-03-15,deaths,63
 country,US (Country),2020-03-15,recovered,12
+country,US (Country),2020-03-16,active,4530
+country,US (Country),2020-03-16,confirmed,4632
+country,US (Country),2020-03-16,deaths,85
+country,US (Country),2020-03-16,recovered,17
 country,Uzbekistan (Country),2020-03-15,active,1
 country,Uzbekistan (Country),2020-03-15,confirmed,1
 country,Uzbekistan (Country),2020-03-15,deaths,0
 country,Uzbekistan (Country),2020-03-15,recovered,0
+country,Uzbekistan (Country),2020-03-16,active,6
+country,Uzbekistan (Country),2020-03-16,confirmed,6
+country,Uzbekistan (Country),2020-03-16,deaths,0
+country,Uzbekistan (Country),2020-03-16,recovered,0
 country,Vatican City (Country),2020-03-06,active,1
 country,Vatican City (Country),2020-03-06,confirmed,1
 country,Vatican City (Country),2020-03-06,deaths,0
@@ -22923,6 +24031,10 @@ country,Venezuela (Country),2020-03-15,active,10
 country,Venezuela (Country),2020-03-15,confirmed,10
 country,Venezuela (Country),2020-03-15,deaths,0
 country,Venezuela (Country),2020-03-15,recovered,0
+country,Venezuela (Country),2020-03-16,active,17
+country,Venezuela (Country),2020-03-16,confirmed,17
+country,Venezuela (Country),2020-03-16,deaths,0
+country,Venezuela (Country),2020-03-16,recovered,0
 country,Viet Nam (Country),2020-03-10,active,15
 country,Viet Nam (Country),2020-03-10,confirmed,31
 country,Viet Nam (Country),2020-03-10,deaths,0
@@ -23135,6 +24247,10 @@ country,Vietnam (Country),2020-03-15,active,40
 country,Vietnam (Country),2020-03-15,confirmed,56
 country,Vietnam (Country),2020-03-15,deaths,0
 country,Vietnam (Country),2020-03-15,recovered,16
+country,Vietnam (Country),2020-03-16,active,45
+country,Vietnam (Country),2020-03-16,confirmed,61
+country,Vietnam (Country),2020-03-16,deaths,0
+country,Vietnam (Country),2020-03-16,recovered,16
 international,Non-China (International),2020-01-22,active,8
 international,Non-China (International),2020-01-22,confirmed,8
 international,Non-China (International),2020-01-22,deaths,0
@@ -23351,6 +24467,10 @@ international,Non-China (International),2020-03-15,active,74190
 international,Non-China (International),2020-03-15,confirmed,86444
 international,Non-China (International),2020-03-15,deaths,3237
 international,Non-China (International),2020-03-15,recovered,9017
+international,Non-China (International),2020-03-16,active,86426
+international,Non-China (International),2020-03-16,confirmed,100513
+international,Non-China (International),2020-03-16,deaths,3909
+international,Non-China (International),2020-03-16,recovered,10178
 international,Global (International),2020-01-22,active,510
 international,Global (International),2020-01-22,confirmed,555
 international,Global (International),2020-01-22,deaths,17
@@ -23567,3 +24687,7 @@ international,Global (International),2020-03-15,active,84973
 international,Global (International),2020-03-15,confirmed,167447
 international,Global (International),2020-03-15,deaths,6440
 international,Global (International),2020-03-15,recovered,76034
+international,Global (International),2020-03-16,active,96332
+international,Global (International),2020-03-16,confirmed,181546
+international,Global (International),2020-03-16,deaths,7126
+international,Global (International),2020-03-16,recovered,78088
