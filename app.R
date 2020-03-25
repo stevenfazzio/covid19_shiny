@@ -11,6 +11,7 @@ library(shiny)
 library(tidyverse)
 library(lubridate)
 library(scales)
+library(plotly)
 
 all_data <- read_csv('data/processed_data.csv')
 
@@ -61,7 +62,7 @@ ui <- function(request) {
             
             # Show a plot of the generated distribution
             mainPanel(
-                plotOutput("forecastPlot")
+                plotlyOutput("forecastPlot")
             )
         ),
         bookmarkButton()
@@ -110,17 +111,19 @@ server <- function(input, output, session) {
             filter(statistic %in% input$statistics) 
     })
 
-    output$forecastPlot <- renderPlot({
+    output$forecastPlot <- renderPlotly({
         
         num_breaks <- ceiling(log10(max(plot_data()$num_people))) - 
             floor(log10(min(plot_data()$num_people))) + 1
         
-        plot_data() %>% 
+        covid_plot <- plot_data() %>% 
             ggplot(aes(x = date, y = num_people, color = statistic)) +
             geom_line(aes(linetype = type)) +
             scale_y_log10(label = label_comma(accuracy = 1), breaks = breaks_log(num_breaks)) +
             scale_x_date(date_breaks = '1 week', date_labels = '%b %d') +
             ggtitle(input$region)
+        
+        ggplotly(covid_plot)
         
     })
 }
