@@ -17,7 +17,6 @@ ca_state_abb <- tibble(
 )
 state_abb <- bind_rows(us_state_abb, ca_state_abb)
 
-
 file_reader <- function(filename, path) {
   date <- str_extract(filename, '\\d{2}-\\d{2}-\\d{4}') %>% 
     mdy()
@@ -25,9 +24,15 @@ file_reader <- function(filename, path) {
   str_c(path, filename) %>% 
     read_csv() %>% 
     mutate(date = date) %>% 
+    rename_at(
+      vars(starts_with('Province')), ~'state',
+    ) %>% 
+    rename_at(
+      vars(starts_with('Country')), ~'country',
+    ) %>% 
     select(
-      state = `Province/State`,
-      country = `Country/Region`,
+      state,
+      country,
       date,
       confirmed = Confirmed,
       deaths = Deaths,
