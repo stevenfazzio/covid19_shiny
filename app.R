@@ -56,7 +56,11 @@ ui <- function(request) {
                              'Volume Threshold',
                              value = 10,
                              min = 1,
-                             step = 1)
+                             step = 1),
+                radioButtons('scale', "Scale:",
+                             c('Logarithmic' = 'log',
+                               'Linear' = 'lin'),
+                             selected = 'log')
                 
             ),
             
@@ -119,9 +123,13 @@ server <- function(input, output, session) {
         covid_plot <- plot_data() %>% 
             ggplot(aes(x = date, y = num_people, color = statistic)) +
             geom_line(aes(linetype = type)) +
-            scale_y_log10(label = label_comma(accuracy = 1), breaks = breaks_log(num_breaks)) +
             scale_x_date(date_breaks = '1 week', date_labels = '%b %d') +
             ggtitle(input$region)
+        
+        if (input$scale == 'log') {
+            covid_plot <- covid_plot + 
+                scale_y_log10(label = label_comma(accuracy = 1), breaks = breaks_log(num_breaks))
+        }
         
         ggplotly(covid_plot)
         
